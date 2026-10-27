@@ -1,0 +1,199 @@
+PLANETARY SCIENCE
+Planetary science is the study of planets, moons, dwarf planets, asteroids, comets, rings, and other planetary bodies.
+It examines how planetary systems form, evolve, and interact with their surrounding environments.
+Planetary science combines astronomy, geology, atmospheric science, chemistry, physics, and space science.
+Comparative planetology compares different planetary bodies to understand their similarities and differences.
+A planetary system contains a star and the bodies that orbit it.
+Planetary bodies can be studied through telescopic observations, spacecraft measurements, laboratory experiments, and computer models.
+
+PLANETARY SYSTEM FORMATION
+Planetary systems generally form from rotating disks of gas and dust surrounding young stars.
+A protoplanetary disk contains gas, dust, and solid material around a newly forming star.
+Dust grains can collide and stick together to form progressively larger solid particles.
+Planetesimals are relatively large solid bodies that form during planetary accretion.
+Protoplanets are growing planetary bodies formed through repeated accretion of material.
+Accretion is the gradual growth of a body through the accumulation of matter.
+Gravity becomes increasingly important as growing bodies attract additional material.
+Collisions between planetary embryos can produce larger planets.
+Differentiation occurs when a planetary body separates into layers according to material density and composition.
+Dense materials such as iron can sink toward a planetary center during differentiation.
+Lighter silicate materials can form mantles and crusts above denser interiors.
+Planetary migration occurs when gravitational interactions change a planet's orbit.
+Orbital resonances occur when orbital periods of bodies have simple numerical relationships.
+Resonances can influence the long-term stability and evolution of planetary systems.
+Volatiles such as water and carbon-bearing compounds can be incorporated into planetary bodies.
+Impacts can transport material between different regions of a planetary system.
+
+PLANET TYPES
+Terrestrial planets are relatively small, rocky planets with solid surfaces.
+Mercury, Venus, Earth, and Mars are the Solar System's terrestrial planets.
+Gas giants are large planets dominated by hydrogen and helium.
+Jupiter and Saturn are gas giants.
+Ice giants contain substantial amounts of water, ammonia, methane, and other heavier compounds beneath their outer atmospheres.
+Uranus and Neptune are ice giants.
+Dwarf planets orbit the Sun and are massive enough for gravity to make them nearly round but have not cleared their orbital neighborhoods.
+Small bodies include asteroids, comets, meteoroids, and other minor objects.
+Planetary classification is based on physical properties, composition, orbital behavior, and formation history.
+
+PLANETARY INTERIORS
+A differentiated rocky planet commonly contains a core, mantle, and crust.
+The core is the deepest major internal layer of a differentiated rocky planet.
+Planetary cores can contain substantial amounts of metallic iron and other dense elements.
+The mantle lies between the core and crust of a rocky planet.
+The mantle is generally composed of silicate minerals and rocks.
+The crust is the outer solid rocky layer of a terrestrial planet.
+Planetary density provides information about internal composition and structure.
+Gravity measurements can reveal variations in subsurface mass distribution.
+Internal heat can originate from formation, radioactive decay, and other planetary processes.
+A planetary dynamo can generate a global magnetic field when electrically conducting material moves inside a planet.
+Not every planetary body has an active global magnetic field.
+Planetary interiors can change as bodies cool, contract, differentiate, or experience geological activity.
+
+PLANETARY SURFACES
+Planetary surfaces record the effects of impacts, volcanism, tectonics, erosion, and weathering.
+Impact craters form when asteroids, comets, or other bodies collide with a planetary surface.
+Crater density can provide information about the relative ages of planetary surfaces.
+Volcanism occurs when molten or partially molten material reaches or affects a planetary surface.
+Lava flows can create extensive volcanic plains.
+Tectonics involves the movement, deformation, or fracturing of planetary crust.
+Faults are fractures in planetary crust along which movement can occur.
+Mountain ranges can form through tectonic deformation or large impacts.
+Regolith is the loose layer of fragmented material covering many planetary surfaces.
+Regolith can contain dust, rock fragments, impact debris, and altered minerals.
+Weathering changes surface materials through physical or chemical processes.
+Erosion transports or removes surface material through processes such as wind or flowing liquid.
+Some planetary bodies have surfaces strongly modified by atmospheric processes.
+Airless bodies are generally dominated by impact-related surface processes and space weathering.
+Space weathering changes exposed surface materials through radiation and impacts from small particles.
+
+PLANETARY ATMOSPHERES
+An atmosphere is a layer of gas gravitationally bound to a planetary body.
+Atmospheric composition differs greatly among planets and moons.
+Atmospheric pressure depends on the amount and distribution of gas above a surface.
+Temperature varies with altitude, latitude, season, surface properties, and atmospheric composition.
+Atmospheric circulation transports heat and chemical constituents around a planetary body.
+Winds are large-scale movements of atmospheric gases.
+Clouds form when atmospheric gases or vapors condense into particles or droplets.
+The greenhouse effect occurs when atmospheric gases absorb and re-emit thermal radiation.
+A strong greenhouse effect can substantially increase a planet's surface temperature.
+Atmospheric escape occurs when particles leave a planet's gravitational influence.
+Light gases generally escape more easily than heavier gases.
+Solar radiation can alter atmospheric chemistry and contribute to atmospheric loss.
+The ionosphere is a region of an atmosphere containing significant numbers of charged particles.
+Auroral emissions can occur when energetic charged particles interact with an atmosphere.
+Atmospheric observations can reveal composition, temperature, pressure, winds, and chemical processes.
+
+MAGNETOSPHERES
+A magnetosphere is the region around a planetary body influenced by its magnetic field.
+Earth has a global magnetic field and a large magnetosphere.
+The solar wind is a stream of charged particles flowing outward from the Sun.
+The solar wind interacts with planetary magnetic fields.
+Magnetospheres can deflect or redirect many charged particles from the solar wind.
+Magnetic fields can influence the interaction between a planet and its space environment.
+Charged particles can become trapped in planetary radiation belts.
+Auroras occur when energetic charged particles produce light in an upper atmosphere.
+Magnetospheric activity can change during variations in solar activity.
+Magnetic-field measurements help scientists investigate planetary interiors and space environments.
+
+WATER AND VOLATILES
+Water can exist as ice, liquid, or vapor depending on environmental conditions.
+Planetary water can be stored in surface ice, subsurface reservoirs, minerals, or atmospheres.
+Water ice is common in the outer Solar System and in permanently shadowed regions of some bodies.
+Liquid water requires suitable combinations of temperature and pressure.
+Subsurface oceans are liquid-water reservoirs located beneath an outer crust or ice shell.
+Hydrated minerals contain water or hydroxyl groups within their crystal structures.
+Volatiles are substances that can readily vaporize under planetary surface conditions.
+Important planetary volatiles include water, carbon dioxide, methane, ammonia, and nitrogen.
+Volatile distribution provides clues about planetary formation and evolution.
+Sublimation is the direct transition of a substance from solid to gas.
+Condensation is the transition of a gas or vapor into a liquid or solid.
+Volatile loss can alter the long-term composition and climate of a planetary body.
+
+MOONS AND TIDAL PROCESSES
+Natural satellites are bodies that orbit planets, dwarf planets, or other larger bodies.
+Moons can have rocky, icy, or mixed compositions.
+Some moons formed alongside their parent planets, while others were captured or produced by impacts.
+Tides are gravitationally driven deformations of a planetary body or its oceans and atmosphere.
+Tidal forces arise mainly from differences in gravitational pull across an extended body.
+Tidal locking occurs when a moon's rotation period becomes synchronized with its orbital period.
+A tidally locked moon keeps approximately the same hemisphere facing its parent body.
+Tidal heating converts orbital and rotational energy into internal heat through deformation.
+Tidal heating can drive geological or volcanic activity inside some moons.
+Tidal interactions can gradually change the rotation and orbital properties of planetary bodies.
+The study of moons provides information about planetary formation, evolution, and internal activity.
+
+PLANETARY RINGS
+Planetary rings are systems of particles orbiting a planet.
+Ring particles can consist of ice, rock, dust, or mixtures of these materials.
+Saturn has the most prominent ring system in the Solar System.
+Jupiter, Uranus, and Neptune also have ring systems.
+Ring particles can range from microscopic dust to larger solid fragments.
+Gravitational interactions can create gaps, waves, and structures within rings.
+Small moons can influence ring particles through gravitational interactions.
+Shepherd moons can help confine or shape narrow ring structures.
+The Roche limit describes a region where tidal forces can prevent a loosely bound body from remaining intact.
+Ring systems can evolve through collisions, gravitational interactions, and particle loss.
+
+SMALL BODIES
+Asteroids are mostly rocky or metallic small bodies that orbit the Sun.
+Comets contain substantial amounts of volatile ices mixed with dust and rocky material.
+Meteoroids are relatively small natural objects moving through interplanetary space.
+A meteor is the visible phenomenon produced when a meteoroid enters an atmosphere and heats surrounding gas.
+A meteorite is a meteoroid fragment that survives atmospheric passage and reaches a planetary surface.
+Asteroid composition can provide clues about conditions in the early Solar System.
+Comet activity can produce a coma and tail when solar heating releases volatile material.
+Small bodies preserve material that can provide evidence about early planetary-system conditions.
+
+COMPARATIVE PLANETOLOGY
+Mercury has a large metallic core relative to its planetary size.
+Venus has a dense atmosphere and an extremely hot surface.
+Earth has stable surface liquid water and a nitrogen-rich atmosphere with substantial oxygen.
+Mars has a thin atmosphere and evidence of extensive past interaction with liquid water.
+The Moon has a rocky surface with extensive impact cratering and very little atmosphere.
+Jupiter is the largest planet in the Solar System and is dominated by hydrogen and helium.
+Saturn is a gas giant distinguished by its extensive and bright ring system.
+Uranus and Neptune are ice giants with hydrogen, helium, and methane in their outer atmospheres.
+Comparing planets helps identify which processes are controlled by size, composition, distance from the Sun, or geological history.
+Planetary similarities can reveal shared formation processes.
+Planetary differences can reveal how environments evolve under different physical conditions.
+
+PLANETARY EXPLORATION
+A flyby spacecraft observes a planetary body during a close passage without entering orbit.
+An orbiter travels around a planetary body and can make repeated observations.
+A lander reaches a planetary surface and performs measurements from a fixed location.
+A rover moves across a planetary surface while collecting scientific observations.
+Sample-return missions collect material and transport it back to Earth for laboratory analysis.
+Spectroscopy identifies materials by analyzing how they emit, absorb, or reflect electromagnetic radiation.
+Radar can investigate surfaces and subsurface structures.
+Gravimetry measures variations in a body's gravitational field.
+Magnetometry measures magnetic fields around or on planetary bodies.
+Seismology uses seismic waves to investigate internal planetary structure.
+Thermal measurements reveal surface and subsurface temperature properties.
+Imaging provides information about terrain, geology, morphology, and surface changes.
+Spacecraft instruments often combine multiple measurement techniques to study the same planetary process.
+
+HABITABILITY AND PLANETARY EVOLUTION
+Planetary habitability refers to the potential of an environment to support conditions suitable for life.
+Liquid water is considered an important factor in many habitability studies.
+Habitability also depends on available energy sources and chemically useful elements.
+A stable environment can help maintain potentially habitable conditions over long periods.
+Habitability does not mean that life is actually present.
+Scientists study atmospheric composition, surface chemistry, temperature, and water availability when assessing habitability.
+Planetary environments can become less habitable through atmospheric loss, climate changes, impacts, or geological evolution.
+Planetary evolution describes long-term changes in a body's interior, surface, atmosphere, and orbital environment.
+Cooling can reduce geological activity in smaller planetary bodies.
+Large impacts can significantly modify planetary surfaces and atmospheres.
+Volcanism can release gases and reshape planetary surfaces.
+Atmospheric escape can gradually transform a planet's surface environment.
+
+KEY PLANETARY SCIENCE TERMS
+Accretion is the growth of a body through accumulation of matter.
+Differentiation is the separation of planetary material into layers based on density and composition.
+Regolith is loose fragmented material covering a planetary surface.
+Tectonics describes crustal deformation and movement.
+Volcanism involves the movement or eruption of molten material.
+Atmospheric escape is the loss of atmospheric particles into space.
+A magnetosphere is a region controlled by a planetary magnetic field.
+Tidal heating is internal heating caused by repeated gravitational deformation.
+Comparative planetology uses similarities and differences between worlds to study planetary processes.
+Planetary exploration combines spacecraft observations, remote sensing, and direct measurements to investigate planetary bodies.

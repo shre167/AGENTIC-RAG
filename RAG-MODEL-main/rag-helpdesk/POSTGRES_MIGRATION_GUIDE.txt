@@ -1,0 +1,60 @@
+﻿# Migration Guide: Chroma to PostgreSQL with pgvector
+
+## Step 1: Prerequisites
+
+### Install PostgreSQL
+- Windows: Download from https://www.postgresql.org/download/windows/
+- Or use WSL: \pt-get install postgresql postgresql-contrib\
+
+### Install Required Python Packages
+\\\ash
+pip install psycopg2-binary sqlalchemy sqlalchemy-utils pgvector
+\\\
+
+### Create PostgreSQL Database
+\\\ash
+# Connect to PostgreSQL
+psql -U postgres
+
+# Create database and enable pgvector extension
+CREATE DATABASE rag_helpdesk;
+\connect rag_helpdesk;
+CREATE EXTENSION IF NOT EXISTS vector;
+
+# Create a user (optional)
+CREATE USER rag_user WITH PASSWORD 'your_secure_password';
+GRANT ALL PRIVILEGES ON DATABASE rag_helpdesk TO rag_user;
+\\\
+
+## Step 2: Update Configuration
+
+### File: .env
+\\\env
+# PostgreSQL Configuration
+DATABASE_URL=postgresql://rag_user:your_secure_password@localhost:5432/rag_helpdesk
+DATABASE_ECHO=false
+
+# Keep existing configs
+EMBEDDING_MODEL=sentence-transformers/all-mpnet-base-v2
+LLM_MODEL=gpt-4
+\\\
+
+### File: src/config.py
+Add these settings:
+\\\python
+import os
+
+class Config:
+    # ... existing config ...
+    
+    # PostgreSQL Configuration
+    DATABASE_URL: str = os.getenv(
+        "DATABASE_URL",
+        "postgresql://rag_user:your_password@localhost:5432/rag_helpdesk"
+    )
+    DATABASE_ECHO: bool = os.getenv("DATABASE_ECHO", "false").lower() == "true"
+\\\
+
+## Step 3: Create New PostgreSQL Vector Store
+
+Create file: src/postgres_vector_store.py

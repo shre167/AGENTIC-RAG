@@ -1,0 +1,280 @@
+SPACE MISSIONS
+A space mission is an organized operation designed to perform activities beyond Earth's atmosphere.
+Space missions can be robotic, crewed, orbital, planetary, lunar, or astronomical.
+Mission objectives determine the spacecraft design, instruments, trajectory, and operations.
+A mission can involve one spacecraft or multiple coordinated spacecraft.
+Space missions are planned around scientific, technological, commercial, or exploration goals.
+Mission planning includes launch, trajectory, communications, operations, and end-of-mission activities.
+The spacecraft must survive the mechanical and thermal conditions of launch and spaceflight.
+Mission success depends on both hardware reliability and accurate operational planning.
+Space missions can last from minutes to several decades.
+Data returned by spacecraft can provide information unavailable from ground-based observations.
+
+MISSION TYPES
+Earth-observation missions study Earth's atmosphere, land, oceans, and environment.
+Communications missions place satellites into orbit to relay information between locations.
+Navigation missions provide positioning, navigation, and timing services.
+Weather missions monitor atmospheric conditions and support forecasting.
+Astronomy missions observe astronomical objects from space.
+Planetary missions investigate planets, moons, asteroids, and comets.
+Lunar missions study the Moon's surface, interior, environment, and resources.
+Solar missions investigate the Sun and its influence on the space environment.
+Crewed missions transport astronauts to and from space and support human activities in orbit.
+Technology-demonstration missions test new spacecraft systems or instruments.
+
+MISSION PHASES
+A typical mission begins with scientific or engineering requirements.
+Mission designers select spacecraft systems that satisfy these requirements.
+The spacecraft is integrated with its launch vehicle before launch.
+Pre-launch testing verifies mechanical, electrical, thermal, and software systems.
+The launch phase places the spacecraft onto an initial trajectory.
+After launch, the spacecraft may perform deployment and commissioning activities.
+Commissioning verifies that instruments and spacecraft subsystems operate correctly.
+The operational phase begins when the spacecraft is ready to perform its primary mission.
+Mission controllers monitor spacecraft health and send commands from ground stations.
+The mission ends when operations are no longer possible or the planned objectives are completed.
+
+LAUNCH VEHICLES
+A launch vehicle is a rocket designed to carry a payload into space.
+The payload can include satellites, probes, crewed spacecraft, or scientific instruments.
+Rocket engines generate thrust by expelling high-speed exhaust gases.
+Launch vehicles commonly use multiple stages to improve performance.
+A stage can be discarded after its propellant is consumed.
+Staging reduces the mass that later rocket stages must accelerate.
+Liquid-propellant engines commonly use separate fuel and oxidizer systems.
+Solid rocket motors contain propellant in a solid form.
+Some launch vehicles combine liquid and solid propulsion technologies.
+Launch vehicle selection depends on payload mass, destination, orbit, and mission requirements.
+
+ORBIT
+An orbit is a gravitational trajectory followed by an object around another body.
+Earth satellites remain in orbit because their forward motion and gravitational acceleration continually interact.
+Orbital velocity depends on the mass of the central body and the size of the orbit.
+Low Earth orbit is commonly used for Earth observation and many crewed missions.
+Geostationary orbit lies above Earth's equator at an altitude where the orbital period matches Earth's rotation.
+A geostationary satellite appears fixed above a particular longitude when viewed from Earth.
+Polar orbits pass approximately over Earth's polar regions.
+Sun-synchronous orbits are designed so a satellite passes locations at similar local solar times.
+Elliptical orbits have varying distances from the central body.
+Orbital maneuvers change a spacecraft's velocity and therefore change its trajectory.
+
+ESCAPE VELOCITY
+Escape velocity is the minimum speed needed to escape the gravitational influence of a body without further propulsion in the idealized case.
+Escape velocity depends on the body's mass and the distance from its center.
+Earth's escape velocity near the surface is approximately 11.2 kilometers per second.
+A spacecraft does not simply accelerate continuously at escape velocity throughout a mission.
+Rocket missions use controlled changes in velocity to achieve desired trajectories.
+A spacecraft can leave Earth using a launch trajectory with sufficient total energy.
+The required energy depends on the launch site, target orbit, payload, and trajectory.
+Interplanetary missions require additional velocity beyond a low Earth orbit.
+Gravity assists can change spacecraft velocity without using equivalent amounts of onboard propellant.
+Trajectory design balances energy, travel time, and mission constraints.
+
+SPACECRAFT
+A spacecraft is a vehicle or platform designed to operate in space.
+Major spacecraft subsystems include power, communication, thermal control, guidance, navigation, and control.
+Scientific spacecraft also carry instruments designed for specific measurements.
+Solar panels commonly provide electrical power for missions near the Sun.
+Batteries store electrical energy for periods when solar panels cannot provide sufficient power.
+Thermal-control systems prevent spacecraft components from becoming excessively hot or cold.
+Communication systems transmit commands to spacecraft and return mission data to Earth.
+Attitude-control systems maintain or change spacecraft orientation.
+Onboard computers execute software that controls spacecraft functions.
+Redundancy is often used to improve reliability by providing backup components or systems.
+
+PAYLOAD
+The payload is the part of a mission that performs the primary mission objective.
+A scientific payload can contain cameras, spectrometers, radar systems, detectors, or other instruments.
+Payload instruments are designed around specific scientific measurements.
+Payload mass and power requirements influence spacecraft and launch-vehicle design.
+Different instruments can observe different wavelengths or physical properties.
+A spacecraft may carry multiple instruments operating independently or together.
+Calibration is necessary to convert instrument measurements into scientifically useful data.
+Payload data can require substantial onboard storage.
+Some instruments collect data continuously while others operate according to scheduled commands.
+The scientific return of a mission depends strongly on payload capability and reliable operations.
+
+GUIDANCE NAVIGATION AND CONTROL
+Guidance determines the desired path or trajectory of a spacecraft.
+Navigation determines the spacecraft's position and velocity.
+Control systems generate commands that correct spacecraft motion and orientation.
+Attitude refers to the spacecraft's orientation relative to a reference frame.
+Gyroscopes and star trackers can help determine spacecraft orientation.
+Reaction wheels can rotate spacecraft without using propellant.
+Thrusters can change spacecraft attitude or orbital velocity.
+Ground tracking stations provide measurements that help determine spacecraft trajectory.
+Autonomous navigation allows spacecraft to perform some navigation functions without continuous ground commands.
+Reliable guidance, navigation, and control are essential for precise planetary and orbital missions.
+
+COMMUNICATION
+Spacecraft communicate with Earth using radio-frequency or other electromagnetic signals.
+Ground stations contain antennas and electronics for transmitting and receiving signals.
+Deep-space missions require highly sensitive communication systems.
+Communication delay increases with distance because electromagnetic signals travel at the speed of light.
+A command sent to Mars can take several minutes to reach the spacecraft.
+The spacecraft therefore cannot always be controlled in real time.
+Mission teams use scheduled command sequences for distant spacecraft.
+Telemetry contains information about spacecraft health and subsystem status.
+Science data are transmitted through the spacecraft communication system.
+Deep-space communication requires careful management of antenna pointing, data rates, and power.
+
+GROUND SEGMENT
+The ground segment consists of systems and personnel supporting a space mission from Earth.
+Ground stations communicate with spacecraft.
+Mission-control centers monitor spacecraft health and command operations.
+Flight dynamics teams calculate spacecraft trajectories and orbital maneuvers.
+Science operations teams plan observations and process scientific data.
+Ground software converts received telemetry into useful operational information.
+Mission teams schedule communication passes according to spacecraft visibility.
+Deep-space networks use geographically separated ground stations to maintain communication coverage.
+Ground systems can continue supporting a spacecraft even when it is millions of kilometers away.
+A mission is therefore a coordinated system involving both space and ground infrastructure.
+
+TRAJECTORY DESIGN
+A trajectory is the path followed by a spacecraft through space.
+Mission planners calculate trajectories using gravitational and propulsion effects.
+The simplest interplanetary trajectories can be approximated using patched-conic methods.
+More precise trajectory calculations account for multiple gravitational bodies and spacecraft maneuvers.
+Launch windows are periods when planetary positions allow efficient trajectories.
+The relative positions of planets strongly influence interplanetary mission design.
+A Hohmann transfer is an energy-efficient idealized transfer between two circular orbits.
+Gravity assists use a planet's motion to alter a spacecraft's heliocentric trajectory.
+Gravity assists can reduce propellant requirements for some deep-space missions.
+Trajectory optimization balances fuel consumption, travel time, scientific opportunities, and mission risk.
+
+GRAVITY ASSIST
+A gravity assist uses the gravitational field and orbital motion of a celestial body to change a spacecraft's velocity.
+The spacecraft approaches a planet or moon along a planned trajectory.
+The body's gravity bends the spacecraft's path.
+The spacecraft can gain or lose heliocentric energy depending on the encounter geometry.
+The spacecraft does not extract useful energy from the planet without affecting the planet's motion.
+The change in the planet's velocity is extremely small because the planet is much more massive.
+Gravity assists have been used by many interplanetary spacecraft.
+They can enable missions that would otherwise require substantially more propellant.
+Multiple gravity assists can be combined in complex trajectories.
+Gravity-assist planning requires accurate knowledge of planetary positions and spacecraft state.
+
+PLANETARY MISSIONS
+Planetary missions investigate planets and their environments using spacecraft and scientific instruments.
+Flyby missions pass a target without entering a long-term orbit around it.
+Orbiter missions enter orbit around a target body.
+Lander missions descend to a surface and perform measurements from a stationary or mobile platform.
+Rover missions travel across a planetary or lunar surface.
+Sample-return missions collect material and deliver it back to Earth.
+Atmospheric probes descend through the atmosphere of a target planet or moon.
+Multiple mission types can be combined in one exploration program.
+Planetary missions often require autonomous operations because communication delays limit real-time control.
+The choice of mission type depends on scientific objectives, environment, cost, and technical feasibility.
+
+LUNAR MISSIONS
+Lunar missions investigate Earth's Moon from orbit, the surface, or other trajectories.
+Orbiters can map the Moon's surface and measure its gravitational and geological properties.
+Landers can perform measurements directly on the lunar surface.
+Rovers can investigate regions surrounding a landing site.
+Lunar missions study craters, rocks, soil, minerals, topography, and the lunar environment.
+The Moon has no substantial global atmosphere, creating a harsh surface environment.
+Lunar temperatures can vary greatly between illuminated and shadowed regions.
+Permanently shadowed polar regions can preserve volatile materials such as water ice.
+Lunar missions contribute to understanding the Moon's origin and geological history.
+The Moon is also an important target for developing technologies for future deep-space exploration.
+
+MARS MISSIONS
+Mars is a major target for robotic planetary exploration.
+Orbiter missions study the Martian surface, atmosphere, climate, and interior.
+Landers and rovers investigate rocks and soil directly on the surface.
+Mars has a thin atmosphere dominated by carbon dioxide.
+Evidence indicates that liquid water existed on ancient Mars.
+Ancient water-related features include dried channels, valleys, and altered minerals.
+Mars rovers can analyze rocks and soil to investigate geological history.
+Some missions search for environments that could once have supported microbial life.
+Mars missions require autonomous navigation because of communication delays.
+Future exploration concepts include sample return and eventual human missions.
+
+OUTER PLANET MISSIONS
+Jupiter and Saturn have been studied extensively by robotic spacecraft.
+The Voyager spacecraft performed historic flybys of the outer planets.
+Galileo studied Jupiter and its major moons from orbit.
+Cassini investigated Saturn, its rings, atmosphere, and moons.
+Jupiter has a powerful magnetic field and extensive radiation environment.
+Europa, one of Jupiter's major moons, is of interest because it has evidence for a subsurface ocean.
+Saturn's moon Titan has a dense atmosphere and surface lakes of liquid hydrocarbons.
+Outer-planet missions require long travel times and careful power management.
+Radioisotope power systems can support spacecraft operating far from the Sun.
+These missions provide information about giant planets and their diverse moons.
+
+DEEP-SPACE MISSIONS
+Deep-space missions travel far beyond Earth's immediate orbital environment.
+Communication becomes increasingly difficult as spacecraft distance increases.
+Solar energy becomes weaker farther from the Sun.
+Radioisotope power systems are useful for missions to the outer Solar System.
+Deep-space spacecraft often operate autonomously for significant periods.
+Navigation can use ground tracking, optical observations, and onboard sensors.
+Long mission durations require components capable of surviving radiation, thermal cycling, and aging.
+Voyager 1 and Voyager 2 are examples of long-duration deep-space missions.
+New Horizons performed a close flyby of Pluto in 2015.
+Deep-space missions can continue producing scientific data long after their primary encounters.
+
+SPACE TELESCOPES
+A space telescope is an astronomical observatory placed above Earth's atmosphere.
+Space telescopes avoid atmospheric absorption and atmospheric turbulence for many observations.
+Different space telescopes are designed to observe different electromagnetic wavelengths.
+The Hubble Space Telescope has produced observations across ultraviolet, visible, and near-infrared wavelengths.
+The James Webb Space Telescope is optimized primarily for infrared astronomy.
+Infrared observations can reveal cool objects and distant galaxies.
+Space telescopes can observe wavelengths that are strongly absorbed by Earth's atmosphere.
+Observatory missions can remain operational for many years.
+Space telescopes expand the range and quality of astronomical observations.
+They are important tools for studying stars, galaxies, planets, and the early universe.
+
+MISSION DATA
+Telemetry is engineering information sent from a spacecraft to ground systems.
+Science data are measurements collected by mission instruments.
+Raw data often require calibration and processing before scientific interpretation.
+Calibration corrects known instrument responses and systematic effects.
+Mission data are commonly stored in standardized scientific data formats.
+Data processing can remove artifacts and convert instrument measurements into physical quantities.
+Researchers use mission archives to analyze data after the original mission operations end.
+Public archives can make scientific observations available to researchers and the wider community.
+Data preservation allows future researchers to apply improved analysis methods.
+Long-term archives increase the scientific value of space missions.
+
+MISSION RISKS
+Space missions face risks during launch, cruise, operations, and data transmission.
+Launch failures can prevent a spacecraft from reaching its intended trajectory.
+Spacecraft can experience radiation damage to electronics and sensors.
+Thermal extremes can damage components if thermal control fails.
+Micrometeoroids and orbital debris can impact spacecraft.
+Communication failures can prevent ground teams from commanding a spacecraft.
+Software errors can cause incorrect spacecraft behavior.
+Redundant systems can reduce the impact of individual component failures.
+Extensive testing is used to identify weaknesses before launch.
+Mission teams continuously assess spacecraft health and operational risk.
+
+MISSION SUCCESS
+Mission success is evaluated against predefined technical and scientific objectives.
+A mission can remain scientifically valuable even if some secondary objectives fail.
+Partial mission success can occur when only some instruments or mission phases operate as planned.
+Unexpected discoveries can increase a mission's scientific importance.
+Reliable data return is one of the most important measures of scientific mission performance.
+Mission duration can exceed the original design lifetime when spacecraft systems remain healthy.
+Extended missions can provide additional observations without requiring a new launch.
+Mission operations must balance scientific opportunities against spacecraft safety.
+Lessons from completed missions improve the design of future missions.
+Space exploration is therefore an iterative process involving technology development and scientific discovery.
+
+KEY TERMS
+Space mission means an organized operation involving activities in space.
+Launch vehicle means a rocket used to place a payload into space.
+Payload means the part of a spacecraft or launch system that performs the primary mission function.
+Orbit means a gravitational trajectory around a celestial body.
+Trajectory means the path followed by a spacecraft through space.
+Orbital maneuver means a controlled change in spacecraft velocity or orbit.
+Gravity assist means using a body's gravity and motion to alter spacecraft trajectory.
+Flyby means a close passage past a target without entering a long-term orbit.
+Orbiter means a spacecraft designed to operate around a target body.
+Lander means a spacecraft designed to reach and operate on a planetary surface.
+Rover means a mobile surface exploration vehicle.
+Telemetry means engineering and health information transmitted from spacecraft.
+Mission control means the ground facility responsible for monitoring and commanding a mission.
+Ground station means a terrestrial facility used to communicate with spacecraft.
+Deep-space mission means a mission operating far beyond Earth's immediate orbital environment.

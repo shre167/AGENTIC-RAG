@@ -1,0 +1,39 @@
+{
+  "id": "FEAT-002",
+  "type": "test",
+  "description": "Create the golden test set in tests/test_controller.py covering all 8 question categories specified by the user. Tests use mocked pipeline components to avoid requiring live API keys. This FEAT is independent of FEAT-001 — it only touches the tests/ directory and does not depend on the UI changes.",
+  "status": "pending",
+  "steps": [
+    "Step 1 — Read tests/test_page_retrieval.py to understand the mock pattern used in existing tests (MockVectorStore with get_chunks_by_page, MockBM25, direct construction of RAGPipeline with mocked attributes). Follow the same pattern exactly.",
+    "Step 2 — Read src/rag_pipeline/controller.py AgentController.run_retrieval_phase() and src/rag_pipeline/retrieval_runner.py execute_retrieval_attempt() to understand what the controller returns in AgentRetrievalPhase (fields: question_type, retrieval_plan, attempts, final_decision, evidence_assessment, agent_activity, page_match_found, chapter_match_found, search_text, retrieval_mode).",
+    "Step 3 — Create tests/test_controller.py. At the top, define shared fixtures: a MockEmbeddingService that returns a fixed 384-dim zero vector for any input; a MockVectorStore with get_chunks_by_page, collection (with a .get() that returns page/chapter chunks by metadata filter), query() that returns a minimal result dict; a MockBM25 with query() returning ranked chunk dicts; and a build_pipeline() helper that constructs a RAGPipeline instance with these mocks injected (set pipeline.embedding_service, pipeline.vector_store, pipeline.bm25 directly after construction, bypassing __init__ side effects by also setting pipeline.index_loaded=True). All tests skip if os.getenv('LLM_API_KEY') is falsy using pytest.mark.skipif on any test that calls pipeline.answer_question(); tests that only call AgentController.run_retrieval_phase() do NOT need LLM_API_KEY and must never be skipped.",
+    "Step 4 — Write test_general_question(): call AgentController(pipeline).run_retrieval_phase('What is a black hole?', 'hybrid'). Assert phase.question_type == 'general', phase.final_decision in ('answer', 'abstain') (either is valid with mocks), len(phase.attempts) >= 1, phase.agent_activity is not None, 'question_type' in phase.agent_activity.",
+    "Step 5 — Write test_page_specific_pure(): patch the mock vector store's get_chunks_by_page to return two chunks with page_start=42, page_end=42. Call run_retrieval_phase('What is on page 42?', 'hybrid'). Assert phase.question_type == 'page_specific', phase.page_info['is_pure_page_query'] is True, and that any attempt with page_match_found=True appears in phase.attempts.",
+    "Step 6 — Write test_page_specific_semantic(): call run_retrieval_phase('What does page 60 say about dark matter?', 'hybrid'). Assert phase.question_type == 'page_specific', phase.page_info['is_pure_page_query'] is False, phase.page_info['semantic_query'] contains 'dark matter' or similar content tokens.",
+    "Step 7 — Write test_chapter_specific(): patch mock vector store collection.get() to return chunks with chapter_num=3. Call run_retrieval_phase('Summarize chapter 3', 'hybrid'). Assert phase.question_type == 'chapter_specific', phase.chapter_info['chapter_num'] == 3.",
+    "Step 8 — Write test_retry_on_weak_evidence(): configure MockBM25 to return high-scoring results only on the second call (first call returns empty list). Call run_retrieval_phase('quasar accretion disk mechanisms', 'hybrid'). Assert len(phase.attempts) == 2 (retry occurred).",
+    "Step 9 — Write test_abstain_on_insufficient_evidence(): configure all mocks to return empty results. Call run_retrieval_phase('xyzzy_gibberish_notaword_12345', 'hybrid'). Assert phase.final_decision == 'abstain'.",
+    "Step 10 — Write test_multi_intent_detection(): call run_retrieval_phase('What is a pulsar and how does a telescope work?', 'hybrid'). Assert phase.question_type == 'multi_intent'. (The controller does classify this but then falls through to general retrieval — only the type classification is tested here.)",
+    "Step 11 — Write test_book_specific_chapter(): call run_retrieval_phase with a query that mentions a known book alias, e.g. 'What is in chapter 2 of Deep Work?'. Assert phase.chapter_info['chapter_num'] == 2, phase.chapter_info['book_match'] == 'Deep Work' (or the registered canonical key).",
+    "Step 12 — Write test_agent_activity_structure(): call run_retrieval_phase on a general question. Assert that phase.agent_activity contains all required keys: 'question_type', 'retrieval_plan', 'attempts', 'attempt_count', 'retrieval_mode', 'evidence_assessment', 'retry_reason', 'final_decision', 'timings_ms', 'page_match_found', 'chapter_match_found'.",
+    "Step 13 — Run the test suite and fix any import errors or assertion failures. All 9 tests must pass without requiring LLM_API_KEY."
+  ],
+  "acceptance_criteria": [
+    "tests/test_controller.py exists and contains at least 9 test functions",
+    "python -m pytest tests/test_controller.py -v runs without requiring LLM_API_KEY and all tests pass",
+    "No test imports from app.py (avoid Streamlit import side effects)",
+    "test_general_question passes",
+    "test_page_specific_pure passes",
+    "test_page_specific_semantic passes",
+    "test_chapter_specific passes",
+    "test_abstain_on_insufficient_evidence passes",
+    "test_multi_intent_detection passes",
+    "test_agent_activity_structure passes"
+  ],
+  "verification": [
+    "cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m pytest tests/test_controller.py -v",
+    "cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m pytest tests/ -v -k 'not postgres'"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}

@@ -1,0 +1,184 @@
+﻿# MIGRATION GUIDE: Chroma to PostgreSQL with pgvector
+
+## QUICK START (5 Steps)
+
+### Step 1: Install PostgreSQL
+- Download from: https://www.postgresql.org/download/windows/
+- Run installer, remember password
+- Default port: 5432
+
+### Step 2: Create Database
+Open Command Prompt and run:
+`
+psql -U postgres -c "CREATE DATABASE rag_helpdesk;"
+psql -U postgres -d rag_helpdesk -c "CREATE EXTENSION IF NOT EXISTS vector;"
+`
+
+### Step 3: Install Python Dependencies
+`
+pip install psycopg2-binary sqlalchemy sqlalchemy-utils pgvector
+`
+
+### Step 4: Update .env File
+`
+DATABASE_URL=postgresql://postgres:your_password@localhost:5432/rag_helpdesk
+`
+
+### Step 5: Replace Vector Store Class
+In src/rag_pipeline/pipeline.py, change:
+FROM:  from src.vector_store import ChromaVectorStore
+TO:    from src.postgres_vector_store import PostgresVectorStore
+
+Then change:
+FROM:  self.vector_store = ChromaVectorStore(...)
+TO:    self.vector_store = PostgresVectorStore()
+
+---
+
+## KEY DIFFERENCES
+
+CHROMA:
+- Stores in: ./vectorstore/chroma.sqlite3
+- Local file-based
+- SQLite backend
+- Single user
+
+POSTGRESQL:
+- Stores in: PostgreSQL database
+- Network-based (can be remote)
+- ACID compliant
+- Multi-user support
+- Better scaling (100M+ vectors)
+
+---
+
+## FILE CHANGES NEEDED
+
+1. INSTALL: src/postgres_vector_store.py (already provided)
+
+2. UPDATE: src/config.py
+   Add: DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://...")
+
+3. UPDATE: src/rag_pipeline/pipeline.py
+   Replace ChromaVectorStore with PostgresVectorStore
+
+4. UPDATE: .env
+   Add: DATABASE_URL=postgresql://postgres:password@localhost:5432/rag_helpdesk
+
+---
+
+## TESTING
+
+Create test file test_postgres.py:
+
+`python
+from src.postgres_vector_store import PostgresVectorStore
+
+def test():
+    store = PostgresVectorStore()
+    
+    # Test add
+    store.add_documents(
+        texts=["Test"],
+        embeddings=[[0.1]*1536],
+        metadatas=[{"book": "Test"}],
+        ids=["test_1"]
+    )
+    
+    # Test query
+    results = store.query([0.1]*1536, n_results=1)
+    print(f"Success: {len(results['ids'][0])} results")
+
+test()
+`
+
+Run: python test_postgres.py
+
+---
+
+## MIGRATION EXISTING DATA
+
+To migrate chunks from Chroma to PostgreSQL:
+
+`python
+from src.vector_store import ChromaVectorStore
+from src.postgres_vector_store import PostgresVectorStore
+from src.config import VECTORSTORE_DIR
+
+chroma = ChromaVectorStore(persist_directory=VECTORSTORE_DIR)
+postgres = PostgresVectorStore()
+
+# Get all chunks from Chroma
+data = chroma.collection.get(include=["documents", "metadatas", "embeddings"])
+
+# Insert into PostgreSQL
+postgres.add_documents(
+    texts=data["documents"],
+    embeddings=data["embeddings"],
+    metadatas=data["metadatas"],
+    ids=data["ids"],
+)
+
+print(f"Migrated {len(data['ids'])} chunks")
+`
+
+---
+
+## TROUBLESHOOTING
+
+ERROR: psql not found
+FIX: Add PostgreSQL bin to PATH:
+  Set PATH to include: C:\Program Files\PostgreSQL\15\bin\
+
+ERROR: extension vector not found
+FIX: Install pgvector extension:
+  psql -U postgres -d rag_helpdesk -c "CREATE EXTENSION vector;"
+
+ERROR: connection refused
+FIX: Check PostgreSQL is running:
+  Services > PostgreSQL
+
+ERROR: permission denied
+FIX: Grant privileges:
+  psql -U postgres -d rag_helpdesk -c "GRANT ALL ON SCHEMA public TO PUBLIC;"
+
+---
+
+## PERFORMANCE
+
+Once running, add indexes for speed:
+
+`sql
+psql -U postgres -d rag_helpdesk
+
+CREATE INDEX idx_book_title ON chunks(book_title);
+CREATE INDEX idx_chapter ON chunks(chapter_num);
+CREATE INDEX idx_embedding ON chunks USING ivfflat (embedding vector_cosine_ops);
+
+ANALYZE chunks;
+`
+
+---
+
+## ROLLBACK (If needed)
+
+To go back to Chroma:
+1. Change import back to ChromaVectorStore
+2. Change pipeline initialization back
+3. Restart app
+
+Your Chroma data is still in ./vectorstore/ untouched.
+
+---
+
+## BENEFITS OF POSTGRESQL
+
+✓ Scales to 100M+ vectors
+✓ Multiple concurrent users
+✓ Full SQL querying
+✓ ACID compliance
+✓ Better indexing
+✓ Persistent across restarts
+✓ Can be cloud-hosted (AWS RDS, etc)
+✓ Built-in backup/replication
+

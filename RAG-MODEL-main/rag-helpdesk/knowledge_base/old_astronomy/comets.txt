@@ -1,0 +1,228 @@
+COMETS — OVERVIEW
+Comets are small Solar System bodies that contain significant amounts of ice.
+They orbit the Sun and can develop visible activity when heated.
+A comet's nucleus is its solid central body.
+The nucleus contains a mixture of ice, dust, and rocky material.
+Common cometary ices include water, carbon dioxide, and carbon monoxide.
+When a comet approaches the Sun, some surface ices begin to sublimate.
+Sublimation converts solid ice directly into gas.
+Released gas carries dust away from the nucleus.
+This produces a surrounding atmosphere called the coma.
+A comet can develop one or more tails when sufficiently active.
+Comet tails can extend millions of kilometers into space.
+
+COMET STRUCTURE
+A comet consists primarily of a nucleus and, when active, a coma.
+The nucleus is the solid part of the comet.
+The nucleus is generally irregular rather than perfectly spherical.
+Its surface can contain dust, rocks, cliffs, pits, and fractures.
+The coma forms from gas and dust released from the nucleus.
+The coma can become much larger than the nucleus itself.
+A comet's tails develop from material escaping from the coma.
+The nucleus remains relatively compact compared with the surrounding coma.
+Comet structure changes as the comet moves closer to or farther from the Sun.
+Comets are therefore dynamic bodies rather than permanently unchanging objects.
+
+NUCLEUS
+The nucleus contains most of a comet's solid mass.
+It is composed of frozen volatile compounds mixed with dust and rock.
+Water ice is generally an important component of comet nuclei.
+Carbon-bearing compounds are also present in many comets.
+The surface can become covered by a dark layer of dust and organic material.
+This surface can reduce how much sunlight penetrates the nucleus.
+Jets can form where localized regions release gas and dust.
+The activity of individual jets can change as the nucleus rotates.
+Different regions of a nucleus can have different compositions.
+Spacecraft observations have provided direct measurements of several comet nuclei.
+
+COMA
+The coma is a cloud of gas and dust surrounding an active nucleus.
+It forms when solar heating causes volatile materials to escape.
+The coma can expand to hundreds of thousands of kilometers.
+Its size depends on the comet's activity and distance from the Sun.
+The coma contains molecules released directly from the nucleus.
+Solar radiation can break these molecules into smaller fragments.
+The coma is not a solid structure.
+Gas and dust continuously move through the coma.
+The coma can become brighter as cometary activity increases.
+Earth-based telescopes can observe the coma when a comet becomes sufficiently active.
+
+DUST TAIL
+A dust tail consists mainly of solid particles released from the nucleus.
+Sunlight pushes dust particles away from the Sun through radiation pressure.
+The dust tail generally curves along the comet's orbital path.
+Larger dust particles are influenced more strongly by the comet's motion.
+The appearance of a dust tail changes as the viewing geometry changes.
+Dust tails can appear broad and curved in photographs.
+They can contain particles ranging from very fine dust to larger grains.
+The brightness of a dust tail depends on particle size and illumination.
+Dust released during previous passages can remain along the comet's orbit.
+This material can contribute to meteor showers when Earth crosses the debris stream.
+
+ION TAIL
+An ion tail is composed primarily of charged gas molecules.
+Solar ultraviolet radiation and charged particles help ionize cometary gases.
+The solar wind carries ions away from the comet.
+The ion tail points approximately away from the Sun.
+Unlike the dust tail, the ion tail is usually straighter.
+Its direction can change with variations in the solar wind.
+Ion tails can extend extremely long distances.
+The tail can contain ionized molecules such as carbon monoxide and water products.
+Magnetic fields carried by the solar wind influence ion-tail structure.
+Ion tails demonstrate the interaction between cometary material and the solar environment.
+
+COMET ACTIVITY
+Cometary activity increases as a comet approaches the Sun.
+Solar heating raises temperatures at the surface and below it.
+Volatile ices can then sublimate into gas.
+Escaping gas can drag dust particles away from the surface.
+Jets and localized outbursts can produce irregular activity.
+Activity usually decreases as the comet moves away from the Sun.
+Not all comets become equally active.
+Activity depends on composition, rotation, surface properties, and solar distance.
+Some comets can experience sudden increases in brightness.
+Repeated passages near the Sun can gradually alter a comet's surface.
+
+ORBITAL CHARACTERISTICS
+Comets generally travel around the Sun on elliptical orbits.
+Some comet orbits are highly elongated.
+Highly elliptical comets can spend most of their time far from the Sun.
+Their activity becomes strongest during relatively close solar approaches.
+Comet orbital periods can range from years to thousands of years.
+Short-period comets generally return to the inner Solar System more frequently.
+Long-period comets can take thousands or millions of years to return.
+Planetary gravitational encounters can significantly change comet orbits.
+Jupiter can strongly influence the trajectories of some comets.
+Orbital calculations allow astronomers to predict future comet appearances.
+
+SHORT-PERIOD COMETS
+Short-period comets have orbital periods generally shorter than 200 years.
+Many are associated with reservoirs of icy bodies beyond Neptune.
+The Kuiper Belt is an important source region for many short-period comets.
+The Jupiter-family comets are strongly influenced by Jupiter's gravity.
+Their orbits can be changed through close encounters with giant planets.
+Repeated solar approaches cause progressive loss of volatile material.
+Some short-period comets eventually become less active.
+Their surfaces can develop insulating layers of dust and organic material.
+Halley's Comet is an example of a short-period comet.
+Halley's Comet returns to the inner Solar System roughly every 76 years.
+
+LONG-PERIOD COMETS
+Long-period comets have orbital periods longer than about 200 years.
+Many have extremely elongated orbits.
+They can originate from distant reservoirs of icy bodies.
+The Oort Cloud is considered a major source of long-period comets.
+Passing stars and gravitational interactions can disturb distant cometary objects.
+A disturbed object can enter an orbit that approaches the inner Solar System.
+Long-period comets may be observed only once within a human lifetime.
+Their distant origins make their orbital histories difficult to reconstruct.
+Some long-period comets can approach the Sun from nearly any direction.
+Their unpredictable appearances can make them important targets for surveys.
+
+KUIPER BELT
+The Kuiper Belt is a region beyond Neptune containing many icy bodies.
+It extends roughly from Neptune's orbital region to several tens of astronomical units.
+Many trans-Neptunian objects are found in the Kuiper Belt.
+The region contains objects with different sizes and compositions.
+Some Kuiper Belt objects can become comets.
+Gravitational interactions can move icy bodies into comet-like orbits.
+The Kuiper Belt preserves material from the outer Solar System.
+Pluto is one of the best-known objects associated with this region.
+Kuiper Belt objects help scientists study the early Solar System.
+The region is an important source of short-period comet populations.
+
+OORT CLOUD
+The Oort Cloud is a proposed distant reservoir of icy bodies.
+It is expected to surround the Solar System at enormous distances.
+The Oort Cloud has not been directly imaged as a collection of individual objects.
+Its existence is inferred from the orbits of long-period comets.
+Gravitational disturbances can send Oort Cloud objects toward the Sun.
+Passing stars may influence the orbits of distant objects.
+The Galactic environment can also affect the outer comet reservoir.
+The Oort Cloud is much farther away than the Kuiper Belt.
+Its outer boundary is not known precisely.
+It represents an important concept in models of Solar System formation.
+
+COMET COMPOSITION
+Comets contain water and other volatile ices.
+Carbon dioxide and carbon monoxide are common volatile components.
+Methane and ammonia can also occur in cometary material.
+Dust contains silicate minerals and carbon-rich compounds.
+Organic molecules have been detected in cometary material.
+The exact composition differs between individual comets.
+Spectroscopy allows astronomers to identify molecules in comet atmospheres.
+Spacecraft can directly sample gas and dust released by a comet.
+Laboratory analysis of returned comet samples can provide additional information.
+Comet composition preserves clues about conditions in the early Solar System.
+
+COMETS AND THE EARLY SOLAR SYSTEM
+Comets formed from material present in the young Solar System.
+Many remained in cold regions where volatile compounds could survive.
+Their low-temperature histories can preserve primitive material.
+Comets therefore act as natural records of early Solar System chemistry.
+Their isotopic compositions can be compared with material found on Earth.
+Scientists investigate whether comets contributed water or organic compounds to early Earth.
+The exact contribution of comets to Earth's water remains an active research question.
+Comet samples can reveal chemical compounds that formed before the planets.
+Studying comets helps distinguish between primitive and processed Solar System material.
+Comets connect planetary science with astronomy and organic chemistry.
+
+METEOR SHOWERS
+Meteor showers can occur when Earth passes through debris left along a comet's orbit.
+Small particles enter Earth's atmosphere at high speed.
+Friction and atmospheric interactions heat the particles and surrounding gas.
+The resulting streaks of light are called meteors.
+A meteor shower appears to originate from a particular region of the sky.
+This apparent origin is called the radiant.
+The radiant is determined by the direction of the debris stream.
+Different cometary debris streams produce different meteor showers.
+The Perseid meteor shower is associated with Comet Swift-Tuttle.
+The Orionid meteor shower is associated with debris from Halley's Comet.
+
+SPACECRAFT EXPLORATION
+Spacecraft have visited several comets at close range.
+ESA's Giotto spacecraft made a close encounter with Halley's Comet in 1986.
+NASA's Stardust mission collected particles from the coma of Comet Wild 2.
+The Stardust sample capsule returned cometary material to Earth.
+NASA's Deep Impact mission released an impactor into Comet Tempel 1.
+The impact exposed material beneath the comet's surface.
+ESA's Rosetta mission orbited Comet 67P/Churyumov-Gerasimenko.
+Rosetta studied the comet over an extended period.
+Its Philae lander performed the first controlled landing on a comet nucleus.
+These missions greatly improved knowledge of comet structure and activity.
+
+ROSETTA AND COMET 67P
+Comet 67P/Churyumov-Gerasimenko was the target of ESA's Rosetta mission.
+Rosetta entered orbit around the comet in 2014.
+The mission observed the comet as it approached the Sun.
+Its observations showed that cometary activity can vary strongly with solar distance.
+The nucleus of 67P has a distinctive two-lobed shape.
+The two lobes are connected by a narrower region.
+Rosetta detected complex organic molecules in the comet's environment.
+Philae landed on the comet in November 2014.
+The mission continued studying 67P until September 2016.
+Rosetta provided detailed evidence about comet surfaces, jets, dust, and gases.
+
+COMET LIFECYCLE
+A comet may remain inactive while far from the Sun.
+Solar heating increases as the comet approaches the inner Solar System.
+Volatile ices begin to sublimate at appropriate distances.
+The coma and tails become more prominent during increased activity.
+The comet reaches its strongest activity near its perihelion in many cases.
+After perihelion, solar heating decreases as the comet moves away.
+Activity gradually weakens and the coma may disappear.
+Repeated passages can remove volatile material from near-surface regions.
+A comet can eventually become depleted or dormant.
+Comet evolution depends on composition, orbit, rotation, and surface structure.
+
+KEY TERMS
+Comet: An icy small Solar System body that can become active near the Sun.
+Nucleus: The solid central body of a comet.
+Coma: The cloud of gas and dust surrounding an active comet nucleus.
+Sublimation: Direct conversion of a solid into a gas.
+Dust tail: A tail made mainly of solid particles pushed by sunlight and shaped by orbital motion.
+Ion tail: A tail of charged particles carried away by the solar wind.
+Perihelion: The point in an orbit closest to the Sun.
+Kuiper Belt: A distant region containing many icy bodies beyond Neptune.
+Oort Cloud: A proposed distant reservoir of icy bodies surrounding the Solar System.
+Meteor shower: A group of meteors produced when Earth crosses a debris stream.

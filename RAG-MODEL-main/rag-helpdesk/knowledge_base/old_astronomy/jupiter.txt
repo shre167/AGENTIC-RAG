@@ -1,0 +1,262 @@
+JUPITER
+
+1. OVERVIEW
+   Jupiter is the fifth planet from the Sun.
+   Jupiter is the largest planet in the Solar System.
+   Jupiter is a gas giant.
+   Jupiter is composed primarily of hydrogen and helium.
+   Jupiter does not have a solid surface like Earth.
+   The visible cloud tops form the upper part of Jupiter's atmosphere.
+   Jupiter has a powerful magnetic field.
+   Jupiter has a large system of natural satellites.
+   Jupiter has a faint ring system.
+   Jupiter rotates faster than any other planet in the Solar System.
+   One Jupiter rotation takes about 10 hours.
+   Jupiter takes approximately 12 Earth years to orbit the Sun.
+   Jupiter has a mass more than 300 times that of Earth.
+   Jupiter is about 11 times wider than Earth.
+   Jupiter plays an important role in studies of giant planet formation and evolution.
+
+2. BASIC PROPERTIES
+   Jupiter has a diameter of approximately 139,820 kilometers.
+   Jupiter has an average distance from the Sun of about 778 million kilometers.
+   Jupiter receives much less sunlight than Earth because of its greater distance from the Sun.
+   Jupiter has an average orbital speed of about 13 kilometers per second.
+   Jupiter's rapid rotation causes a noticeable equatorial bulge.
+   Jupiter's equatorial diameter is larger than its polar diameter.
+   Jupiter's density is lower than Earth's because it contains large amounts of hydrogen and helium.
+   Jupiter's enormous mass produces strong surface-level gravity at its cloud tops.
+   Jupiter has no clearly defined solid surface.
+   Pressure and temperature increase continuously with depth.
+
+3. FORMATION
+   Jupiter formed approximately 4.5 billion years ago.
+   Jupiter formed from material in the early Solar System.
+   The planet formed in the colder outer region of the protoplanetary disk.
+   Hydrogen and helium were abundant in the early Solar System.
+   Jupiter accumulated a large amount of gas during its formation.
+   Its large mass allowed it to retain substantial hydrogen and helium.
+   The exact details of Jupiter's formation are still studied.
+   Models of Jupiter's formation help explain the structure of the Solar System.
+   Jupiter's composition provides evidence about conditions in the early planetary system.
+
+4. ORBIT
+   Jupiter follows an elliptical orbit around the Sun.
+   Jupiter's average orbital distance is approximately 778 million kilometers.
+   Jupiter completes one orbit in about 11.86 Earth years.
+   Jupiter travels around the Sun at an average speed of approximately 13 kilometers per second.
+   Jupiter's orbit is farther from the Sun than those of the terrestrial planets.
+   Jupiter's orbital period is much longer than Earth's.
+   The planet's large mass influences the orbits of many smaller Solar System bodies.
+   Jupiter's gravitational influence affects asteroids, comets, and other planets.
+   Jupiter is sometimes described as an important gravitational perturber in the Solar System.
+
+5. ROTATION
+   Jupiter rotates extremely rapidly.
+   One rotation takes approximately 9 hours and 56 minutes.
+   Jupiter has the shortest rotation period of all eight planets.
+   Rapid rotation causes Jupiter to have a pronounced equatorial bulge.
+   Jupiter's atmosphere rotates at different speeds depending on latitude.
+   This difference is called differential rotation.
+   The rapid rotation contributes to the formation of strong atmospheric bands.
+   Jupiter's rotation influences its powerful weather systems.
+   The rapid spin is important for understanding Jupiter's atmospheric dynamics.
+
+6. ATMOSPHERE
+   Jupiter's atmosphere is composed mainly of hydrogen and helium.
+   Small quantities of methane, ammonia, water vapor, and other compounds are also present.
+   The upper atmosphere contains thick layers of clouds.
+   Ammonia ice clouds occur in the upper cloud layers.
+   Deeper clouds contain other compounds formed under higher pressure and temperature.
+   Jupiter's atmosphere has alternating light and dark bands.
+   These bands extend around the planet.
+   The bands are associated with strong east-west winds.
+   Jupiter has powerful storms and atmospheric vortices.
+   The atmosphere becomes denser and hotter with increasing depth.
+
+7. CLOUD BANDS
+   Jupiter's visible atmosphere contains zones and belts.
+   Zones are generally lighter-colored regions.
+   Belts are generally darker-colored regions.
+   Strong winds occur between adjacent atmospheric bands.
+   The winds can reach several hundred kilometers per hour.
+   Different bands can move in different directions.
+   The boundaries between bands can contain turbulent weather.
+   The banded structure results from Jupiter's rapid rotation and atmospheric dynamics.
+   Cloud colors can be influenced by chemical compounds and photochemical reactions.
+   The exact causes of some color variations remain under investigation.
+
+8. GREAT RED SPOT
+   The Great Red Spot is a giant atmospheric storm on Jupiter.
+   It is located in Jupiter's southern hemisphere.
+   The Great Red Spot is an anticyclonic storm.
+   An anticyclone rotates in the opposite sense to a cyclone in the same hemisphere.
+   The storm has persisted for centuries of recorded observations.
+   Its exact origin and long-term evolution are active research topics.
+   The Great Red Spot has changed in size and shape over time.
+   Its reddish color may result from complex atmospheric chemistry.
+   Winds around the storm are extremely strong.
+   The Great Red Spot is one of Jupiter's most recognizable features.
+
+9. STORMS AND WEATHER
+   Jupiter has some of the most powerful weather systems in the Solar System.
+   Large storms can form and interact within the atmosphere.
+   Lightning has been observed in Jupiter's clouds.
+   Water is believed to play an important role in deeper atmospheric processes.
+   Storms can transport heat and material vertically.
+   Atmospheric turbulence creates complex cloud patterns.
+   Jet streams separate many of Jupiter's major cloud bands.
+   Weather systems can persist for long periods.
+   Jupiter's lack of a solid surface allows atmospheric circulation to behave differently from Earth's.
+   Studying Jupiter's weather helps scientists understand giant-planet atmospheres.
+
+10. INTERNAL STRUCTURE
+    Jupiter does not have a solid surface.
+    The atmosphere gradually becomes denser with depth.
+    Hydrogen changes into exotic high-pressure states deeper inside the planet.
+    At sufficiently high pressures, hydrogen can become metallic.
+    Metallic hydrogen can conduct electricity.
+    The metallic hydrogen region is associated with Jupiter's powerful magnetic field.
+    Jupiter may contain a dense central region or diluted core.
+    The exact structure of Jupiter's deep interior remains an active research area.
+    Pressure and temperature increase enormously toward the center.
+    Jupiter's interior stores a large amount of thermal energy.
+
+11. MAGNETIC FIELD
+    Jupiter has the strongest planetary magnetic field in the Solar System.
+    Its magnetosphere is enormous.
+    The magnetosphere extends millions of kilometers into space on the side facing away from the Sun.
+    Jupiter's magnetic field is generated by electrically conducting material deep inside the planet.
+    Metallic hydrogen is believed to contribute to the magnetic field.
+    The magnetic field traps charged particles around Jupiter.
+    Jupiter's magnetosphere interacts strongly with the solar wind.
+    The magnetic environment produces intense radiation belts.
+    Jupiter's magnetic field also interacts with its moons.
+
+12. RADIATION
+    Jupiter has extremely intense radiation belts.
+    The radiation is produced by energetic charged particles trapped by its magnetic field.
+    The radiation environment near Jupiter can be hazardous to spacecraft.
+    Io contributes material to Jupiter's magnetosphere through volcanic activity.
+    Charged particles can become trapped and accelerated around Jupiter.
+    The radiation environment varies with location.
+    Spacecraft designed to study Jupiter require radiation-resistant systems.
+    Understanding Jupiter's radiation belts is important for mission planning.
+
+13. RINGS
+    Jupiter has a faint ring system.
+    The rings are much less prominent than Saturn's rings.
+    Jupiter's rings are composed mainly of fine dust particles.
+    Much of the ring material is believed to originate from impacts on small moons.
+    The main ring is surrounded by fainter ring structures.
+    Jupiter's rings are difficult to observe from Earth.
+    Spacecraft have provided detailed observations of the ring system.
+    The rings demonstrate that ring systems are not unique to Saturn.
+
+14. MOONS
+    Jupiter has a large number of known natural satellites.
+    The four largest moons are Io, Europa, Ganymede, and Callisto.
+    These four moons are called the Galilean moons.
+    Galileo Galilei observed the four large moons in 1610.
+    Io is the most volcanically active world known in the Solar System.
+    Europa has a thick layer of ice covering a likely global subsurface ocean.
+    Ganymede is the largest moon in the Solar System.
+    Ganymede has its own intrinsic magnetic field.
+    Callisto is heavily cratered and has a relatively ancient surface.
+    The Galilean moons are major targets for planetary science.
+
+15. IO
+    Io is the innermost of the four Galilean moons.
+    Io is slightly larger than Earth's Moon.
+    Io is the most volcanically active world known.
+    Its volcanic activity is driven mainly by tidal heating.
+    Jupiter's gravity and interactions with other moons produce strong tidal stresses.
+    Io has numerous active volcanoes.
+    Volcanic eruptions release sulfur compounds and other materials.
+    Io's surface is covered by volcanic plains and deposits.
+    Io contributes material to Jupiter's surrounding plasma environment.
+    Studying Io helps scientists understand extreme tidal heating.
+
+16. EUROPA
+    Europa is one of Jupiter's four Galilean moons.
+    Europa has a surface dominated by water ice.
+    The surface contains cracks, ridges, and relatively few large impact craters.
+    Evidence strongly suggests that a salty ocean exists beneath Europa's ice shell.
+    The subsurface ocean makes Europa an important astrobiological target.
+    Tidal heating may help maintain liquid water beneath the ice.
+    Europa's ocean may contain conditions relevant to habitability.
+    The thickness and structure of the ice shell are active research topics.
+    Europa Clipper is a NASA mission designed to investigate Europa.
+    Europa is one of the most important ocean worlds in the Solar System.
+
+17. GANYMEDE
+    Ganymede is the largest natural satellite in the Solar System.
+    Ganymede is larger in diameter than Mercury.
+    Ganymede is composed mainly of rock and water ice.
+    Ganymede has a differentiated internal structure.
+    It possesses an intrinsic magnetic field.
+    Ganymede is the only moon known to have its own internally generated magnetic field.
+    Evidence indicates that Ganymede contains a deep subsurface ocean.
+    Its surface includes both dark and bright terrains.
+    Ganymede has been studied by several spacecraft.
+    The JUICE mission is designed to investigate Ganymede and other Jovian moons.
+
+18. CALLISTO
+    Callisto is the outermost of the four Galilean moons.
+    Callisto is heavily covered with impact craters.
+    Its surface is among the oldest and most heavily cratered in the Solar System.
+    Callisto is composed primarily of rock and water ice.
+    Evidence suggests that a subsurface ocean may exist beneath its surface.
+    Callisto lies outside Jupiter's main radiation belts compared with the inner Galilean moons.
+    Its lower radiation environment makes it scientifically interesting for future exploration.
+    Callisto's ancient surface preserves evidence of the early Solar System.
+    The moon provides a useful comparison with Io, Europa, and Ganymede.
+
+19. GRAVITATIONAL INFLUENCE
+    Jupiter has enormous gravitational influence because of its large mass.
+    Its gravity affects the trajectories of asteroids and comets.
+    Jupiter can alter the orbital paths of small Solar System bodies.
+    Its gravity contributes to the structure of the asteroid populations.
+    Jupiter's moons are strongly controlled by its gravitational field.
+    Jupiter's gravitational interactions can sometimes send objects toward the inner Solar System.
+    Jupiter can also eject some small bodies into different orbits or out of the Solar System.
+    Its gravitational role is important in models of Solar System evolution.
+    Jupiter is therefore important beyond its own physical environment.
+
+20. EXPLORATION
+    Jupiter has been visited by multiple robotic spacecraft.
+    Pioneer 10 was the first spacecraft to fly past Jupiter.
+    Pioneer 11 also conducted a Jupiter flyby.
+    Voyager 1 and Voyager 2 provided detailed observations of Jupiter and its moons.
+    Galileo became the first spacecraft to orbit Jupiter.
+    Galileo studied Jupiter's atmosphere, magnetosphere, and major moons.
+    Juno entered orbit around Jupiter in 2016.
+    Juno has investigated Jupiter's atmosphere, magnetic field, gravity field, and interior.
+    Juno observations have improved understanding of Jupiter's deep atmospheric structure.
+    Future missions continue to investigate Jupiter's moons and environment.
+
+21. SCIENTIFIC IMPORTANCE
+    Jupiter is a key example of a gas giant planet.
+    Its enormous size makes it important for studying giant-planet formation.
+    Its atmosphere contains powerful storms and complex circulation.
+    Its magnetic field creates an extreme magnetospheric environment.
+    Its large moon system contains worlds with very different geological properties.
+    Europa and Ganymede are important targets in the search for potentially habitable environments.
+    Jupiter's gravity influences many smaller Solar System objects.
+    The planet provides a natural laboratory for studying hydrogen under extreme pressure.
+    Understanding Jupiter helps scientists interpret giant exoplanets around other stars.
+
+22. KEY TERMS
+    Jupiter: The largest planet in the Solar System.
+    Gas giant: A large planet dominated by hydrogen and helium.
+    Great Red Spot: A long-lived anticyclonic storm in Jupiter's atmosphere.
+    Magnetosphere: The region controlled by Jupiter's magnetic field.
+    Metallic hydrogen: A high-pressure conducting state of hydrogen expected deep inside Jupiter.
+    Differential rotation: Rotation in which different atmospheric latitudes move at different speeds.
+    Galilean moons: Io, Europa, Ganymede, and Callisto.
+    Io: Jupiter's volcanically active inner Galilean moon.
+    Europa: An icy Galilean moon believed to contain a subsurface ocean.
+    Ganymede: The largest moon in the Solar System.
+    Callisto: A heavily cratered outer Galilean moon.
+    Tidal heating: Internal heating produced by gravitational deformation.
+    Solar wind: A stream of charged particles flowing outward from the Sun.

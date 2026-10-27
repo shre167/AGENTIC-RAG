@@ -1,0 +1,199 @@
+ISRO AND CHANDRAYAAN
+ISRO stands for Indian Space Research Organisation.
+ISRO is India's national space agency and is responsible for India's civilian space programme.
+ISRO develops launch vehicles, spacecraft, satellites, scientific missions, and space technologies.
+ISRO conducts missions for Earth observation, communication, navigation, meteorology, planetary science, and space exploration.
+ISRO operates launch facilities, spacecraft control centres, research centres, and other space infrastructure.
+India's space programme has developed capabilities in satellite launches, remote sensing, communications, and planetary exploration.
+ISRO has launched missions to the Moon, Mars, and other destinations in space.
+The Chandrayaan programme is India's series of lunar exploration missions.
+Chandrayaan missions are designed to study the Moon using spacecraft instruments and scientific observations.
+Lunar exploration helps scientists understand the Moon's surface, composition, interior, and geological history.
+
+THE MOON
+The Moon is Earth's natural satellite.
+The Moon orbits Earth and rotates on its axis.
+The Moon is tidally locked to Earth.
+Tidal locking causes approximately the same lunar hemisphere to face Earth.
+The Moon has no substantial atmosphere comparable to Earth's atmosphere.
+Its surface is covered by regolith produced largely through impacts and surface weathering processes.
+The lunar surface contains highlands, maria, craters, mountains, valleys, and other geological features.
+Maria are large dark plains formed primarily by ancient volcanic activity.
+The lunar highlands are generally older and more heavily cratered than the maria.
+Impact craters are among the most widespread geological features on the Moon.
+The Moon preserves evidence of impacts that occurred throughout Solar System history.
+Polar regions contain permanently shadowed areas where sunlight does not directly reach the surface.
+Water ice has been detected in some permanently shadowed lunar regions.
+Lunar water resources are scientifically important and potentially relevant to future exploration.
+
+CHANDRAYAAN PROGRAMME
+Chandrayaan means "Moon craft" and refers to India's lunar exploration programme.
+The Chandrayaan programme includes multiple missions with different scientific and technological objectives.
+Chandrayaan-1 was India's first lunar exploration mission.
+Chandrayaan-1 was launched in 2008.
+Chandrayaan-1 operated in lunar orbit and carried scientific instruments from India and international partners.
+The mission investigated the lunar surface and mineral composition using multiple remote-sensing techniques.
+Chandrayaan-1 contributed important observations related to water and hydroxyl on the lunar surface.
+The mission used instruments operating in different parts of the electromagnetic spectrum.
+Chandrayaan-1 demonstrated India's capability to conduct scientific observations from lunar orbit.
+The mission ended after its operational period in 2009.
+Chandrayaan-1 data continue to be useful for lunar science.
+
+CHANDRAYAAN-1 SCIENCE
+Chandrayaan-1 carried instruments for imaging, mineral mapping, X-ray measurements, and other observations.
+The Terrain Mapping Camera was designed to produce high-resolution images of the lunar surface.
+The Moon Mineralogy Mapper was an imaging spectrometer used to study lunar mineral composition.
+The High Energy X-ray Spectrometer investigated elements on the lunar surface using X-ray measurements.
+The mission carried a Moon Impact Probe as a technology and scientific experiment.
+The Moon Impact Probe was released from Chandrayaan-1 and impacted the lunar surface.
+The probe carried instruments for studying the lunar environment during descent.
+Chandrayaan-1 observations helped improve understanding of lunar surface materials.
+Spectral measurements can identify minerals through characteristic absorption features.
+Lunar remote sensing can reveal differences between highlands, maria, and other surface regions.
+
+CHANDRAYAAN-2
+Chandrayaan-2 was India's second lunar exploration mission.
+Chandrayaan-2 was launched in July 2019.
+The mission included an orbiter, a lander named Vikram, and a rover named Pragyan.
+The orbiter was designed to study the Moon from lunar orbit.
+The Vikram lander was designed to perform a controlled landing near the lunar south polar region.
+The Pragyan rover was designed to travel across the lunar surface near the landing site.
+The lander and rover were intended to perform in-situ measurements.
+The Chandrayaan-2 orbiter successfully entered lunar orbit.
+The orbiter has continued to provide scientific observations of the Moon.
+The lander experienced an issue during the final phase of its landing attempt.
+The planned surface mission of the Vikram lander and Pragyan rover was therefore not completed.
+The Chandrayaan-2 orbiter remained an important scientific asset.
+Its instruments continue to provide observations useful for lunar research.
+
+CHANDRAYAAN-2 ORBITER
+The Chandrayaan-2 orbiter carries several scientific instruments for lunar observation.
+The Orbiter High Resolution Camera provides high-resolution images of the lunar surface.
+OHRC observations can be used to study small-scale surface features.
+The Imaging Infrared Spectrometer investigates the composition of lunar surface materials.
+The Dual Frequency Synthetic Aperture Radar can investigate lunar surface and subsurface properties.
+The radar operates at different frequencies to study characteristics of lunar materials.
+The Chandrayaan-2 orbiter also carries instruments for studying lunar exosphere and elemental composition.
+Orbital observations allow repeated imaging of large areas of the Moon.
+Repeated measurements can help identify changes or improve maps of lunar features.
+High-resolution orbital data can support landing-site analysis.
+Orbiter data are useful for geological, mineralogical, and topographic studies.
+
+CHANDRAYAAN-2 LANDER AND ROVER
+Vikram was the lander component of Chandrayaan-2.
+Pragyan was the rover component of Chandrayaan-2.
+The lander was designed to carry scientific instruments to the lunar surface.
+The rover was designed to move around the landing region and perform surface measurements.
+The rover was intended to use solar power for its operations.
+The rover carried instruments intended to determine the elemental composition of lunar soil.
+The lander carried instruments for measuring lunar surface temperature and seismic activity.
+The lander also included an instrument designed to study the lunar plasma environment.
+The landing attempt demonstrated technologies needed for future controlled lunar landings.
+Lessons from Chandrayaan-2 contributed to later lunar mission planning and engineering.
+
+CHANDRAYAAN-3
+Chandrayaan-3 was India's third lunar exploration mission.
+Chandrayaan-3 was launched in July 2023.
+The mission was designed primarily to demonstrate safe and controlled lunar landing and surface mobility.
+Chandrayaan-3 consisted of a lander named Vikram and a rover named Pragyan.
+The spacecraft entered lunar orbit before beginning its landing sequence.
+The Vikram lander successfully performed a controlled landing on the Moon in August 2023.
+The landing site was located in the lunar south polar region.
+India became the first country to successfully land a spacecraft in the lunar south polar region.
+Pragyan was deployed from the Vikram lander after landing.
+The rover performed surface mobility and scientific measurements near the landing site.
+The mission demonstrated India's capability for soft landing and rover operations on the Moon.
+
+CHANDRAYAAN-3 LANDER
+The Vikram lander carried scientific instruments for in-situ lunar measurements.
+The lander measured seismic activity in the vicinity of the landing site.
+The lander measured thermal properties of the lunar surface.
+The lander included an instrument for measuring the plasma environment near the lunar surface.
+The lander's propulsion and navigation systems supported the controlled descent.
+The lander used cameras and sensors to determine its position and assess the surface during descent.
+Landing requires accurate velocity reduction and navigation during the final approach.
+The mission demonstrated controlled landing in a challenging lunar environment.
+Surface instruments provide measurements that cannot be obtained in exactly the same way from orbit.
+Lander observations complement data collected by lunar orbiters.
+
+CHANDRAYAAN-3 ROVER
+Pragyan is the rover carried by Chandrayaan-3.
+The rover was deployed from the Vikram lander after the successful landing.
+Pragyan was designed for short-range mobility on the lunar surface.
+The rover carried instruments for measuring the elemental composition of lunar soil and rocks.
+Laser-based measurements can identify elements in material near the rover.
+X-ray-based measurements can also provide elemental composition information.
+The rover used solar power and communicated through the lander.
+Rover tracks provide a record of the rover's movement across the lunar surface.
+The rover operated during the lunar daytime because its systems depended on sunlight and suitable thermal conditions.
+The rover's measurements provided in-situ information about the composition of the landing region.
+
+CHANDRAYAAN-3 LANDING SITE
+The Chandrayaan-3 landing site is in the Moon's southern polar region.
+Lunar polar regions are scientifically important because of their unusual lighting and thermal conditions.
+Some polar locations experience prolonged illumination while nearby regions can remain permanently shadowed.
+Permanently shadowed regions can preserve volatile materials because they remain extremely cold.
+Water ice deposits in polar regions are important targets for lunar science.
+The landing region contains geological features that can be studied using surface observations.
+Images from the lander can document rocks, soil, craters, and nearby terrain.
+Surface measurements can be compared with orbital observations of the same region.
+Studying polar materials can improve understanding of the Moon's geological and volatile history.
+
+LUNAR SCIENTIFIC INSTRUMENTS
+A camera records images of the lunar surface and surrounding environment.
+A spectrometer measures radiation across wavelengths to identify material properties.
+A seismometer detects ground vibrations and seismic activity.
+A thermal probe measures temperature or thermal properties of lunar materials.
+A laser-induced breakdown spectrometer can determine elemental composition from laser-generated plasma.
+An alpha particle X-ray spectrometer can determine elemental composition using X-ray signatures.
+A radar instrument can investigate surface and subsurface characteristics.
+A spectrometer can study the composition of the lunar exosphere.
+Different instruments provide complementary information about the same lunar environment.
+Combining measurements improves scientific interpretation of lunar surface processes.
+
+LUNAR ORBITAL OBSERVATION
+Orbital spacecraft repeatedly pass over different regions of the Moon.
+Orbiter cameras can produce detailed maps of lunar terrain.
+Spectrometers can map the distribution of minerals and other surface materials.
+Radar instruments can investigate regions that are difficult to study using visible light.
+Laser altimeters can measure surface elevation.
+Gravity measurements can reveal variations in the Moon's internal mass distribution.
+Orbital data can identify craters, faults, volcanic deposits, and other geological structures.
+High-resolution imagery supports detailed studies of lunar landing sites.
+Long-term orbital observations can improve understanding of lunar surface evolution.
+
+LUNAR GEOLOGY
+The Moon's crust formed early in its geological history.
+Large impacts modified the lunar crust throughout its evolution.
+Volcanic activity produced basaltic plains known as maria.
+The lunar surface is continuously modified by impacts from small particles and larger bodies.
+Regolith accumulates as rocks are broken down by impacts.
+Lunar soil differs from ordinary terrestrial soil because it forms without biological activity.
+Solar radiation and solar-wind particles interact directly with exposed lunar materials.
+The Moon's geological history is recorded in its rocks, minerals, craters, and surface structures.
+Lunar samples provide direct laboratory evidence about the Moon's composition and history.
+Remote sensing allows similar investigations across much larger areas.
+
+ISRO LAUNCH VEHICLES
+ISRO develops launch vehicles for placing satellites and spacecraft into space.
+The Polar Satellite Launch Vehicle is commonly known as PSLV.
+PSLV has been used extensively for Earth-observation and other satellite missions.
+The Geosynchronous Satellite Launch Vehicle is commonly known as GSLV.
+GSLV is designed to launch heavier payloads into higher-energy orbits than PSLV in appropriate configurations.
+The Launch Vehicle Mark-3 is a heavy-lift launch vehicle developed by ISRO.
+LVM3 was used to launch the Chandrayaan-3 mission.
+Launch vehicles use multiple propulsion stages to achieve the velocity required for spaceflight.
+Rocket stages can use solid, liquid, or cryogenic propulsion technologies depending on the vehicle.
+Launch vehicle selection depends on spacecraft mass, target orbit, trajectory, and mission requirements.
+
+IMPORTANCE OF LUNAR EXPLORATION
+The Moon provides a relatively accessible environment for planetary science.
+Lunar rocks preserve information about the early history of the Earth-Moon system.
+The Moon can be used to study the effects of impacts, volcanism, radiation, and space weathering.
+Polar regions are important for studying the distribution of water and other volatiles.
+Lunar exploration develops technologies for navigation, landing, communication, robotics, and surface operations.
+Robotic lunar missions can test technologies needed for future human exploration.
+Lunar observations can help scientists compare the Moon with other rocky planetary bodies.
+India's Chandrayaan missions have expanded India's capabilities in planetary exploration.
+Scientific data from lunar missions are used by researchers to investigate the Moon's origin and evolution.
+Lunar exploration remains an important part of international planetary science.

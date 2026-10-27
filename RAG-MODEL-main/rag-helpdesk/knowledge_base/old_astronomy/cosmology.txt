@@ -1,0 +1,293 @@
+COSMOLOGY
+Cosmology is the scientific study of the origin, evolution, structure, and large-scale properties of the universe.
+Modern cosmology combines observations with theories from physics and astronomy.
+The observable universe contains galaxies, stars, gas, dust, dark matter, radiation, and other forms of matter and energy.
+The universe is approximately 13.8 billion years old according to current measurements.
+The observable universe is larger than 13.8 billion light-years in radius because space has expanded while light was traveling.
+The observable universe is the region from which light or other signals have had time to reach us.
+The entire universe may be much larger than the observable universe.
+Whether the entire universe is finite or infinite is not currently known.
+Cosmology studies the universe on scales much larger than individual galaxies.
+The standard cosmological model is commonly called Lambda-CDM.
+
+THE BIG BANG
+The Big Bang model describes the universe evolving from an extremely hot, dense early state.
+The model does not describe an explosion occurring at a single location in pre-existing space.
+Instead, the expansion involves space itself changing with time.
+The early universe was much hotter and denser than it is today.
+As the universe expanded, its average temperature decreased.
+Matter eventually formed atoms after the universe cooled sufficiently.
+Later, gravity caused matter to gather into stars, galaxies, and larger structures.
+The Big Bang model is supported by several independent observations.
+These include cosmic expansion, the cosmic microwave background, and the observed abundance of light elements.
+The model describes the evolution of the observable universe but does not by itself explain every question about the ultimate beginning.
+
+COSMIC EXPANSION
+The universe is expanding on large scales.
+Distant galaxies generally show redshifted spectral lines.
+The relationship between galaxy distance and recession velocity is described approximately by Hubble-Lemaître's law.
+Hubble-Lemaître's law can be written approximately as v = H0d for sufficiently nearby galaxies.
+H0 represents the present-day Hubble constant.
+d represents distance and v represents recession velocity in the simplified relation.
+Cosmic expansion does not mean galaxies are necessarily moving through static space away from a central point.
+On sufficiently large scales, the distances between gravitationally unbound galaxies increase as space expands.
+Bound systems such as galaxies and solar systems do not expand in the same way.
+The expansion rate has changed throughout cosmic history.
+
+HUBBLE CONSTANT
+The Hubble constant describes the current rate of cosmic expansion.
+It is commonly expressed in kilometers per second per megaparsec.
+Measurements of the Hubble constant can produce different values depending on the observational method.
+Local distance-ladder measurements generally infer a higher expansion rate than some early-universe measurements.
+This discrepancy is known as the Hubble tension.
+The Hubble tension remains an active area of cosmological research.
+Possible explanations include systematic measurement effects or new physics.
+The Hubble constant is a fundamental parameter in modern cosmology.
+Accurate distance measurements are important for determining the expansion rate.
+The expansion rate also affects estimates of cosmic distances and ages.
+Different cosmological parameters are strongly connected in cosmological models.
+
+COSMIC MICROWAVE BACKGROUND
+The cosmic microwave background is electromagnetic radiation left over from the early universe.
+It was released when the universe became cool enough for electrons and nuclei to combine into neutral atoms.
+This transition is called recombination.
+The cosmic microwave background was emitted roughly 380,000 years after the Big Bang.
+The radiation has been stretched by cosmic expansion into microwave wavelengths.
+Its present temperature is approximately 2.7 kelvin.
+The CMB is observed across the entire sky with remarkable uniformity.
+Tiny temperature fluctuations in the CMB contain information about early density variations.
+These fluctuations later grew through gravity into galaxies and larger structures.
+The CMB is one of the strongest observational foundations of modern cosmology.
+
+CMB ANISOTROPIES
+CMB anisotropies are small variations in the temperature of the cosmic microwave background.
+These variations are typically measured at the level of tens of microkelvin.
+They reflect differences in density and gravitational potential in the early universe.
+The angular pattern of CMB fluctuations contains information about cosmological parameters.
+Features in the CMB power spectrum reveal information about matter, radiation, and geometry.
+The positions of acoustic peaks provide constraints on the composition and evolution of the universe.
+CMB polarization provides additional information about early-universe processes.
+Space missions such as COBE, WMAP, and Planck produced detailed CMB measurements.
+CMB observations strongly constrain the standard cosmological model.
+Studying the CMB allows astronomers to observe conditions from the early universe directly through ancient radiation.
+
+RECOMBINATION
+Recombination occurred when free electrons combined with atomic nuclei to form mostly neutral atoms.
+Before recombination, photons interacted frequently with free charged particles.
+This interaction kept the early universe opaque to electromagnetic radiation.
+After recombination, photons could travel much more freely through space.
+The radiation from this transition is observed today as the cosmic microwave background.
+Recombination occurred when the universe was roughly 380,000 years old.
+The term recombination is historical because electrons and nuclei were combining for the first time in the early universe.
+The transition changed the interaction between matter and radiation.
+Small density variations present at this time became important seeds for later structure formation.
+Recombination is therefore an important boundary between the early opaque universe and the later transparent universe.
+
+EARLY UNIVERSE
+The early universe contained a hot plasma of particles and radiation.
+At very early times, temperatures were high enough for many particle species to exist.
+As expansion continued, the universe cooled and particle interactions changed.
+Quarks eventually became confined into composite particles such as protons and neutrons.
+The early universe then entered an era in which light nuclei could form.
+Later, neutral atoms formed during recombination.
+The exact physics of the earliest moments is not completely understood.
+General relativity successfully describes cosmic expansion over much of the universe's history.
+Quantum gravity may be required to describe the earliest extreme conditions.
+Cosmological observations provide indirect constraints on early-universe physics.
+
+INFLATION
+Inflation is a proposed period of extremely rapid expansion in the very early universe.
+Inflation can explain why widely separated regions of the observable universe have similar large-scale properties.
+It can also explain why the observable universe appears close to spatially flat.
+Quantum fluctuations during inflation can become seeds for later cosmic structure.
+These fluctuations can be stretched to enormous scales during rapid expansion.
+Inflation is supported indirectly by several features of observed cosmological structure.
+The specific physical mechanism responsible for inflation has not been established.
+Different inflationary models propose different fields and potential energy landscapes.
+Inflation remains an important theoretical framework in early-universe cosmology.
+Direct confirmation of a specific inflationary model has not yet been achieved.
+
+PRIMORDIAL NUCLEOSYNTHESIS
+Big Bang nucleosynthesis describes the formation of light atomic nuclei in the early universe.
+It occurred during the first few minutes after the Big Bang.
+Protons and neutrons combined to form nuclei such as deuterium, helium, and small amounts of lithium.
+Most ordinary matter by mass was initially composed mainly of hydrogen and helium.
+The predicted abundance of light elements depends on conditions in the early universe.
+Observed abundances of hydrogen and helium broadly support the Big Bang model.
+The measured abundance of deuterium is particularly useful for constraining cosmological parameters.
+Lithium observations show some unresolved differences with simple theoretical predictions.
+Big Bang nucleosynthesis is one of the major tests of early-universe cosmology.
+It connects nuclear physics with the history of cosmic expansion.
+
+MATTER AND ANTIMATTER
+Matter consists of particles such as protons, neutrons, and electrons.
+Antimatter contains corresponding antiparticles with opposite quantum charges.
+Matter and antimatter can annihilate when appropriate particles and antiparticles interact.
+The observable universe contains far more matter than antimatter.
+This imbalance is called the matter-antimatter asymmetry.
+The physical process that generated this asymmetry is not completely understood.
+Baryogenesis refers broadly to mechanisms that can produce an excess of baryons over antibaryons.
+Conditions required for generating a matter-antimatter asymmetry are studied in particle physics and cosmology.
+The observed asymmetry is an important unresolved problem in fundamental physics.
+Understanding baryogenesis could explain why ordinary matter exists in large quantities today.
+
+DARK MATTER
+Dark matter is a form of matter inferred primarily through gravitational effects.
+It does not emit, absorb, or reflect electromagnetic radiation strongly enough to be directly seen.
+Galaxy rotation provides important evidence for dark matter.
+Gravitational lensing provides additional evidence for its presence.
+Galaxy clusters contain large amounts of dark matter.
+Dark matter helps explain how cosmic structures form and grow.
+Cold dark matter describes particles that moved relatively slowly when important structures formed.
+The Lambda-CDM model assumes cold dark matter.
+The identity of the dark-matter particle has not been established.
+Possible dark-matter candidates include several hypothetical particle types.
+
+DARK ENERGY
+Dark energy is the name given to whatever causes the observed accelerated expansion of the universe.
+It accounts for a large fraction of the universe's present energy budget in the standard cosmological model.
+The simplest model of dark energy is a cosmological constant represented by the symbol Lambda.
+In Lambda-CDM, Lambda represents dark energy and CDM represents cold dark matter.
+Dark energy differs conceptually from dark matter.
+Dark matter increases gravitational attraction and helps structure formation.
+Dark energy is associated with the accelerated expansion of space on cosmic scales.
+The physical nature of dark energy remains unknown.
+Alternative models include evolving forms of dark energy and modified gravity.
+Observations of supernovae, galaxy clustering, and the CMB constrain dark-energy models.
+
+LAMBDA-CDM
+Lambda-CDM is the standard model of modern cosmology.
+Lambda represents the cosmological constant associated with dark energy.
+CDM stands for cold dark matter.
+The model also includes ordinary baryonic matter and radiation.
+Lambda-CDM successfully explains many observations across cosmic history.
+It describes the formation of large-scale structure from small early density fluctuations.
+It reproduces major features of the cosmic microwave background.
+It explains the broad evolution of cosmic expansion.
+The model contains several measured cosmological parameters.
+Some observations, including the Hubble tension and the nature of dark energy, motivate tests beyond the basic model.
+
+COSMIC STRUCTURE
+The universe is organized into structures including galaxies, groups, clusters, filaments, and voids.
+These structures form part of a large-scale pattern called the cosmic web.
+Dark matter provides much of the gravitational framework for this structure.
+Ordinary matter falls into dark-matter-dominated gravitational wells.
+Gas cools and can form stars inside galaxies.
+Galaxy groups and clusters form in regions where matter is especially concentrated.
+Filaments connect dense regions across the cosmic web.
+Voids contain relatively few galaxies compared with surrounding regions.
+Structure formation is driven mainly by gravitational growth of initial density fluctuations.
+The distribution of galaxies provides information about the underlying matter distribution.
+
+COSMIC WEB
+The cosmic web is the large-scale network of matter throughout the universe.
+It contains filaments, galaxy clusters, galaxy groups, and vast underdense voids.
+Dark matter forms much of the underlying structure of the cosmic web.
+Galaxies tend to trace the denser regions of this structure.
+Filaments can contain gas and many galaxies.
+Clusters often form where multiple filaments intersect.
+Voids can span tens to hundreds of millions of light-years.
+The cosmic web developed gradually through gravitational instability.
+Large-scale galaxy surveys are used to map the cosmic web.
+Its structure provides important tests of cosmological models.
+
+COSMIC VOID
+A cosmic void is a large region of space containing relatively few galaxies.
+Voids are not completely empty.
+They can contain diffuse gas, dark matter, and isolated galaxies.
+Matter tends to move away from underdense regions toward denser structures.
+Voids therefore grow as surrounding matter becomes increasingly concentrated.
+The size and distribution of voids depend on the growth of cosmic structure.
+Void statistics can be used to test cosmological models.
+Large-scale surveys identify voids from the distribution of galaxies.
+Voids provide a complementary view of the cosmic web.
+Their evolution is influenced by dark energy and gravitational growth.
+
+COSMIC TIME
+Looking farther into space generally means looking farther back in time.
+Light requires a finite amount of time to travel between astronomical objects.
+A galaxy millions of light-years away is observed as it existed millions of years ago.
+Very distant galaxies are observed as they existed billions of years in the past.
+The cosmic microwave background comes from an even earlier period.
+Astronomers use distant observations to reconstruct the history of the universe.
+Different wavelengths reveal different stages of cosmic evolution.
+The expansion of space changes the wavelength of traveling light.
+Cosmological distance and lookback time are related but are not identical quantities.
+Cosmic history is therefore encoded in the light reaching Earth.
+
+COSMOLOGICAL DISTANCES
+Cosmology uses several different definitions of distance.
+Comoving distance accounts for cosmic expansion when describing large-scale positions.
+Proper distance describes physical separation at a specified cosmic time.
+Lookback time measures how long light has traveled to reach an observer.
+Luminosity distance is defined using the observed brightness of an object.
+Angular-diameter distance relates an object's physical size to its observed angular size.
+Different distance measures are useful for different observations.
+Cosmic expansion means that simple Euclidean distance formulas are not always sufficient.
+Redshift is commonly used as an observable indicator of cosmological distance.
+The relationship between redshift and distance depends on cosmological parameters.
+
+COSMOLOGICAL PRINCIPLE
+The cosmological principle states that the universe is approximately homogeneous and isotropic on sufficiently large scales.
+Homogeneous means that matter is statistically distributed similarly from place to place.
+Isotropic means that the universe looks statistically similar in different directions.
+The principle does not require galaxies to be uniformly distributed on small scales.
+Galaxies form clusters, filaments, and voids on smaller scales.
+Homogeneity becomes a useful approximation only over sufficiently large distances.
+Observations of large-scale galaxy distributions support approximate large-scale homogeneity.
+The cosmological principle is a foundational assumption in many cosmological models.
+It simplifies the mathematical description of the expanding universe.
+Testing the principle remains an important observational goal.
+
+GEOMETRY OF THE UNIVERSE
+The geometry of the universe describes its large-scale spatial curvature.
+A universe can have positive, zero, or negative spatial curvature.
+Positive curvature corresponds to a closed geometry in simple cosmological models.
+Zero curvature corresponds to a spatially flat geometry.
+Negative curvature corresponds to an open geometry.
+CMB observations indicate that the observable universe is very close to spatially flat.
+Spatial flatness does not necessarily mean that the entire universe is finite or infinite.
+Cosmic geometry depends on the balance of matter, radiation, dark energy, and curvature.
+Measurements of the CMB and large-scale structure constrain spatial curvature.
+The geometry of spacetime also includes time and is described by general relativity.
+
+FATE OF THE UNIVERSE
+The long-term evolution of the universe depends on its expansion history and physical contents.
+Current observations indicate that cosmic expansion is accelerating.
+If dark energy behaves like a cosmological constant, expansion is expected to continue indefinitely.
+A continuously expanding universe would gradually become colder and more dilute.
+This scenario is commonly associated with heat death or the Big Freeze.
+Alternative dark-energy behavior could produce different futures.
+A sufficiently strong future change in dark energy could alter the expansion history.
+Current observations do not support a near-term cosmic recollapse.
+The ultimate fate of the universe remains connected to the nature of dark energy.
+Future observations will help determine whether the standard expansion scenario remains valid.
+
+OBSERVATIONAL COSMOLOGY
+Observational cosmology uses astronomical measurements to test models of the universe.
+The cosmic microwave background is one of its most important datasets.
+Type Ia supernovae are used as distance indicators for studying cosmic expansion.
+Galaxy surveys measure positions, redshifts, and properties of millions of galaxies.
+Baryon acoustic oscillations provide a standard ruler for measuring cosmic distances.
+Weak gravitational lensing traces the distribution of matter.
+Galaxy clusters provide information about structure growth and dark matter.
+Quasar and galaxy observations probe the distant universe.
+Different observations can be combined to constrain cosmological parameters.
+Agreement between independent datasets is a major test of cosmological models.
+
+KEY TERMS
+Cosmology means the scientific study of the universe as a whole.
+Big Bang model describes the evolution of the universe from a hot, dense early state.
+Cosmic expansion means that large-scale distances between unbound regions of the universe increase with time.
+Redshift is the shift of observed spectral features toward longer wavelengths.
+Cosmic microwave background is relic electromagnetic radiation from the early universe.
+Recombination is the epoch when electrons combined with nuclei to form neutral atoms.
+Dark matter is matter inferred primarily from gravitational effects.
+Dark energy is the component associated with the accelerated expansion of the universe.
+Lambda-CDM is the standard cosmological model containing dark energy and cold dark matter.
+Cosmic web is the large-scale network of galaxies, filaments, clusters, and voids.
+Inflation is a proposed period of extremely rapid expansion in the early universe.
+Big Bang nucleosynthesis describes the formation of light nuclei during the early universe.
+Hubble constant describes the present-day expansion rate of the universe.
+Hubble tension refers to disagreement between some independent measurements of the Hubble constant.
+Observable universe is the region from which signals have had time to reach Earth.

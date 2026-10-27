@@ -1,0 +1,353 @@
+SPACE TECHNOLOGY
+Space technology includes the engineering systems used to design, launch, operate, and communicate with spacecraft.
+Spacecraft must function in vacuum, microgravity, radiation, and extreme thermal conditions.
+Space systems are designed around mission requirements, available power, mass limits, and reliability.
+Major spacecraft technologies include propulsion, power, communication, computing, navigation, and thermal control.
+Sensors and scientific instruments allow spacecraft to measure their environment and targets.
+Launch vehicles provide the initial energy needed to place spacecraft into space.
+Orbital mechanics determines how spacecraft move under gravitational forces.
+Space technology combines aerospace engineering, electronics, software, materials science, and physics.
+Reliability is particularly important because spacecraft are difficult or impossible to repair after launch.
+Technology developed for space missions can sometimes lead to useful applications on Earth.
+
+SPACECRAFT ARCHITECTURE
+A spacecraft is generally divided into a platform or bus and one or more payloads.
+The spacecraft bus provides common services required by the mission.
+Typical bus subsystems include power, thermal control, communications, attitude control, and onboard computing.
+The payload performs the primary scientific, commercial, or technological mission function.
+Spacecraft structures support components and maintain mechanical integrity during launch.
+Electrical wiring distributes power and connects spacecraft subsystems.
+Onboard computers coordinate spacecraft operations and process data.
+Software allows spacecraft systems to execute commands and respond to changing conditions.
+Subsystem interfaces must be carefully designed to prevent conflicts.
+Spacecraft architecture depends strongly on mission destination and operational requirements.
+
+SPACECRAFT STRUCTURES
+The spacecraft structure provides mechanical support for onboard components.
+Structures must survive vibration and acceleration during launch.
+Launch environments can produce strong acoustic, mechanical, and shock loads.
+Materials must provide adequate strength while minimizing spacecraft mass.
+Aluminum alloys and composite materials are commonly used in spacecraft structures.
+Deployable structures can increase the size of solar arrays or antennas after launch.
+Structural analysis predicts stresses, vibrations, and possible failure modes.
+Thermal expansion must also be considered when designing spacecraft structures.
+Instrument mounting must minimize unwanted vibration and mechanical disturbance.
+Structural testing is performed before launch to verify mechanical integrity.
+
+PROPULSION
+Spacecraft propulsion provides controlled changes in velocity and trajectory.
+Chemical propulsion uses the energy released by chemical reactions to produce thrust.
+Electric propulsion accelerates propellant using electrical energy.
+Chemical thrusters can provide high thrust for relatively short periods.
+Electric propulsion generally provides low thrust but can operate for long periods.
+Specific impulse is a measure of propulsion efficiency related to propellant consumption.
+Hydrazine and other propellants have historically been used in spacecraft propulsion systems.
+Modern spacecraft may use lower-toxicity propellants and advanced propulsion technologies.
+Propulsion systems can perform orbit insertion, trajectory correction, attitude control, and station keeping.
+The required propulsion system depends on spacecraft mass, mission duration, and trajectory.
+
+ELECTRIC PROPULSION
+Electric propulsion uses electrical energy to accelerate charged particles or heat propellant.
+Ion thrusters accelerate ions using electric fields.
+Hall-effect thrusters use electric and magnetic fields to accelerate plasma.
+Electric propulsion typically produces much lower thrust than chemical propulsion.
+Its high efficiency makes it useful for long-duration orbital maneuvers.
+A spacecraft using electric propulsion may accelerate continuously for weeks or months.
+Solar panels can supply electrical power for many electric-propulsion systems.
+Electric propulsion can significantly reduce the propellant mass required for some missions.
+It is particularly useful for satellite station keeping and deep-space trajectory changes.
+Electric propulsion is an important technology for future high-efficiency space missions.
+
+ROCKET ENGINES
+Rocket engines generate thrust by accelerating exhaust in the opposite direction of motion.
+The basic principle follows conservation of momentum.
+A chemical rocket carries both fuel and oxidizer when operating outside Earth's atmosphere.
+The combustion chamber converts chemical energy into hot high-pressure gases.
+A nozzle accelerates exhaust gases to produce directed thrust.
+Liquid rocket engines can control thrust and may be restarted depending on design.
+Solid rocket motors generally have simpler mechanical designs but limited throttling capability.
+Cryogenic engines use very cold propellants such as liquid hydrogen and liquid oxygen.
+Engine performance depends on combustion conditions, nozzle design, propellant properties, and mass flow.
+Rocket-engine reliability is critical because launch vehicles operate under extreme conditions.
+
+PROPULSION STAGES
+Many launch vehicles use multiple rocket stages.
+Each stage contains its own propulsion and propellant systems.
+A stage is discarded after its useful propellant is consumed.
+Discarding empty stages reduces the mass that subsequent stages must accelerate.
+Upper stages provide the velocity needed to reach the final target orbit or trajectory.
+Some upper stages can perform multiple burns.
+Restartable engines allow an upper stage to execute separate orbital maneuvers.
+Stage separation mechanisms must operate accurately and reliably.
+The number and design of stages depend on launch requirements.
+Staging is one of the major methods used to improve rocket performance.
+
+POWER SYSTEMS
+Spacecraft require electrical power for computers, communication systems, sensors, heaters, and propulsion.
+Solar photovoltaic cells convert sunlight into electrical energy.
+Solar arrays are commonly used by spacecraft operating near the Sun.
+Rechargeable batteries provide power when solar energy is unavailable.
+Spacecraft can enter eclipse when Earth or another body blocks sunlight.
+Battery capacity must be sufficient to support the spacecraft during expected eclipse periods.
+Power-management systems distribute electrical energy among spacecraft subsystems.
+Electrical loads are prioritized according to mission requirements.
+Radioisotope power systems can provide long-term energy far from the Sun.
+Power-system degradation over time must be considered during mission design.
+
+SOLAR CELLS
+Solar cells convert incoming sunlight into electrical power through the photovoltaic effect.
+Spacecraft solar cells are designed for high efficiency and long-term operation.
+Solar arrays can be folded during launch and deployed after reaching space.
+The available solar power decreases with increasing distance from the Sun.
+Radiation can gradually degrade solar-cell performance.
+Temperature also affects solar-cell efficiency.
+The spacecraft attitude determines how much sunlight reaches the solar arrays.
+Sun-tracking or spacecraft pointing strategies can maximize available power.
+Solar arrays must be designed to survive launch loads and the space environment.
+Power generation is a fundamental constraint for many spacecraft missions.
+
+RADIOISOTOPE POWER
+Radioisotope power systems generate electricity from the heat produced by radioactive decay.
+They are useful when sunlight is weak or unavailable.
+Radioisotope thermoelectric generators convert heat into electrical energy using thermoelectric materials.
+RTGs can provide power for many years.
+They are especially useful for missions to the outer Solar System.
+RTGs do not require sunlight and can operate during long periods of darkness.
+Their power output gradually decreases as the radioactive material decays.
+Radioisotope systems are different from nuclear fission reactors.
+They provide relatively low continuous power but high reliability.
+Several deep-space missions have used radioisotope power systems.
+
+THERMAL CONTROL
+Spacecraft thermal control keeps components within their permitted temperature ranges.
+Space has no atmosphere to provide ordinary convective cooling.
+Heat is primarily transferred within spacecraft through conduction and radiated into space.
+Radiators emit excess heat as infrared radiation.
+Multilayer insulation reduces unwanted heat transfer.
+Heaters can prevent components from becoming too cold.
+Thermal coatings can control how spacecraft surfaces absorb and emit radiation.
+Spacecraft may experience large temperature differences between sunlight and shadow.
+Sensitive instruments often require tightly controlled temperatures.
+Thermal design must account for both launch and long-term space operations.
+
+ATTITUDE CONTROL
+Attitude control determines and maintains spacecraft orientation.
+Spacecraft orientation is important for pointing antennas, cameras, solar panels, and scientific instruments.
+Reaction wheels change spacecraft orientation by transferring angular momentum.
+Control-moment gyroscopes can provide larger attitude-control torques on some spacecraft.
+Small thrusters can also rotate or stabilize a spacecraft.
+Magnetorquers use interactions with Earth's magnetic field to control satellite attitude.
+Star trackers determine spacecraft orientation by comparing observed stars with a known star catalog.
+Sun sensors can determine the direction of the Sun.
+Gyroscopes measure changes in rotational motion.
+Attitude-control systems combine sensors, computers, and actuators.
+
+GUIDANCE AND NAVIGATION
+Guidance determines where a spacecraft should go.
+Navigation estimates the spacecraft's current position and velocity.
+Control systems apply the required changes to follow the desired trajectory.
+Inertial measurement units can measure acceleration and rotation.
+Ground stations can determine spacecraft trajectories using radio tracking.
+Optical navigation can use images of planets, moons, or stars.
+Autonomous navigation reduces dependence on continuous communication with Earth.
+Navigation accuracy is especially important during planetary encounters and landings.
+Guidance algorithms can calculate corrections when the spacecraft deviates from its planned path.
+Reliable navigation is essential for rendezvous, docking, landing, and orbital insertion.
+
+COMMUNICATION SYSTEMS
+Spacecraft communication systems exchange information between spacecraft and ground stations.
+Radio waves are widely used for space communication.
+Antennas determine the direction and efficiency of transmitted and received signals.
+High-gain antennas provide narrow beams and high communication efficiency.
+Low-gain antennas provide broader coverage but generally lower data rates.
+Transmitters convert electrical information into radio-frequency signals.
+Receivers recover information from incoming radio signals.
+Communication links are affected by distance, antenna orientation, frequency, and available power.
+Deep-space links require highly sensitive ground antennas and careful signal processing.
+Communication bandwidth determines how quickly science and engineering data can be transmitted.
+
+DATA HANDLING
+Spacecraft generate both scientific data and engineering telemetry.
+Onboard computers process, store, and organize data before transmission.
+Data storage allows spacecraft to retain information when communication with Earth is unavailable.
+Compression can reduce the amount of data that must be transmitted.
+Lossless compression preserves all original information.
+Lossy compression reduces data size by allowing some information to be discarded.
+Data packets include information needed to identify and reconstruct transmitted data.
+Error-detection methods help identify corrupted information.
+Onboard data handling must operate reliably with limited computing resources.
+Data-management design depends on instrument output, storage capacity, and communication bandwidth.
+
+ONBOARD COMPUTING
+Spacecraft computers control many automated functions.
+Flight software manages spacecraft subsystems and executes mission commands.
+Spacecraft computers must tolerate radiation and temperature variations.
+Radiation can cause temporary or permanent electronic faults.
+Error detection and correction can improve computer reliability.
+Watchdog systems can reset software when abnormal behavior is detected.
+Redundant computers can provide backup processing capability.
+Software updates can sometimes be transmitted after launch.
+Autonomous software is important when communication delays prevent immediate human intervention.
+Software verification and testing are major parts of spacecraft development.
+
+RADIATION
+Spacecraft operate in an environment containing energetic particles and electromagnetic radiation.
+Solar radiation can affect spacecraft surfaces and electronics.
+Solar energetic particles can produce radiation hazards during solar activity.
+Earth's radiation belts contain trapped energetic charged particles.
+Galactic cosmic rays originate outside the Solar System and can affect spacecraft electronics.
+Radiation can cause single-event effects in electronic components.
+Long-term radiation exposure can degrade materials and semiconductor performance.
+Radiation shielding can reduce exposure to sensitive components.
+Shielding increases spacecraft mass and therefore must be optimized.
+Radiation testing helps engineers select components suitable for space missions.
+
+MICROMETEOROIDS AND DEBRIS
+Small natural particles in space are called micrometeoroids.
+Artificial fragments orbiting Earth are generally referred to as space debris.
+High relative velocities can make even small particles dangerous to spacecraft.
+Impacts can damage solar panels, antennas, windows, or spacecraft structures.
+Spacecraft in low Earth orbit can be exposed to large populations of debris.
+Collision-avoidance systems can help protect important satellites.
+Tracking networks monitor many larger objects in Earth orbit.
+Protective shielding can reduce damage from some small impacts.
+Space-debris mitigation includes reducing the creation of new orbital debris.
+Responsible mission design considers disposal or deorbiting after operational life.
+
+ORBITAL MANEUVERS
+An orbital maneuver changes spacecraft velocity to modify its orbit.
+A small velocity change can produce a large change in orbital position over time.
+Thrusters or rocket engines can provide the required delta-v.
+Delta-v is the change in velocity available from a propulsion system.
+Orbit raising increases the altitude of an orbit.
+Orbit lowering decreases orbital altitude.
+Plane changes alter the orientation of an orbital plane.
+Rendezvous missions require precise matching of position and velocity.
+Station keeping maintains a spacecraft near its assigned orbital location.
+Fuel-efficient orbital maneuver planning is important because spacecraft propellant is limited.
+
+SATELLITE SYSTEMS
+A satellite is an object intentionally placed into orbit around a celestial body.
+Artificial satellites can provide communication, navigation, weather, science, and Earth-observation services.
+Satellite orbits are selected according to mission requirements.
+Low Earth orbit satellites are relatively close to Earth's surface.
+Medium Earth orbit is commonly used by navigation satellite constellations.
+Geostationary satellites remain above approximately the same longitude.
+Satellite constellations use multiple spacecraft to provide broader or continuous coverage.
+Ground stations communicate with satellites and monitor their health.
+Satellite operators perform orbit and attitude maintenance throughout the mission.
+End-of-life procedures reduce the long-term accumulation of orbital debris.
+
+EARTH OBSERVATION TECHNOLOGY
+Earth-observation satellites use sensors to measure properties of Earth's surface and atmosphere.
+Optical cameras collect reflected sunlight in visible wavelengths.
+Multispectral instruments measure several selected wavelength bands.
+Hyperspectral instruments can measure many narrow spectral bands.
+Synthetic aperture radar can observe Earth using active microwave signals.
+Radar can operate through clouds and can observe during both day and night.
+Thermal infrared sensors measure emitted radiation related to surface temperature.
+Earth-observation data can support agriculture, disaster response, weather analysis, and environmental monitoring.
+Spatial resolution describes the smallest ground features that can be distinguished.
+Temporal resolution describes how frequently an area can be observed.
+
+SPACE OPTICS
+Optical systems collect and focus electromagnetic radiation.
+Mirrors or lenses can direct incoming light toward detectors.
+Space telescopes avoid atmospheric distortion for many observations.
+Reflecting telescopes use mirrors rather than large lenses as their primary collecting optics.
+Detector sensitivity affects the faintness of objects that can be observed.
+Optical alignment must remain within tight tolerances.
+Thermal changes can alter the shape or alignment of optical components.
+Large space telescopes often use deployable structures to fit inside launch vehicles.
+Infrared instruments require specialized thermal designs.
+Optical engineering directly affects the quality of scientific observations.
+
+SENSORS AND INSTRUMENTS
+Sensors convert physical phenomena into measurable electrical or digital signals.
+Scientific instruments are designed around specific measurement objectives.
+Spectrometers separate electromagnetic radiation according to wavelength.
+Cameras record spatial information about targets.
+Radar systems transmit signals and measure returned echoes.
+Magnetometers measure magnetic fields.
+Accelerometers measure changes in linear motion.
+Radiation detectors measure energetic particles or electromagnetic radiation.
+Instrument calibration converts detector output into scientifically meaningful measurements.
+Instrument selection depends on target properties, wavelength, sensitivity, resolution, and available spacecraft resources.
+
+SPACE ROBOTICS
+Space robotics includes robotic systems designed to operate in space or on planetary surfaces.
+Robotic arms can manipulate equipment, samples, or spacecraft components.
+Rovers use wheels or other mobility systems to travel across planetary surfaces.
+Robotic systems may operate with significant autonomy.
+Communication delays make direct manual control difficult for distant planetary missions.
+Cameras and other sensors provide information needed for navigation.
+Autonomous navigation allows a rover to avoid hazards and plan movement.
+Robotic systems must tolerate dust, radiation, temperature changes, and mechanical wear.
+Planetary robots can perform scientific measurements in environments difficult for humans to access.
+Robotics is an important technology for future lunar and planetary exploration.
+
+LANDING TECHNOLOGY
+Landing systems safely deliver spacecraft to the surface of a planetary body.
+Atmospheric bodies can use aerodynamic drag, parachutes, or powered descent.
+Bodies with little atmosphere require different techniques such as powered braking.
+Lunar landers generally rely on rocket propulsion for controlled descent.
+Terrain-relative navigation can help spacecraft identify safe landing regions.
+Altimeters measure distance from the surface during descent.
+Landing systems must reduce horizontal and vertical velocity before contact.
+Hazard detection can identify rocks, slopes, craters, or other dangerous terrain.
+Landing legs or other structures absorb impact forces.
+Autonomous landing systems are valuable when communication delays prevent real-time control.
+
+SPACE DOCKING
+Docking allows two spacecraft to connect physically in orbit.
+Rendezvous operations first bring two spacecraft into nearby trajectories.
+Relative navigation determines the position and velocity of one spacecraft relative to another.
+The spacecraft must carefully control its approach speed.
+Docking mechanisms align and connect the spacecraft.
+Sensors can include cameras, radar, lidar, and relative-position measurements.
+Docking is used to transfer crew, cargo, fuel, or equipment.
+Automated docking can reduce the need for continuous manual control.
+Docking requires accurate guidance, navigation, and attitude control.
+Crewed docking missions require additional safety and abort procedures.
+
+REUSABLE SPACE TECHNOLOGY
+Reusable launch systems are designed to recover and fly some hardware on multiple missions.
+Reusability can reduce the hardware cost per launch when refurbishment is efficient.
+Reusable stages require controlled atmospheric reentry and landing.
+Thermal protection is needed to survive high temperatures during reentry.
+Landing systems can use engines, aerodynamic surfaces, parachutes, or combinations of technologies.
+Reusable spacecraft must be designed for repeated structural and thermal loads.
+Turnaround time affects the practical benefits of reusability.
+Reliability must remain high across repeated flights.
+Not every launch vehicle is designed for reusability.
+Reusability is one approach to reducing the cost of access to space.
+
+SPACE TECHNOLOGY CHALLENGES
+Mass is one of the most important constraints in spacecraft design.
+Increasing spacecraft mass generally increases launch requirements.
+Power availability limits the operation of instruments and onboard systems.
+Thermal environments can vary greatly during a mission.
+Radiation can degrade electronics and materials.
+Communication delays complicate operations far from Earth.
+Spacecraft cannot normally be repaired after launch.
+Components therefore require extensive testing before deployment.
+Engineers must balance performance, reliability, cost, and development time.
+Space technology advances through repeated testing, missions, failures, and engineering improvements.
+
+KEY TERMS
+Spacecraft means a vehicle or platform designed to operate in space.
+Spacecraft bus means the collection of subsystems that provide common spacecraft services.
+Payload means the mission-specific equipment that performs the primary objective.
+Propulsion means systems used to change spacecraft velocity or generate thrust.
+Delta-v means the change in velocity available or required for a maneuver.
+Specific impulse is a measure of rocket-propulsion efficiency.
+Attitude means the orientation of a spacecraft.
+Reaction wheel means an actuator that changes spacecraft orientation by exchanging angular momentum.
+Telemetry means engineering information transmitted from a spacecraft.
+Ground station means a terrestrial facility used to communicate with spacecraft.
+Thermal control means methods used to maintain spacecraft temperature within safe limits.
+Radiation shielding means material protection used to reduce radiation exposure.
+Electric propulsion means propulsion that uses electrical energy to accelerate propellant.
+Gravity assist means changing spacecraft trajectory using the gravity and motion of a celestial body.
+Autonomous navigation means spacecraft navigation performed partly without continuous ground control.
+Space debris means artificial objects and fragments remaining in orbit around Earth.

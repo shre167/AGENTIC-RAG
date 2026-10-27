@@ -1,0 +1,252 @@
+BLACK HOLES
+A black hole is a region of spacetime where gravity is so strong that nothing can escape once it passes the event horizon.
+Light cannot escape from inside a black hole's event horizon.
+A black hole is not an empty hole or a cosmic vacuum cleaner.
+Its gravitational influence depends on its mass, distance, and motion like other massive objects.
+Black holes are predicted by Einstein's general theory of relativity.
+The boundary surrounding a black hole is called the event horizon.
+The event horizon is a causal boundary rather than a physical surface.
+An object crossing the event horizon is not expected to encounter a solid barrier.
+Black holes can interact gravitationally with stars, gas, dust, and other black holes.
+Black holes are detected mainly through their effects on surrounding matter and spacetime.
+
+KEY PROPERTIES
+The three main physical parameters of an idealized black hole are mass, angular momentum, and electric charge.
+Astrophysical black holes are expected to have extremely small net electric charge.
+Mass determines the overall gravitational strength and characteristic size of a black hole.
+Angular momentum describes the black hole's rotation.
+A rotating black hole is commonly described by the Kerr solution.
+A nonrotating, uncharged black hole is described by the Schwarzschild solution.
+Black holes do not have a conventional solid surface.
+The event horizon marks the region beyond which outward escape is impossible.
+The Schwarzschild radius gives the event-horizon radius for a nonrotating, uncharged black hole.
+The Schwarzschild radius is given by r_s = 2GM/c^2.
+G represents the gravitational constant and c represents the speed of light.
+For a given mass, a rotating black hole has a more complicated horizon structure than a Schwarzschild black hole.
+
+TYPES BY MASS
+Stellar-mass black holes typically have masses comparable to several to tens of times the Sun.
+Stellar-mass black holes commonly form from the deaths of massive stars.
+Intermediate-mass black holes are expected to lie between stellar and supermassive black holes in mass.
+Strong evidence for individual intermediate-mass black holes is still an active research area.
+Supermassive black holes contain millions to billions of solar masses.
+Supermassive black holes are found at the centers of most large galaxies.
+The Milky Way contains a supermassive black hole at its center.
+Primordial black holes are hypothetical black holes that could have formed in the early universe.
+There is currently no confirmed detection of primordial black holes.
+Black holes can also grow through mergers with other black holes.
+
+FORMATION OF STELLAR BLACK HOLES
+A sufficiently massive star can end its life after exhausting the nuclear fuel supporting its core.
+The core of a massive star can collapse under its own gravity.
+Core collapse can produce a neutron star or a black hole depending on the remaining core mass and physical conditions.
+Some stellar black holes form after supernova explosions.
+Direct collapse can also produce a black hole with little or no bright supernova.
+The exact boundary between neutron-star and black-hole formation depends on stellar evolution and the equation of state of dense matter.
+Binary star systems can evolve into systems containing black holes.
+A black hole can receive additional mass from a companion star.
+Black holes can merge with other compact objects under suitable conditions.
+
+GROWTH OF SUPERMASSIVE BLACK HOLES
+Supermassive black holes can grow by accreting gas and other matter.
+They can also grow through mergers with other black holes.
+Galaxy mergers can bring central black holes together.
+The earliest supermassive black holes require rapid growth from early black-hole seeds.
+Possible seed mechanisms include remnants of massive early stars and direct-collapse scenarios.
+Accretion can convert gravitational energy into intense radiation.
+Rapidly accreting supermassive black holes can appear as active galactic nuclei.
+Quasars are extremely luminous active galactic nuclei powered by accretion around supermassive black holes.
+Black-hole growth is connected to the evolution of galaxies and their central regions.
+
+ACCRETION DISKS
+Matter falling toward a black hole usually forms an accretion disk when it has substantial angular momentum.
+Gas in an accretion disk follows orbital paths while gradually losing angular momentum.
+Viscosity and magnetic processes allow angular momentum to move outward through the disk.
+Gravitational potential energy is converted into heat as matter moves inward.
+Hot accretion disks can emit strongly across the electromagnetic spectrum.
+Accretion around stellar black holes can produce powerful X-ray emission.
+Accretion around supermassive black holes can produce optical, ultraviolet, X-ray, and radio emission.
+The event horizon itself does not radiate like a normal physical surface.
+Observed radiation usually comes from material and magnetic fields outside the event horizon.
+The appearance of an accreting black hole depends strongly on the surrounding environment.
+
+CORONAE AND JETS
+Some accreting black holes have very hot regions called coronae above their accretion disks.
+Black-hole coronae can produce high-energy X-rays.
+Relativistic jets are narrow outflows of plasma moving at speeds close to the speed of light.
+Jets can extend far beyond the immediate region around the black hole.
+Strong magnetic fields can play a major role in launching and collimating jets.
+Rotation of the black hole can contribute energy to jets through magnetic processes.
+The Blandford-Znajek mechanism describes extraction of rotational energy through magnetic fields.
+Not every black hole has a visible relativistic jet.
+Jet formation depends on accretion conditions, magnetic fields, and black-hole properties.
+
+EVENT HORIZON
+The event horizon is the boundary separating regions that can communicate with distant observers from regions that cannot.
+For a sufficiently distant observer, light emitted near the horizon becomes increasingly redshifted.
+An infalling observer crossing the horizon of a sufficiently large black hole need not encounter a locally special physical boundary.
+The experience near the horizon depends on the black hole's mass, spin, and the observer's trajectory.
+The event horizon is not the same thing as the accretion disk.
+The accretion disk exists outside the event horizon.
+Matter in the accretion disk can remain in orbit before losing enough energy and angular momentum to move inward.
+Once matter crosses the event horizon, it cannot send signals back to the outside.
+The horizon is therefore a fundamental causal boundary in spacetime.
+
+SPACETIME AND GRAVITY
+General relativity describes gravity as the curvature of spacetime caused by mass and energy.
+A black hole represents an extreme concentration of gravitational effects.
+Near a black hole, spacetime curvature can become extremely strong.
+Clocks at different gravitational potentials are measured to run at different rates by distant observers.
+This effect is known as gravitational time dilation.
+Light escaping a strong gravitational field can experience gravitational redshift.
+The closer an emitter is to a black-hole horizon, the greater the gravitational redshift observed from far away.
+These effects are consequences of general relativity rather than properties of a physical black-hole surface.
+Black holes provide important environments for testing strong-field gravity.
+
+TIDAL FORCES
+Tidal forces arise because gravity can vary significantly across the size of an object.
+Near a black hole, strong tidal forces can stretch an object along the direction toward the black hole.
+Compression can occur in directions perpendicular to the stretching.
+Extreme tidal stretching is informally called spaghettification.
+For a stellar-mass black hole, tidal forces near the horizon can be very strong.
+For a supermassive black hole, tidal forces at the horizon can be much weaker.
+An object can therefore cross the horizon of a sufficiently massive black hole before experiencing extreme tidal disruption.
+Tidal effects become stronger as the object moves closer to the central region.
+The strength of tidal forces depends on the black-hole mass and the object's distance.
+
+ROTATING BLACK HOLES
+A rotating black hole is described by the Kerr solution in classical general relativity.
+Rotation causes spacetime itself to be dragged around the black hole.
+This effect is called frame dragging.
+The region where frame dragging becomes unavoidable is called the ergosphere.
+The ergosphere lies outside the event horizon of a rotating black hole.
+An observer can enter the ergosphere without necessarily crossing the event horizon.
+Processes involving the ergosphere can extract rotational energy from a rotating black hole.
+The Penrose process is a theoretical mechanism for extracting rotational energy.
+Magnetic-field processes can also extract rotational energy and help power relativistic jets.
+Black-hole spin can influence the structure of nearby accretion flows.
+
+PHOTON ORBITS AND SHADOWS
+Light passing near a black hole can be strongly deflected by gravity.
+This gravitational deflection produces strong gravitational lensing.
+A photon sphere exists around a nonrotating Schwarzschild black hole.
+The Schwarzschild photon sphere lies at 1.5 times the Schwarzschild radius.
+Light can orbit temporarily on unstable paths near the photon sphere.
+Some light trajectories are captured by the black hole instead of escaping.
+The black-hole shadow is a dark region produced by the capture of light combined with the surrounding emission.
+The shadow is not a photograph of a solid black-hole surface.
+The apparent shadow depends on spacetime geometry and the surrounding emitting material.
+Rotating black holes produce more complex shadow structures than nonrotating ones.
+
+HAWKING RADIATION
+Hawking radiation is a theoretical prediction combining quantum effects with curved spacetime.
+It implies that black holes can emit thermal radiation.
+The predicted radiation causes a black hole to gradually lose mass.
+The temperature of Hawking radiation decreases as black-hole mass increases.
+Astrophysical black holes are expected to have extremely low Hawking temperatures.
+Their Hawking radiation is therefore far too weak to be easily detected against ordinary astrophysical backgrounds.
+Hawking radiation has not been directly observed from an astrophysical black hole.
+If a black hole loses enough mass, its evaporation would accelerate as its temperature rises.
+The final stage of black-hole evaporation requires physics beyond the standard semiclassical description.
+
+BLACK-HOLE INFORMATION
+Quantum theory suggests that physical information should not simply disappear.
+Black-hole evaporation creates a theoretical conflict between quantum mechanics and classical descriptions of black holes.
+This issue is called the black-hole information paradox.
+The paradox is an important problem in theoretical physics.
+Proposed solutions involve ideas about quantum gravity and the encoding of information.
+No single experimentally confirmed complete solution has been established.
+The information paradox connects black holes with fundamental questions about spacetime and quantum mechanics.
+Black holes are therefore important laboratories for theoretical studies of gravity and quantum physics.
+
+GRAVITATIONAL WAVES
+Accelerating compact objects can produce gravitational waves.
+Binary black holes can lose orbital energy through gravitational-wave emission.
+The orbit can shrink as gravitational radiation carries energy and angular momentum away.
+Two black holes can eventually merge into a single larger black hole.
+The merger produces a strong burst of gravitational waves.
+The final black hole undergoes a settling phase called ringdown.
+LIGO, Virgo, and KAGRA are major gravitational-wave observatories.
+The first directly detected gravitational-wave event, GW150914, came from a binary black-hole merger.
+Gravitational-wave observations provide information about black-hole masses, spins, and merger dynamics.
+
+OBSERVING BLACK HOLES
+Black holes are difficult to observe directly because they do not emit ordinary light from inside their horizons.
+Astronomers often detect black holes through their effects on nearby matter.
+X-ray binaries can reveal stellar-mass black holes accreting matter from companion stars.
+The motion of visible companion stars can provide evidence for an unseen massive object.
+Stars orbiting a galactic center can reveal the mass of a central black hole.
+Gravitational lensing can reveal the influence of black holes on passing light.
+Gravitational-wave detectors can observe mergers of black holes.
+Very long baseline interferometry can image emission around supermassive black holes.
+
+CYGNUS X-1
+Cygnus X-1 is a well-studied X-ray binary system.
+The system contains a black-hole candidate and a massive companion star.
+Gas transferred from the companion forms a hot accretion flow.
+The system produces strong X-ray emission.
+Cygnus X-1 provided important evidence for the existence of stellar-mass black holes.
+Its study helped establish methods for identifying black holes in binary systems.
+X-ray binaries are important laboratories for studying accretion physics.
+They also help researchers estimate black-hole masses and spins.
+
+SAGITTARIUS A*
+Sagittarius A* is the supermassive black hole at the center of the Milky Way.
+It has a mass of roughly 4.3 million times the mass of the Sun.
+Stars near Sagittarius A* follow rapid orbits around the galactic center.
+Measurements of these stellar orbits provide strong evidence for a compact central mass.
+Sagittarius A* is relatively faint compared with many active galactic nuclei.
+The Event Horizon Telescope produced an image of the region around Sagittarius A* in 2022.
+The image shows a bright emission ring surrounding a central dark shadow-like region.
+The observed structure is consistent with predictions for a supermassive black hole.
+
+M87*
+M87* is the supermassive black hole at the center of the galaxy Messier 87.
+Its mass is approximately 6.5 billion times the mass of the Sun.
+M87* is surrounded by a bright accreting environment.
+The galaxy M87 has a powerful relativistic jet extending far from its central region.
+The Event Horizon Telescope released the first image of a black-hole shadow in 2019.
+The image showed a bright ring-like structure around a dark central region.
+The observed appearance is produced by emission near the black hole and strong gravitational lensing.
+The image does not directly show the event horizon as a physical surface.
+
+EVENT HORIZON TELESCOPE
+The Event Horizon Telescope is a global network of radio observatories operating as a very long baseline interferometer.
+It combines observations from widely separated telescopes to achieve extremely high angular resolution.
+The EHT operates primarily at millimeter wavelengths.
+Its observations can resolve structures on scales comparable to a black-hole shadow.
+The EHT observed M87* and Sagittarius A*.
+The M87* result was released in 2019.
+The Sagittarius A* result was released in 2022.
+EHT observations provide tests of strong-field gravitational physics.
+They also reveal properties of the hot plasma surrounding supermassive black holes.
+
+KEY TERMS
+Black hole means a region of spacetime bounded by an event horizon from which escape is impossible.
+Event horizon means the causal boundary of a black hole.
+Schwarzschild radius means the event-horizon radius of a nonrotating, uncharged black hole.
+Accretion means the process by which matter falls toward and becomes incorporated into a compact object.
+Accretion disk means a rotating disk of matter orbiting and feeding a compact object.
+Ergosphere means the region outside a rotating black hole where frame dragging is unavoidable.
+Frame dragging means the dragging of spacetime caused by a rotating massive object.
+Gravitational lensing means the deflection and distortion of light by gravity.
+Black-hole shadow means the dark apparent region associated with photon capture near a black hole.
+Gravitational waves are propagating disturbances in spacetime produced by accelerating mass-energy distributions.
+Ringdown is the damped oscillation of a newly formed black hole after a merger.
+Supermassive black hole means a black hole with millions to billions of solar masses.
+Stellar-mass black hole means a black hole formed through stellar-scale processes.
+Kerr black hole means a rotating black-hole solution of general relativity.
+Schwarzschild black hole means a nonrotating, uncharged black-hole solution.
+Hawking radiation means the predicted quantum thermal emission associated with black holes.
+
+SCIENTIFIC IMPORTANCE
+Black holes test general relativity in some of the strongest gravitational environments known.
+Their accretion systems help researchers study high-energy plasma physics.
+Their mergers provide direct observations of gravitational-wave phenomena.
+Their shadows allow tests of strong gravitational lensing and compact-object geometry.
+Their growth is connected to galaxy formation and evolution.
+Black holes connect astrophysics with quantum theory and fundamental physics.
+Observations from electromagnetic and gravitational-wave astronomy provide complementary information.
+Future observations will improve measurements of black-hole populations, spins, environments, and evolution.
+Black-hole research combines theory, observation, simulation, and advanced instrumentation.
+Black holes remain among the most important objects for understanding extreme physics in the universe.

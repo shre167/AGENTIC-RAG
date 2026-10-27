@@ -1,0 +1,150 @@
+James Webb Space Telescope (JWST)
+1. The James Webb Space Telescope is commonly called Webb.
+2. Its official abbreviation is JWST.
+3. Webb is a large space-based observatory.
+4. It observes the universe mainly in infrared light.
+5. Webb is one of the most powerful space telescopes ever built.
+6. NASA leads the Webb mission.
+7. The European Space Agency is a major mission partner.
+8. The Canadian Space Agency is also a major partner.
+9. Webb was developed through international cooperation.
+10. Its main scientific purpose is to study the universe in infrared.
+11. Webb was launched on December 25, 2021.
+12. It was launched aboard an Ariane 5 rocket.
+13. The launch took place from French Guiana.
+14. The launch site is Europe's Spaceport in Kourou.
+15. Webb was launched into space successfully.
+16. Webb does not orbit Earth like the Hubble Space Telescope.
+17. Webb operates near the Sun-Earth L2 Lagrange point.
+18. L2 is about 1.5 million kilometers from Earth.
+19. L2 provides a useful environment for infrared observations.
+20. Webb travels around the Sun while accompanying Earth.
+21. The telescope has a large primary mirror.
+22. Its primary mirror is approximately 6.5 meters across.
+23. The mirror is made of 18 hexagonal segments.
+24. The mirror segments are made primarily from beryllium.
+25. Beryllium is lightweight and remains stable at low temperatures.
+26. The mirror segments have a very thin gold coating.
+27. Gold reflects infrared radiation very effectively.
+28. The segmented mirror can be folded for launch.
+29. The mirror was unfolded after Webb reached space.
+30. Precise alignment of the mirror segments is essential.
+31. Webb has a huge five-layer sunshield.
+32. The sunshield is approximately the size of a tennis court.
+33. The sunshield protects the telescope from heat and sunlight.
+34. It blocks radiation from the Sun.
+35. It also helps block heat from Earth and the Moon.
+36. Webb's instruments must remain extremely cold.
+37. Keeping the telescope cold reduces unwanted infrared radiation.
+38. Infrared observations are sensitive to heat.
+39. The sunshield is made from thin reflective materials.
+40. Each layer helps reduce the heat reaching the telescope.
+41. Webb has four major scientific instrument systems.
+42. One instrument is called NIRCam.
+43. NIRCam means Near Infrared Camera.
+44. NIRCam is used for infrared imaging.
+45. It can observe distant galaxies and stars.
+46. NIRCam also helps scientists study star-forming regions.
+47. NIRSpec is another major Webb instrument.
+48. NIRSpec means Near Infrared Spectrograph.
+49. NIRSpec studies the spectra of astronomical objects.
+50. Spectroscopy can reveal chemical composition.
+51. Spectroscopy can also provide information about temperature.
+52. It can help determine the motion of astronomical objects.
+53. MIRI is Webb's Mid-Infrared Instrument.
+54. MIRI observes longer infrared wavelengths.
+55. MIRI is useful for studying cool objects.
+56. MIRI can observe dust in galaxies and star-forming regions.
+57. MIRI can also study distant galaxies.
+58. FGS/NIRISS is another instrument system.
+59. FGS stands for Fine Guidance Sensor.
+60. The Fine Guidance Sensor helps Webb point accurately.
+61. NIRISS stands for Near Infrared Imager and Slitless Spectrograph.
+62. NIRISS performs specialized infrared observations.
+63. Webb's instruments work together for different scientific studies.
+64. Infrared astronomy provides information unavailable from visible light alone.
+65. Infrared light can pass through some clouds of cosmic dust.
+66. This helps astronomers observe regions where stars are forming.
+67. Infrared observations can reveal objects hidden by dust.
+68. Webb can also detect very faint and distant galaxies.
+69. Light from distant galaxies is affected by cosmic expansion.
+70. This expansion stretches light toward longer wavelengths.
+71. This effect is called cosmological redshift.
+72. Very distant galaxies can therefore become easier to study in infrared.
+73. One major Webb goal is studying the early universe.
+74. Scientists want to understand the first galaxies.
+75. They also want to understand the first generations of stars.
+76. Webb can observe galaxies that existed billions of years ago.
+77. These observations help reconstruct cosmic history.
+78. Webb studies how galaxies formed and evolved.
+79. It examines the structure and properties of distant galaxies.
+80. It can observe galaxies at different stages of development.
+81. Webb also studies the birth of stars.
+82. Stars form inside large clouds of gas and dust.
+83. Infrared wavelengths can help reveal these hidden stellar nurseries.
+84. Webb observes young stars and their surrounding environments.
+85. It can study disks of material around young stars.
+86. These disks are important in planet formation.
+87. Webb also investigates planetary systems.
+88. It studies planets inside and outside our Solar System.
+89. Planets outside our Solar System are called exoplanets.
+90. Webb can study some exoplanet atmospheres.
+91. Atmospheric observations can reveal gases around exoplanets.
+92. Scientists can identify chemical signatures in atmospheric spectra.
+93. Webb can search for water-related signatures in suitable observations.
+94. It can also investigate carbon-containing molecules.
+95. Atmospheric chemistry can provide clues about planetary conditions.
+96. Webb is not designed to directly prove that life exists.
+97. Instead, it helps scientists study potentially interesting environments.
+98. Webb also observes objects within our Solar System.
+99. These include planets, moons, asteroids, and comets.
+100. Infrared observations can reveal temperatures and surface properties.
+101. Webb has produced detailed images of nebulae.
+102. Nebulae are large clouds of gas and dust in space.
+103. Some nebulae are regions where new stars are forming.
+104. Webb's images can reveal structures hidden in dust.
+105. Its observations can show complex patterns of gas and material.
+106. Webb has also observed distant galaxy clusters.
+107. Galaxy clusters contain many galaxies bound by gravity.
+108. Massive clusters can affect light from more distant objects.
+109. This effect is known as gravitational lensing.
+110. Gravitational lensing can help astronomers study very distant galaxies.
+111. Webb works together with other observatories.
+112. It complements the Hubble Space Telescope.
+113. Hubble observes ultraviolet, visible, and some infrared wavelengths.
+114. Webb is optimized primarily for infrared observations.
+115. Hubble orbits Earth.
+116. Webb operates near the Sun-Earth L2 point.
+117. Webb has a larger primary mirror than Hubble.
+118. A larger mirror provides greater light-gathering capability.
+119. Webb can therefore study extremely faint astronomical targets.
+120. Webb's observations complement rather than replace Hubble observations.
+121. Webb's deployment was a major engineering challenge.
+122. The telescope had to be folded inside its launch vehicle.
+123. Its mirror and sunshield were deployed in space.
+124. Hundreds of deployment steps were required.
+125. Engineers carefully monitored the spacecraft during deployment.
+126. The mirror was then precisely aligned.
+127. Webb uses sophisticated guidance systems for accurate pointing.
+128. Stable pointing is important for long scientific exposures.
+129. Webb can observe extremely faint sources for extended periods.
+130. Its instruments are protected from unwanted thermal radiation.
+131. Webb's scientific observations produce images and spectra.
+132. Images show the distribution of light from astronomical objects.
+133. Spectra separate light into different wavelengths.
+134. Spectra can contain fingerprints of atoms and molecules.
+135. Scientists analyze these fingerprints to understand distant objects.
+136. Webb has expanded our ability to study the early universe.
+137. It has revealed unexpectedly detailed distant galaxies.
+138. Such observations help scientists test models of galaxy formation.
+139. Webb also provides new views of stellar nurseries.
+140. Its observations improve our understanding of how stars are born.
+141. Webb contributes to research on planet formation.
+142. It also helps scientists investigate exoplanet atmospheres.
+143. Its data are used by astronomers around the world.
+144. Webb observations are an important resource for modern astronomy.
+145. The telescope represents decades of scientific and engineering work.
+146. Its mission demonstrates the value of international cooperation.
+147. Webb helps scientists investigate the history of the cosmos.
+148. It provides new information about stars, galaxies, and planets.
+149. Its observations are helping answer fundamental questions about our universe.

@@ -1,0 +1,204 @@
+MERCURY
+
+1. OVERVIEW
+   Mercury is the smallest of the eight recognized planets in the Solar System.
+   Mercury is the planet closest to the Sun.
+   Mercury is a terrestrial planet with a rocky composition.
+   Mercury has a solid surface covered by numerous impact craters.
+   Mercury has no substantial atmosphere like Earth.
+   Mercury has a very thin exosphere.
+   Mercury is smaller than Earth's Moon.
+   Mercury has a diameter of approximately 4,879 kilometers.
+   Mercury has a mass of approximately 5.5 percent of Earth's mass.
+   Mercury's average distance from the Sun is approximately 58 million kilometers.
+   Mercury receives much more solar radiation than Earth.
+   Mercury has the shortest orbital period of any planet.
+   Mercury completes one orbit around the Sun in about 88 Earth days.
+   Mercury rotates slowly compared with its orbital motion.
+   One solar day on Mercury lasts about 176 Earth days.
+   Mercury has a strong metallic core relative to its overall size.
+   Mercury's unusual internal structure makes it important for planetary science.
+
+2. FORMATION
+   Mercury formed approximately 4.5 billion years ago.
+   Mercury formed from material in the early Solar System.
+   The planet developed through accretion of rocky and metallic material.
+   Mercury formed in the hot inner region of the Solar System.
+   The high temperatures near the young Sun influenced the materials available during formation.
+   Mercury contains a relatively large metallic core compared with its mantle and crust.
+   Several explanations have been proposed for Mercury's unusually large core.
+   Large impacts may have removed some of Mercury's original rocky material.
+   The exact sequence of events that produced Mercury's present structure remains an area of research.
+   Studying Mercury helps scientists understand the formation of planets close to their stars.
+
+3. ORBIT
+   Mercury follows an elliptical orbit around the Sun.
+   Mercury's orbit is more eccentric than the orbits of the other major planets.
+   Its distance from the Sun changes significantly during its orbit.
+   Mercury reaches perihelion when it is closest to the Sun.
+   Mercury reaches aphelion when it is farthest from the Sun.
+   Mercury travels around the Sun at a high orbital speed.
+   Its average orbital speed is about 47 kilometers per second.
+   Mercury's short orbital period results from its close distance to the Sun.
+   Mercury's orbit is also slightly inclined relative to Earth's orbital plane.
+   The planet experiences strong gravitational effects from the Sun.
+   Mercury's orbit has been studied precisely using spacecraft and astronomical observations.
+
+4. ROTATION
+   Mercury rotates around its axis relatively slowly.
+   Mercury takes about 59 Earth days to complete one rotation.
+   Mercury's rotational period is related to its orbital period.
+   Mercury is in a 3:2 spin-orbit resonance with the Sun.
+   Mercury rotates three times for every two orbits around the Sun.
+   The 3:2 resonance means Mercury does not keep the same side permanently facing the Sun.
+   A location on Mercury experiences unusual cycles of daylight and darkness.
+   One complete solar day on Mercury lasts approximately 176 Earth days.
+   Mercury's slow rotation contributes to large temperature differences between day and night.
+   The relationship between Mercury's rotation and orbit is an important example of tidal evolution.
+
+5. SURFACE
+   Mercury has a rocky solid surface.
+   Its surface resembles the heavily cratered regions of Earth's Moon.
+   Impact craters cover large portions of Mercury.
+   The surface also contains cliffs, plains, valleys, and other geological features.
+   Large impacts have shaped Mercury throughout its history.
+   Some regions of Mercury are relatively smooth plains.
+   Volcanic activity in Mercury's early history contributed to the formation of smooth plains.
+   The planet has experienced contraction as its interior cooled.
+   This contraction produced large fault scarps across the surface.
+   Mercury's surface records evidence of its geological history.
+   The absence of a thick atmosphere allows small impact features to remain preserved.
+   Mercury's surface is an important record of impacts in the inner Solar System.
+
+6. CRATERS
+   Impact craters are among Mercury's most common surface features.
+   Craters formed when asteroids and other objects struck the planet.
+   Some Mercury craters are extremely large.
+   The largest impact structures can extend hundreds of kilometers across.
+   Craters can contain central peaks formed during large impacts.
+   Fresh craters can have bright deposits around their interiors.
+   Older craters can become degraded through later impacts and geological processes.
+   Mercury's heavily cratered terrain indicates extensive impact history.
+   The Caloris Basin is one of Mercury's largest known impact features.
+   The Caloris Basin formed after a major impact early in Mercury's history.
+   The impact that formed the basin affected regions on the opposite side of Mercury.
+   Mercury's crater record provides information about the history of impacts in the inner Solar System.
+
+7. CALORIS BASIN
+   The Caloris Basin is a giant impact basin on Mercury.
+   It is approximately 1,550 kilometers across.
+   The basin formed from a massive collision early in Mercury's history.
+   The impact produced extensive geological disturbances.
+   The interior of the basin contains relatively smooth volcanic plains.
+   The basin is surrounded by terrain influenced by the original impact.
+   The Caloris Basin is one of the most prominent features on Mercury.
+   Studying the basin helps scientists understand the effects of large planetary impacts.
+
+8. INTERNAL STRUCTURE
+   Mercury has a large metallic core.
+   The core occupies a substantial fraction of Mercury's interior.
+   The core is surrounded by a rocky mantle.
+   A rocky crust forms the outermost solid layer.
+   Mercury's core contains a significant amount of iron.
+   The large core contributes to Mercury's relatively high average density.
+   Mercury has a global magnetic field.
+   The magnetic field provides evidence that at least part of the core remains active.
+   Scientists study Mercury's interior using spacecraft measurements and gravitational data.
+   Understanding Mercury's core helps explain how small terrestrial planets evolve.
+
+9. MAGNETIC FIELD
+   Mercury has a global magnetic field.
+   Its magnetic field is weaker than Earth's magnetic field.
+   Mercury's magnetic field is approximately aligned with its rotation axis.
+   The magnetic field interacts with the solar wind.
+   The solar wind is a stream of charged particles from the Sun.
+   Mercury's magnetic environment is strongly influenced by its proximity to the Sun.
+   The planet has a small magnetosphere.
+   Solar wind conditions around Mercury can change rapidly.
+   Mercury's magnetic field is unusual for a small rocky planet.
+   The existence of the field provides information about Mercury's interior.
+
+10. EXOSPHERE
+    Mercury does not have a thick atmosphere.
+    Instead, Mercury has an extremely thin exosphere.
+    The exosphere contains atoms released from the surface.
+    Solar radiation can knock atoms from Mercury's surface.
+    Micrometeorite impacts can also release material into the exosphere.
+    The solar wind contributes to interactions between the surface and surrounding space environment.
+    The exosphere contains elements including sodium, oxygen, hydrogen, helium, and potassium.
+    Because the exosphere is extremely thin, it does not behave like Earth's atmosphere.
+    Mercury's exosphere cannot retain heat effectively.
+    The lack of a substantial atmosphere contributes to extreme surface temperature variations.
+
+11. TEMPERATURE
+    Mercury experiences extreme temperature differences.
+    The dayside can become extremely hot because Mercury is close to the Sun.
+    Surface temperatures on the sunlit side can reach roughly 430 degrees Celsius.
+    The nightside can become extremely cold.
+    Nighttime temperatures can fall to approximately minus 180 degrees Celsius.
+    The thin exosphere provides little insulation.
+    Mercury's slow rotation causes long periods of sunlight and darkness.
+    Some permanently shadowed polar craters remain extremely cold.
+    Temperature variations make Mercury useful for studying heat transfer on airless worlds.
+
+12. WATER ICE
+    Despite its proximity to the Sun, Mercury contains water ice in some polar craters.
+    Some deep polar craters receive little or no direct sunlight.
+    These permanently shadowed regions can remain extremely cold.
+    Radar observations provided evidence for reflective deposits in polar craters.
+    Spacecraft observations support the presence of water ice in permanently shadowed areas.
+    The water may have been delivered by comets, asteroids, or other processes.
+    Water ice can survive where temperatures remain low enough.
+    Mercury's polar ice demonstrates that volatile materials can persist on airless bodies.
+    Studying Mercury's polar deposits helps scientists understand volatile transport in the inner Solar System.
+
+13. SOLAR ENVIRONMENT
+    Mercury is exposed to intense solar radiation.
+    The planet receives significantly more sunlight than Earth.
+    The solar wind interacts directly with Mercury's magnetosphere.
+    Solar activity can affect Mercury's surface environment.
+    Mercury has no thick atmosphere to shield its surface from the space environment.
+    The planet's close distance to the Sun makes it an important target for studying solar interactions.
+    Spacecraft operating near Mercury must withstand strong solar heating.
+    Mercury provides an environment for studying planetary magnetospheres close to stars.
+
+14. EXPLORATION
+    Mercury has been studied by several spacecraft.
+    Mariner 10 was the first spacecraft to visit Mercury.
+    Mariner 10 conducted multiple flybys of Mercury during the 1970s.
+    The mission used a gravity-assist technique involving Venus.
+    Mariner 10 photographed a significant portion of Mercury's surface.
+    MESSENGER was a NASA spacecraft that studied Mercury extensively.
+    MESSENGER entered orbit around Mercury in 2011.
+    MESSENGER mapped Mercury's surface in much greater detail.
+    The spacecraft studied Mercury's composition, magnetic field, exosphere, and interior.
+    MESSENGER discovered evidence supporting the presence of water ice in polar regions.
+    BepiColombo is a joint European-Japanese mission studying Mercury.
+    BepiColombo consists of the Mercury Planetary Orbiter and Mercury Magnetospheric Orbiter.
+    The mission is designed to investigate Mercury's interior, surface, exosphere, and magnetosphere.
+
+15. SCIENTIFIC IMPORTANCE
+    Mercury provides an example of a small terrestrial planet.
+    Its large metallic core makes it unusual among rocky planets.
+    Its proximity to the Sun allows scientists to study a strongly irradiated planetary environment.
+    Mercury's magnetic field provides information about planetary interiors.
+    Its cratered surface records billions of years of impacts.
+    Its polar ice demonstrates that volatile materials can survive near the Sun.
+    Mercury helps scientists test models of terrestrial planet formation.
+    Comparisons between Mercury, Venus, Earth, and Mars reveal differences in planetary evolution.
+    Spacecraft observations continue to improve understanding of Mercury's geology.
+    Mercury is an important target for comparative planetary science.
+
+16. KEY TERMS
+    Mercury: The smallest recognized planet and the closest planet to the Sun.
+    Terrestrial planet: A rocky planet with a solid surface.
+    Exosphere: An extremely thin outer atmospheric region.
+    Caloris Basin: A very large impact basin on Mercury.
+    Spin-orbit resonance: A relationship between an object's rotation and orbital periods.
+    3:2 resonance: Mercury's rotation-orbit relationship in which three rotations occur for every two orbits.
+    Perihelion: The point in Mercury's orbit closest to the Sun.
+    Aphelion: The point in Mercury's orbit farthest from the Sun.
+    Magnetosphere: The region around a planet influenced by its magnetic field.
+    Solar wind: A continuous flow of charged particles from the Sun.
+    Regolith: A layer of loose material covering a planetary surface.
+    Impact crater: A depression formed by the collision of a space object with a planetary surface.

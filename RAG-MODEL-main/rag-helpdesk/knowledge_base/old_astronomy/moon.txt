@@ -1,0 +1,229 @@
+MOON
+
+1. OVERVIEW
+   The Moon is Earth's only natural satellite.
+   The Moon is the fifth-largest natural satellite in the Solar System.
+   The Moon is the largest natural satellite relative to the size of its host planet.
+   The Moon is a rocky body with a solid surface.
+   The Moon has no substantial atmosphere.
+   The Moon has a very thin exosphere.
+   The average distance between Earth and the Moon is about 384,400 kilometers.
+   The Moon's diameter is about 3,475 kilometers.
+   The Moon's mass is about 1.2 percent of Earth's mass.
+   The Moon's surface is covered by craters, mountains, valleys, and plains.
+   The Moon has water ice in permanently shadowed polar regions.
+   The Moon's gravity is about one-sixth of Earth's surface gravity.
+   The Moon has a major influence on Earth's ocean tides.
+   The Moon also contributes to the long-term stability of Earth's axial orientation.
+   The Moon is one of the most extensively studied objects beyond Earth.
+
+2. FORMATION
+   The leading explanation for the Moon's origin is the giant-impact hypothesis.
+   According to this hypothesis, a large body collided with the early Earth.
+   The impact produced debris that entered orbit around Earth.
+   The debris eventually accumulated to form the Moon.
+   The Moon formed approximately 4.5 billion years ago.
+   The exact details of the giant impact remain under scientific investigation.
+   Early in its history, the Moon was much hotter than it is today.
+   A global or extensive magma ocean may have existed during the Moon's early evolution.
+   Cooling allowed minerals to crystallize and form the lunar crust.
+   The Moon's formation is closely connected to the early history of Earth.
+
+3. ORBIT
+   The Moon orbits Earth in an elliptical orbit.
+   The Moon's average orbital distance from Earth is approximately 384,400 kilometers.
+   The Moon completes one orbit relative to the stars in about 27.3 days.
+   This period is called the sidereal month.
+   The Moon's orbit is inclined by about 5 degrees relative to Earth's orbital plane.
+   The Moon's distance from Earth changes during its orbit.
+   The closest point in the Moon's orbit is called perigee.
+   The farthest point is called apogee.
+   The Moon's orbital motion determines the timing of lunar phases.
+   The Moon also orbits the Sun while orbiting Earth.
+   The Earth-Moon system travels together around the Sun.
+
+4. ROTATION AND TIDAL LOCKING
+   The Moon rotates around its axis.
+   The Moon takes approximately 27.3 days to complete one rotation relative to the stars.
+   The Moon's rotation period matches its orbital period around Earth.
+   This condition is called synchronous rotation.
+   Synchronous rotation causes the same lunar hemisphere to generally face Earth.
+   The hemisphere facing Earth is commonly called the near side.
+   The opposite hemisphere is commonly called the far side.
+   The far side is sometimes incorrectly called the dark side.
+   The far side receives sunlight just as the near side does.
+   Tidal forces from Earth caused the Moon's synchronous rotation over time.
+   Small orbital effects allow Earth observers to see slightly more than half of the lunar surface over time.
+   This apparent motion is called lunar libration.
+
+5. LUNAR PHASES
+   The Moon does not produce its own visible light.
+   The Moon appears bright because it reflects sunlight.
+   The lunar phase depends on the relative positions of the Sun, Earth, and Moon.
+   A new Moon occurs when the Moon is approximately between Earth and the Sun.
+   A full Moon occurs when Earth is approximately between the Sun and Moon.
+   A first-quarter Moon occurs when about half of the visible lunar disk is illuminated.
+   A third-quarter Moon also shows approximately half of the visible disk illuminated.
+   Waxing describes the increase of the illuminated portion.
+   Waning describes the decrease of the illuminated portion.
+   The complete sequence of lunar phases takes about 29.5 days.
+   This period is called a synodic month.
+   The lunar phases are caused by changing illumination geometry, not Earth's shadow.
+
+6. SURFACE
+   The Moon has a solid rocky surface.
+   The surface is covered by a layer of loose material called regolith.
+   Regolith consists of fragmented rock, mineral grains, and impact debris.
+   The Moon has many impact craters.
+   The largest craters were produced by collisions with asteroids and other bodies.
+   The Moon's surface also contains mountains, ridges, valleys, and volcanic plains.
+   Large parts of the surface preserve evidence of ancient impacts.
+   The lack of substantial atmospheric weathering helps preserve surface features.
+   The Moon does not have liquid oceans or flowing rivers on its present surface.
+   Surface temperatures vary strongly between illuminated and dark regions.
+   Lunar geology provides a record of events in the early Solar System.
+
+7. HIGHLANDS AND MARIA
+   The lunar highlands are generally bright and heavily cratered.
+   The highlands form much of the Moon's ancient crust.
+   Many highland regions are older than the dark lunar maria.
+   Maria are broad, relatively dark plains on the Moon.
+   The word maria means seas, although the maria are not seas of water.
+   Most maria formed from ancient volcanic lava flows.
+   Large impacts created basins that later filled with basaltic lava.
+   The basaltic plains appear darker than the surrounding highlands.
+   Maria are concentrated more heavily on the near side.
+   The difference between the near side and far side is called lunar hemispheric asymmetry.
+
+8. IMPACT CRATERS
+   Impact craters are among the most common lunar surface features.
+   Craters form when asteroids, meteoroids, or other bodies strike the surface.
+   Small impacts can produce small bowl-shaped craters.
+   Large impacts can create complex craters with central peaks.
+   Very large impacts can produce enormous impact basins.
+   The Moon has no thick atmosphere to burn up most incoming small objects.
+   Impact ejecta can be distributed around a crater.
+   Some craters overlap older craters.
+   Crater superposition can help scientists determine relative surface ages.
+   The density of craters is useful for studying the geological history of lunar regions.
+   Impact cratering has been an important process throughout lunar history.
+
+9. INTERNAL STRUCTURE
+   The Moon has a crust, mantle, and core.
+   The lunar crust is the outermost major solid layer.
+   The mantle lies beneath the crust.
+   A small metallic core exists at the center of the Moon.
+   The Moon's core is much smaller relative to the Moon than Earth's core is relative to Earth.
+   The Moon's interior contains both solid and partially molten regions.
+   Seismic measurements from lunar missions have provided information about the Moon's interior.
+   The Moon has experienced internal cooling throughout its history.
+   The Moon's geological activity has decreased as its interior lost heat.
+   Studying the lunar interior helps scientists understand the evolution of rocky planetary bodies.
+
+10. LUNAR MAGNETIC ENVIRONMENT
+    The Moon does not currently possess a strong global magnetic field like Earth.
+    Some lunar rocks preserve evidence of ancient magnetization.
+    This suggests the Moon may have generated a stronger magnetic field in its early history.
+    The Moon interacts directly with the solar wind.
+    The solar wind consists of charged particles released by the Sun.
+    Solar wind particles can interact with the lunar surface.
+    The Moon's lack of a thick atmosphere provides little protection from space radiation.
+    The lunar magnetic environment varies across different regions.
+    Studying lunar magnetism helps scientists investigate the Moon's early interior.
+
+11. WATER ICE
+    Water exists on the Moon in very small amounts compared with Earth.
+    Scientists have detected evidence of water molecules and hydroxyl on the lunar surface.
+    Water ice is concentrated in some permanently shadowed polar regions.
+    These regions receive little or no direct sunlight.
+    Their extremely low temperatures allow volatile materials to remain preserved.
+    Water may have been delivered by comets, asteroids, or solar-wind-related chemical processes.
+    Lunar water is scientifically important for understanding the Moon's history.
+    Water deposits could also become useful resources for future lunar exploration.
+    The amount, distribution, and accessibility of lunar water remain active research topics.
+
+12. TEMPERATURE
+    The Moon experiences large surface temperature variations.
+    The absence of a thick atmosphere contributes to extreme temperature changes.
+    Sunlit lunar surfaces can become extremely hot.
+    Unilluminated surfaces can become extremely cold.
+    Temperatures depend strongly on location, illumination, and local terrain.
+    Permanently shadowed craters near the poles can remain extremely cold.
+    Lunar temperature measurements are important for mission planning.
+    Temperature conditions affect spacecraft systems and surface equipment.
+    The extreme thermal environment is one of the challenges of lunar exploration.
+
+13. GRAVITY
+    The Moon's surface gravity is approximately one-sixth that of Earth.
+    A person on the Moon would weigh much less than on Earth.
+    The lower gravity affects how objects move and how astronauts walk.
+    Lunar gravity is strong enough to retain some surface material.
+    The Moon cannot retain a thick atmosphere under present conditions.
+    Lunar gravity affects the trajectories of spacecraft around the Moon.
+    The Moon's gravity also contributes to the motion of the Earth-Moon system.
+    The difference between lunar and terrestrial gravity is important for spacecraft operations.
+
+14. TIDES
+    The Moon is the main contributor to Earth's ocean tides.
+    The Moon's gravitational pull creates tidal bulges in Earth's oceans.
+    Earth's rotation causes these tidal effects to move relative to locations on Earth.
+    The Sun also contributes to Earth's tides.
+    When the Sun, Earth, and Moon are aligned, stronger tides can occur.
+    These stronger tides are called spring tides.
+    When the Sun and Moon are at approximately right angles relative to Earth, weaker tides occur.
+    These weaker tides are called neap tides.
+    Tidal interactions transfer energy between Earth's rotation and the Moon's orbit.
+    The Moon is slowly moving away from Earth because of tidal evolution.
+
+15. ECLIPSES
+    A solar eclipse occurs when the Moon passes between Earth and the Sun.
+    During a solar eclipse, the Moon can temporarily block the Sun from view.
+    A total solar eclipse occurs when the Sun is completely covered from a location in the Moon's shadow.
+    A partial solar eclipse occurs when only part of the Sun is covered.
+    A lunar eclipse occurs when Earth passes between the Sun and Moon.
+    During a lunar eclipse, the Moon enters Earth's shadow.
+    Not every new Moon produces a solar eclipse.
+    Not every full Moon produces a lunar eclipse.
+    The Moon's orbital inclination prevents eclipses from occurring every month.
+    Eclipses provide useful opportunities for scientific observations.
+
+16. EXPLORATION
+    The Moon was the first extraterrestrial body visited by humans.
+    The Soviet Luna program conducted early robotic lunar missions.
+    Luna 2 became the first human-made object to reach the lunar surface.
+    Luna 9 achieved the first successful soft landing on the Moon.
+    The Apollo program was a NASA human lunar exploration program.
+    Apollo 11 achieved the first human landing on the Moon in 1969.
+    Neil Armstrong and Buzz Aldrin became the first humans to walk on the lunar surface.
+    Michael Collins remained in lunar orbit during the Apollo 11 surface mission.
+    Several Apollo missions returned lunar rock and soil samples to Earth.
+    Lunar samples have provided information about the Moon's composition and geological history.
+    Modern missions continue to map and study the Moon using orbiters, landers, and rovers.
+
+17. SCIENTIFIC IMPORTANCE
+    The Moon preserves evidence from the early Solar System.
+    Its heavily cratered surface provides information about ancient impacts.
+    Lunar samples allow scientists to study extraterrestrial rocks directly.
+    The Moon is a natural laboratory for studying airless rocky bodies.
+    Its geological relationship with Earth provides information about planetary formation.
+    Lunar water deposits are important for understanding volatile materials in the inner Solar System.
+    The Moon is an important target for future robotic and human exploration.
+    Lunar observations help scientists prepare for exploration of other worlds.
+    The Earth-Moon system provides an important example of planetary-satellite evolution.
+
+18. KEY TERMS
+    Moon: Earth's natural satellite.
+    Natural satellite: A naturally occurring body that orbits a planet or another larger body.
+    Near side: The lunar hemisphere that generally faces Earth.
+    Far side: The lunar hemisphere that generally faces away from Earth.
+    Synchronous rotation: Rotation in which an object's rotation period matches its orbital period.
+    Libration: Apparent oscillation that allows observers to see slightly more than half of the lunar surface over time.
+    Maria: Large dark basaltic plains on the Moon.
+    Regolith: Loose fragmented material covering the lunar surface.
+    Perigee: The point in the Moon's orbit closest to Earth.
+    Apogee: The point in the Moon's orbit farthest from Earth.
+    Sidereal month: The Moon's orbital period measured relative to distant stars.
+    Synodic month: The approximately 29.5-day cycle of lunar phases.
+    Solar eclipse: An event in which the Moon passes between Earth and the Sun.
+    Lunar eclipse: An event in which the Moon passes through Earth's shadow.
+    Tidal locking: A condition in which an object's rotation becomes synchronized with its orbital period.

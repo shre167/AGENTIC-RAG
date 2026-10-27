@@ -1,0 +1,276 @@
+EXOPLANETS — OVERVIEW
+An exoplanet is a planet that orbits a star outside the Solar System.
+The word exoplanet is short for extrasolar planet.
+Exoplanets can orbit stars similar to or very different from the Sun.
+They range from small rocky planets to enormous gas-rich planets.
+Some exoplanets orbit multiple stars.
+Others orbit stars that are much smaller or larger than the Sun.
+The first confirmed exoplanets were discovered around a pulsar in the early 1990s.
+Thousands of exoplanets have since been confirmed.
+Astronomers have also identified many additional planetary candidates.
+Exoplanet research studies planetary formation, evolution, atmospheres, and habitability.
+The study of exoplanets connects astronomy with planetary science and astrobiology.
+
+EXOPLANET FORMATION
+Exoplanets form from material surrounding young stars.
+Young stars can be surrounded by disks of gas and dust.
+Planets develop through the accumulation of solid material and gas.
+Rocky planets can form primarily from solid material in the inner regions.
+Gas-rich planets can form farther from their stars where volatile material is available.
+Planet formation is influenced by temperature, density, and chemical composition.
+Gravitational interactions can cause planets to migrate from their formation locations.
+Collisions between planetary bodies can alter planets during their development.
+Some planetary systems contain planets very different from those in the Solar System.
+Comparing many systems helps scientists understand how planetary systems form.
+
+PROTOPLANETARY DISKS
+A protoplanetary disk is a rotating disk of gas and dust around a young star.
+The disk provides the raw material for planets.
+Dust grains can collide and stick together during early planet formation.
+Larger bodies called planetesimals can develop from accumulated solid material.
+Planetesimals can gravitationally interact and form larger planetary embryos.
+Planetary embryos can eventually become planets.
+Temperature varies with distance from the young star.
+The inner disk is generally warmer than the outer disk.
+The snow line marks a region where water can condense into solid ice.
+Disk chemistry influences the composition of planets that form within it.
+
+PLANET TYPES
+Exoplanets can be grouped into broad categories based on size and composition.
+Terrestrial exoplanets are generally rocky and relatively small.
+Super-Earths are planets larger than Earth but smaller than Neptune in many classification systems.
+Mini-Neptunes are planets intermediate in size between Earth and Neptune.
+Gas giants are large planets dominated by hydrogen and helium.
+Hot Jupiters are gas giants orbiting extremely close to their stars.
+Some exoplanets have densities much lower than Earth's.
+Planet size alone does not uniquely determine composition.
+Mass and radius together can provide information about bulk density.
+Planet classification systems can overlap because planetary properties form a continuous range.
+
+ROCKY EXOPLANETS
+Rocky exoplanets are composed substantially of silicate rock and metallic material.
+Their structures can include a metallic core, rocky mantle, and crust.
+Rocky planets can exist at many distances from their host stars.
+Their surface temperatures depend on stellar radiation and atmospheric properties.
+Some rocky exoplanets are similar in size to Earth.
+Earth-sized does not automatically mean Earth-like.
+Atmospheric composition strongly affects surface conditions.
+Tidal locking can occur for rocky planets close to their stars.
+Strong stellar activity can affect the atmospheres of nearby rocky planets.
+Rocky exoplanets are important targets in the search for potentially habitable environments.
+
+SUPER-EARTHS
+A super-Earth is generally an exoplanet larger or more massive than Earth but smaller than Neptune.
+The term describes size or mass rather than confirmed surface conditions.
+Super-Earths can have rocky, water-rich, or gas-enveloped compositions.
+Their densities can vary significantly.
+Some super-Earths orbit very close to their host stars.
+Others orbit within regions where temperatures may permit liquid water under suitable conditions.
+Their atmospheres can differ greatly depending on formation and evolution.
+Higher gravity can affect atmospheric retention.
+Studying super-Earths helps scientists understand planets between Earth and Neptune.
+The Solar System does not contain a confirmed super-Earth.
+
+HOT JUPITERS
+Hot Jupiters are gas giant exoplanets with very short orbital periods.
+Many complete an orbit around their stars in only a few days.
+Their close distances from their stars produce high atmospheric temperatures.
+Strong stellar heating can cause atmospheric expansion.
+Some hot Jupiters are tidally locked to their host stars.
+One hemisphere can therefore continuously face the star.
+Their atmospheres can experience strong winds and temperature differences.
+Hot Jupiters were among the earliest exoplanets detected around Sun-like stars.
+Their existence challenged simple models of planetary formation.
+They demonstrate that planets can migrate significantly after formation.
+
+ORBITAL MIGRATION
+Planetary migration occurs when a planet's orbit changes after formation.
+Interactions with a protoplanetary disk can alter orbital distance.
+Gravitational interactions between planets can also change their orbits.
+A planet can move closer to or farther from its host star.
+Migration can explain planets found extremely close to their stars.
+It can also influence the arrangement of multiple-planet systems.
+Migration may occur during the early stages of planetary system evolution.
+Resonances can develop when migrating planets interact gravitationally.
+Planetary migration is an important part of modern planet-formation models.
+The exact migration history of an individual exoplanet may be difficult to determine.
+
+DETECTION METHODS
+Astronomers use several techniques to discover and study exoplanets.
+The transit method detects a planet when it passes in front of its star.
+The radial velocity method detects a star's motion caused by an orbiting planet.
+Direct imaging attempts to detect light from a planet itself.
+Gravitational microlensing can reveal planets through changes in observed starlight.
+Astrometry measures small changes in a star's position caused by planets.
+Each method has different strengths and limitations.
+Some methods are better for finding certain planet sizes or orbital distances.
+Combining detection methods can provide more complete planetary information.
+Detection techniques continue to improve as telescopes become more sensitive.
+
+TRANSIT METHOD
+The transit method measures a small decrease in a star's brightness.
+The decrease occurs when an exoplanet passes across the star's visible disk.
+The amount of dimming depends partly on the relative sizes of the planet and star.
+Repeated transits reveal the planet's orbital period.
+The timing between transits can be used to determine the orbital period.
+Transit depth can provide an estimate of planetary radius.
+Transits can also allow atmospheric studies through transmission spectroscopy.
+The method works best when the planetary orbit is aligned appropriately with Earth's viewpoint.
+A planet that does not cross its star from Earth's perspective may not produce detectable transits.
+Space telescopes have discovered large numbers of exoplanets using transit observations.
+
+RADIAL VELOCITY METHOD
+An orbiting planet exerts a gravitational pull on its host star.
+The star responds by moving around the system's center of mass.
+This motion produces changes in the star's velocity relative to Earth.
+Spectrographs can detect these velocity changes through shifts in spectral lines.
+The radial velocity method can estimate a planet's minimum mass.
+The strength of the signal depends on planetary mass and orbital properties.
+More massive planets generally produce stronger stellar motion.
+Planets closer to their stars often produce more easily detectable signals.
+Combining radial velocity with transit data can provide planetary density.
+Long-term observations can reveal multiple planets orbiting the same star.
+
+DIRECT IMAGING
+Direct imaging attempts to observe an exoplanet's light or thermal emission.
+A star is usually much brighter than its planets.
+Special instruments are therefore needed to suppress starlight.
+Direct imaging works best for large planets far from their stars.
+Young giant planets can be especially favorable because they emit substantial infrared radiation.
+Spectral measurements can reveal information about atmospheric composition.
+Direct imaging can provide information that transit and radial velocity methods cannot directly provide.
+The technique is technically challenging because of the contrast between stars and planets.
+Coronagraphs can block or reduce the light from a host star.
+Future observatories may expand direct imaging capabilities.
+
+GRAVITATIONAL MICROLENSING
+Gravitational microlensing uses the bending of light by gravity.
+A foreground star can temporarily magnify the light of a more distant background star.
+A planet orbiting the foreground star can create an additional short-lived signal.
+This signal can reveal the presence of the planet.
+Microlensing can detect planets at relatively large orbital distances.
+It can also detect planets that are difficult to observe using transit methods.
+Microlensing events usually occur only once for a particular alignment.
+Follow-up observations may therefore be difficult.
+The technique is useful for studying planetary populations at large distances.
+It can detect planets that are not necessarily closely bound to bright nearby stars.
+
+EXOPLANET ATMOSPHERES
+Some exoplanet atmospheres can be studied using spectroscopy.
+Spectroscopy measures how matter absorbs or emits different wavelengths of light.
+During a transit, starlight can pass through the planet's atmosphere.
+Molecules in the atmosphere can absorb specific wavelengths.
+These absorption features can provide clues about atmospheric composition.
+Possible atmospheric constituents include water vapor, carbon dioxide, methane, sodium, and other molecules.
+Clouds and hazes can make atmospheric signals harder to detect.
+Temperature affects atmospheric chemistry and circulation.
+Stellar radiation can drive atmospheric escape.
+Atmospheric observations help scientists compare exoplanets with Solar System planets.
+
+TRANSMISSION SPECTROSCOPY
+Transmission spectroscopy studies starlight filtered through an exoplanet's atmosphere.
+The planet blocks slightly different amounts of light at different wavelengths.
+Atmospheric molecules can create wavelength-dependent absorption features.
+The resulting spectrum can provide clues about atmospheric composition.
+The strength of the signal depends on atmospheric scale height and planetary properties.
+Large, low-density planets can produce relatively strong atmospheric signals.
+Clouds can reduce or obscure molecular absorption features.
+Observations often require combining data from many transit events.
+Space telescopes are especially useful because Earth's atmosphere can interfere with measurements.
+Transmission spectroscopy is an important method for atmospheric characterization.
+
+HABITABLE ZONE
+The habitable zone is the region around a star where liquid water could exist on a planet's surface under suitable atmospheric conditions.
+It is sometimes called the circumstellar habitable zone.
+The location of the habitable zone depends strongly on stellar luminosity.
+Hotter stars generally have habitable zones farther from the star.
+Cooler stars generally have habitable zones closer to the star.
+Being inside the habitable zone does not prove that a planet is habitable.
+Atmospheric composition and pressure strongly affect surface temperature.
+Planetary geology and water availability also influence habitability.
+Tidal effects can be important for planets orbiting very close to small stars.
+Habitability therefore depends on many interacting physical and chemical factors.
+
+STELLAR ACTIVITY
+A host star can strongly influence the environment around an exoplanet.
+Stars emit radiation across a broad range of wavelengths.
+Some stars produce strong ultraviolet and X-ray radiation.
+Stellar flares can temporarily increase high-energy radiation.
+Strong stellar activity can heat or erode planetary upper atmospheres.
+Charged particles from stellar winds can interact with planetary magnetic fields.
+Atmospheric loss can change the long-term habitability of a planet.
+Young stars are often more active than older stars.
+Red dwarf stars can produce frequent flares despite their lower luminosity.
+Understanding the host star is essential when evaluating an exoplanet's environment.
+
+TIDAL LOCKING
+Tidal locking occurs when an object's rotation becomes synchronized with its orbital period.
+A tidally locked planet can keep the same hemisphere facing its star.
+This is more likely for planets orbiting very close to their stars.
+The Moon is tidally locked to Earth.
+Tidal locking does not automatically make an exoplanet uninhabitable.
+Atmospheric circulation could transport heat between the permanent day and night sides.
+The climate of a tidally locked planet depends on atmosphere, oceans, and surface properties.
+Some planets may reach partial or other spin-orbit resonances.
+Tidal effects can also heat planetary interiors.
+Tidal evolution is important in compact planetary systems.
+
+PLANETARY DENSITY
+Planetary density can be estimated when both mass and radius are known.
+Density provides clues about a planet's bulk composition.
+A high-density planet is more likely to contain substantial rocky or metallic material.
+A low-density planet may contain a large fraction of volatile material or a thick atmosphere.
+Density alone cannot determine detailed internal structure.
+Transit observations can provide planetary radius.
+Radial velocity measurements can provide mass estimates.
+Combining the two measurements allows approximate bulk density calculation.
+Comparisons with Solar System planets provide useful reference points.
+Density measurements are especially valuable for planets between Earth and Neptune in size.
+
+MULTIPLE-PLANET SYSTEMS
+Many stars host more than one known exoplanet.
+Multiple planets can interact through mutual gravity.
+Orbital resonances can occur when planetary periods have simple ratios.
+Transit timing variations can reveal gravitational interactions between planets.
+Planetary spacing affects long-term orbital stability.
+Compact systems can contain several planets orbiting close to their host star.
+The architecture of a planetary system provides clues about its formation.
+Comparing multiple-planet systems with the Solar System reveals diverse outcomes.
+Some systems have planets in orbital configurations not represented in our Solar System.
+Multiple-planet observations improve models of planetary dynamics.
+
+EXOPLANETS AND ASTROBIOLOGY
+Astrobiology studies the possibility of life beyond Earth.
+Exoplanets provide many potential environments for astrobiological investigation.
+Scientists consider liquid water, energy sources, and suitable chemistry when evaluating habitability.
+A planet's atmosphere can provide important clues about environmental conditions.
+Potential biosignatures are chemical or physical indicators that could be associated with biological activity.
+A single atmospheric molecule is generally not enough to establish life.
+False positives can arise from non-biological chemical processes.
+Stellar activity can also affect atmospheric chemistry.
+Future observations may improve the search for atmospheric biosignatures.
+The search for life on exoplanets requires multiple independent lines of evidence.
+
+EXOPLANET EXPLORATION
+Space telescopes have played a major role in exoplanet discovery.
+The Kepler mission identified thousands of planetary candidates and confirmed many exoplanets.
+The Transiting Exoplanet Survey Satellite surveys bright nearby stars for transiting planets.
+The James Webb Space Telescope can study selected exoplanet atmospheres.
+Ground-based observatories provide complementary radial velocity and imaging observations.
+Different observatories are designed for different aspects of exoplanet research.
+Combining observations from multiple instruments improves confidence in planetary properties.
+Future missions may directly image some potentially Earth-like planets.
+Improved instruments will expand the range of detectable exoplanets.
+Exoplanet research is moving from discovery toward detailed characterization.
+
+KEY TERMS
+Exoplanet: A planet orbiting a star outside the Solar System.
+Transit: The passage of an exoplanet across the visible disk of its host star.
+Radial velocity: The component of a star's motion measured along the line of sight.
+Super-Earth: An exoplanet larger or more massive than Earth but smaller than Neptune in common usage.
+Hot Jupiter: A gas giant exoplanet with a very short orbit close to its star.
+Habitable zone: The region around a star where liquid water could exist under suitable conditions.
+Atmospheric spectroscopy: Analysis of wavelength-dependent light to study atmospheric composition.
+Transmission spectroscopy: Study of starlight passing through an exoplanet's atmosphere.
+Tidal locking: Synchronized rotation in which an object keeps the same side facing its orbital companion.
+Biosignature: A possible indicator of biological activity that requires careful confirmation.

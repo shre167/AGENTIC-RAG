@@ -1,0 +1,25 @@
+{
+  "project_type": "Streamlit single-page app with Chroma vector store, BM25 lexical index, and OpenAI-compatible LLM endpoint",
+  "language": "Python 3.13",
+  "build_system": "No build step. Run with: streamlit run app.py (from rag-helpdesk/ directory)",
+  "test_framework": "pytest — run from rag-helpdesk/ with: python -m pytest tests/ -v",
+  "build_command": "No compile step. Lint: python -m py_compile app.py src/rag_pipeline/*.py",
+  "test_command": "cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m pytest tests/ -v",
+  "verification_instructions": "1. python -m py_compile app.py  -- must produce no errors. 2. python -m pytest tests/ -v -- all tests must pass. 3. Manual smoke: streamlit run app.py, ask 'What is a black hole?', confirm Agent Activity expander appears and shows question_type, retrieval_plan, attempt details, and final_decision.",
+  "snapshot_or_generated_files": null,
+  "environment_constraints": "Do NOT start the Streamlit dev server. All verification is via py_compile + pytest. The .env file has real API keys — do not echo them. Tests that call the LLM must be skipped when LLM_API_KEY is missing (use pytest.mark.skipif). Working directory for all commands: c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk",
+  "contribution_requirements": "No AGENTS.md or CONTRIBUTING.md found. Follow existing patterns: snake_case functions, type hints, no new dependencies beyond what requirements.txt already contains.",
+  "key_patterns": "1. UI render functions are named _render_*() in app.py and call render_html() with HTML strings from src/ui/astronomy_theme.py for styled cards, or use st.* directly for interactive widgets. 2. The response dict from pipeline.answer_question() has keys: answer, sources, retrieved_chunks, evidence, trace, agent_activity, evaluation, citations, citation_coverage, confidence, kb_state, retrieval_mode. 3. _build_meta(response, requested_mode) flattens the response into a display-ready dict. _render_answer_extras(meta) renders that dict under each answer. 4. agent_activity is at response['agent_activity'] and also at response['trace']['agent_activity']. 5. All Streamlit width kwargs go through WIDE = _layout_kwargs() for version compatibility. 6. st.expander() is the pattern for collapsible sections; use expanded=False for secondary info panels.",
+  "relevant_files": [
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\app.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\src\\rag_pipeline\\controller.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\src\\rag_pipeline\\pipeline.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\src\\rag_pipeline\\retrieval_runner.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\src\\rag_pipeline\\evidence.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\src\\rag_pipeline\\retrieval.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\src\\rag_pipeline\\models.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\tests\\test_page_retrieval.py",
+    "c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk\\.agents\\tasks\\investigation.md"
+  ],
+  "directory_structure": "rag-helpdesk/ — project root with app.py (Streamlit UI, 3520 lines). src/config.py — env-driven config (API keys, paths, top-k values). src/rag_pipeline/ — all RAG logic: pipeline.py (main RAGPipeline class), controller.py (AgentController), retrieval.py (dense/BM25/page/chapter/RRF functions), retrieval_runner.py (execute_retrieval_attempt), evidence.py (evaluate_evidence), context.py (select_context_candidates, build_context), generation.py (ask_llm), models.py (Candidate, Evidence, Citation dataclasses), query.py (prepare_search_query, extract_page_query_info, extract_chapter_query_info). src/document_loader.py — PDF/TXT/MD chunking; writes page_start, page_end, chapter_num, section_title metadata. src/unified_vector_store.py — wraps ChromaVectorStore backend. src/bm25_retriever.py — BM25 index. knowledge_base/ — source documents. vectorstore/ — Chroma DB + BM25 index files. tests/ — pytest test files."
+}

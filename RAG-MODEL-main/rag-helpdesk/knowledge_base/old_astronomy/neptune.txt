@@ -1,0 +1,201 @@
+NEPTUNE — OVERVIEW
+Neptune is the eighth and farthest recognized planet from the Sun.
+Neptune is classified as an ice giant.
+It is the fourth-largest planet in the Solar System by diameter.
+Neptune has a diameter of about 49,244 kilometers.
+Its mass is about 17 times the mass of Earth.
+Neptune has an average distance of about 30.1 astronomical units from the Sun.
+One astronomical unit is the average Earth-Sun distance.
+Neptune takes about 165 Earth years to complete one orbit.
+Its average orbital speed is about 5.4 kilometers per second.
+Neptune has an average density of about 1.64 grams per cubic centimeter.
+Its blue appearance is influenced by methane in its atmosphere and atmospheric aerosols.
+
+DISCOVERY
+Neptune was discovered in 1846.
+Its discovery was strongly influenced by mathematical predictions.
+Astronomers noticed that Uranus's orbit did not perfectly match predictions.
+The unexplained orbital differences suggested the gravitational influence of another planet.
+Mathematical calculations were used to predict the location of the unknown planet.
+Johann Galle and Heinrich d'Arrest observed Neptune near the predicted position.
+The discovery demonstrated the power of mathematical astronomy.
+Neptune became the first planet discovered through mathematical prediction.
+The exact history of the prediction involved work by several astronomers.
+Neptune's discovery became an important event in nineteenth-century astronomy.
+
+ORIGIN AND FORMATION
+Neptune formed about 4.5 billion years ago during Solar System formation.
+It formed in the cold outer region of the young Solar System.
+Its building material contained substantial volatile compounds.
+Water, ammonia, and methane became important components of its interior.
+Neptune formed beyond the region where terrestrial planets developed.
+The snow line allowed water and other volatile materials to condense into solids.
+Planetesimals accumulated through gravitational interactions and collisions.
+Neptune's final position may have been affected by gravitational interactions with other planets.
+Models of the early Solar System include possible migration of the giant planets.
+The detailed formation history of Neptune remains an active research topic.
+
+ORBIT
+Neptune follows an elliptical orbit around the Sun.
+Its orbit is nearly circular compared with many other planetary orbits.
+Neptune travels at an average distance of about 4.5 billion kilometers from the Sun.
+Sunlight at Neptune is much weaker than sunlight at Earth.
+A Neptunian year lasts approximately 165 Earth years.
+Neptune completes less than one full orbit during a human lifetime.
+Its long orbital period results from its great distance from the Sun.
+Neptune's orbit is affected slightly by the gravitational influence of other bodies.
+Neptune and Pluto have orbital configurations that avoid close encounters.
+Orbital resonance plays an important role in the long-term dynamics of some trans-Neptunian objects.
+
+ROTATION
+Neptune rotates once in roughly 16 hours.
+Its rotation period is shorter than Earth's day.
+Neptune's rapid rotation contributes to its atmospheric dynamics.
+The planet's equatorial region rotates faster than its polar regions in atmospheric circulation.
+This difference is associated with strong atmospheric winds.
+Neptune has an axial tilt of about 28.3 degrees.
+Its axial tilt produces seasons similar in basic geometry to those of Earth.
+However, each Neptunian season lasts more than four decades.
+Seasonal changes occur very slowly because of Neptune's long orbital period.
+Long-term observations are therefore important for studying its seasonal atmosphere.
+
+ATMOSPHERE
+Neptune has a thick atmosphere surrounding the planet.
+The atmosphere is composed primarily of hydrogen and helium.
+Methane is present in smaller amounts.
+Methane absorbs red light in Neptune's upper atmosphere.
+This absorption contributes to Neptune's blue coloration.
+The atmosphere also contains trace hydrocarbons and other compounds.
+Clouds form at different levels depending on temperature and pressure.
+Methane ice clouds can occur in the upper atmosphere.
+Deeper cloud layers may contain ammonia and water-rich materials.
+The atmosphere gradually becomes denser with increasing depth.
+
+ATMOSPHERIC WEATHER
+Neptune has some of the fastest winds measured on a planet.
+Wind speeds can exceed 1,500 kilometers per hour in some regions.
+Strong winds occur despite Neptune receiving very little sunlight.
+Neptune's atmosphere contains large-scale storms and dark atmospheric features.
+The Great Dark Spot was observed by Voyager 2 during its 1989 flyby.
+The original Great Dark Spot later disappeared from observations.
+Other dark storms have been observed at different times.
+Bright methane clouds can form around atmospheric disturbances.
+Atmospheric storms can change shape, position, and intensity.
+Neptune's weather is driven by complex interactions between internal heat and atmospheric circulation.
+
+INTERNAL HEAT
+Neptune emits more energy than it receives from sunlight.
+The excess energy indicates that Neptune releases significant internal heat.
+Internal heat can influence atmospheric circulation.
+Heat from the interior may contribute to strong winds and storms.
+The exact mechanism transporting internal heat remains an area of research.
+Neptune's internal heat is important when comparing it with Uranus.
+Both planets are ice giants with similar overall compositions.
+Neptune produces substantially more internal energy than Uranus.
+Differences in internal structure may help explain their different atmospheric behavior.
+Studying internal heat helps scientists understand ice giant evolution.
+
+INTERNAL STRUCTURE
+Neptune does not have a solid surface like Earth.
+Its atmosphere gradually transitions into deeper fluid layers.
+The outer atmosphere contains mostly hydrogen and helium.
+Below the atmosphere is a dense mantle rich in volatile compounds.
+Water is expected to be an important component of the mantle.
+Ammonia and methane are also expected within the deeper interior.
+Extreme pressure changes the physical properties of these materials.
+A rocky core is expected near Neptune's center.
+The core is surrounded by a much larger volatile-rich region.
+The exact boundaries between Neptune's interior layers are model-dependent.
+
+ICE GIANT MATERIAL
+The word "ice" in ice giant does not mean ordinary surface ice.
+Planetary scientists use the term for volatile materials such as water, ammonia, and methane.
+These substances can exist in high-pressure and high-temperature states inside Neptune.
+The deep interior may contain exotic phases of water.
+Superionic water is one proposed high-pressure state.
+In superionic water, oxygen atoms form a structure while hydrogen ions move through it.
+Such states may influence Neptune's magnetic field.
+Laboratory experiments help scientists investigate these extreme conditions.
+Computer models combine laboratory data with planetary observations.
+
+MAGNETIC FIELD
+Neptune has a global magnetic field.
+Its magnetic field is strongly tilted relative to its rotation axis.
+The magnetic field is also significantly offset from the planet's center.
+This unusual geometry resembles the magnetic configuration of Uranus.
+The magnetic field creates a magnetosphere around Neptune.
+The magnetosphere interacts continuously with the solar wind.
+Solar wind conditions vary as Neptune travels around the Sun.
+Charged particles can become trapped or redirected by the magnetic field.
+Voyager 2 measured Neptune's magnetic environment during its flyby.
+The magnetic field provides clues about electrical conductivity inside Neptune.
+
+RINGS
+Neptune has a faint system of planetary rings.
+The rings are much darker and less visible than Saturn's rings.
+Several distinct ring structures have been identified.
+The Adams ring is one of Neptune's best-known rings.
+The Adams ring contains bright arcs within the ring system.
+Ring arcs are concentrated regions of material rather than uniform complete rings.
+Galatea, one of Neptune's moons, helps influence the Adams ring.
+Neptune's rings were observed by Voyager 2 in detail.
+Earlier observations had detected some ring structures through stellar occultations.
+
+MOONS
+Neptune has 16 known moons.
+Triton is by far the largest moon of Neptune.
+Triton contains most of the mass of Neptune's known satellite system.
+The remaining moons are much smaller than Triton.
+Many smaller moons have irregular shapes.
+Neptune's moons have different orbital distances and orientations.
+Several small inner moons orbit within or near the ring system.
+Moon interactions can affect ring particles.
+Neptune's satellite system provides evidence about the planet's orbital history.
+The names of Neptune's moons are largely associated with figures from Greek and Roman mythology.
+
+TRITON
+Triton is Neptune's largest moon.
+It has a diameter of about 2,700 kilometers.
+Triton is slightly smaller than Earth's Moon.
+Triton orbits Neptune in a retrograde direction.
+A retrograde orbit strongly suggests that Triton was captured rather than formed with Neptune.
+Triton is therefore thought to have originated in the outer Solar System.
+Its origin may be connected to the Kuiper Belt.
+Triton has a young-looking and geologically active surface.
+Its surface contains nitrogen, methane, and water ice.
+Voyager 2 observed active geyser-like plumes on Triton.
+
+EXPLORATION
+Voyager 2 is the only spacecraft to have visited Neptune closely.
+Voyager 2 performed its Neptune flyby in August 1989.
+It provided the first close observations of Neptune.
+The spacecraft studied Neptune's atmosphere and weather systems.
+It measured Neptune's magnetic field and charged-particle environment.
+Voyager 2 also observed Neptune's rings.
+The spacecraft discovered several previously unknown moons.
+It obtained detailed images of Triton's surface.
+The flyby greatly expanded scientific knowledge of Neptune.
+No spacecraft has yet entered orbit around Neptune.
+
+SCIENTIFIC IMPORTANCE
+Neptune is a key example of an ice giant.
+Its atmosphere demonstrates how planetary weather can operate under weak sunlight.
+Its strong winds provide information about atmospheric circulation.
+Its internal heat helps scientists investigate energy transport in giant planets.
+Its unusual magnetic field provides clues about its interior.
+Triton provides an important example of a captured large moon.
+Neptune's rings provide a laboratory for studying ring dynamics.
+Neptune also helps scientists understand distant planetary systems.
+Ice giants are common categories among observed exoplanets.
+Understanding Neptune improves models of planets beyond the Solar System.
+
+KEY TERMS
+Ice giant: A planet containing large amounts of volatile-rich material such as water, ammonia, and methane.
+Astronomical unit: A unit approximately equal to the average Earth-Sun distance.
+Snow line: The region where volatile substances can condense into solid material during planet formation.
+Magnetosphere: The region around a planet controlled by its magnetic field.
+Retrograde orbit: An orbit in the direction opposite to the usual orbital direction of major satellites.
+Ring arc: A concentrated segment of material within a planetary ring system.
+Internal heat: Energy released from a planet's interior.
+Triton: Neptune's largest moon and a likely captured Kuiper Belt object.
+Voyager 2: The spacecraft that performed the first and only close flyby of Neptune.

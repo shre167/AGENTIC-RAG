@@ -1,0 +1,194 @@
+SPACE OBSERVATION
+Space observation is the study of astronomical objects and phenomena using instruments that collect electromagnetic radiation or other signals.
+Astronomers observe planets, moons, stars, galaxies, nebulae, and distant cosmic events.
+Observations provide evidence about the physical properties, motion, composition, and evolution of astronomical objects.
+Space observation can be performed from Earth or from instruments placed above Earth's atmosphere.
+Ground-based observatories use telescopes located on Earth.
+Space observatories operate above most or all of Earth's atmosphere.
+Different wavelengths reveal different physical processes in astronomical objects.
+The electromagnetic spectrum includes radio, microwave, infrared, visible, ultraviolet, X-ray, and gamma-ray radiation.
+Astronomical instruments are designed to detect specific wavelength ranges.
+Observations can be combined across multiple wavelengths to obtain a more complete picture of an object.
+
+TELESCOPES
+A telescope collects electromagnetic radiation from distant objects and forms measurable signals or images.
+The primary function of a telescope is to collect and focus incoming radiation.
+A telescope's aperture is the effective diameter of its main light-collecting element.
+Larger apertures generally allow telescopes to collect more light.
+Light-gathering power determines how faint an object can potentially be detected.
+Angular resolution describes the ability to distinguish two closely separated sources.
+Larger apertures can provide better angular resolution under suitable observing conditions.
+Magnification enlarges the apparent angular size of an observed object.
+Magnification alone does not determine the quality of an astronomical observation.
+Optical telescopes detect visible light.
+Radio telescopes detect radio-frequency radiation.
+Infrared telescopes detect infrared radiation emitted or reflected by astronomical sources.
+Ultraviolet telescopes observe radiation at wavelengths shorter than visible light.
+X-ray telescopes detect high-energy radiation from energetic astronomical environments.
+Gamma-ray telescopes detect some of the highest-energy electromagnetic radiation.
+
+REFRACTING AND REFLECTING TELESCOPES
+A refracting telescope uses lenses to collect and focus light.
+A reflecting telescope uses mirrors to collect and focus light.
+Large modern optical telescopes commonly use mirrors rather than very large objective lenses.
+Mirrors can be supported from behind, making large apertures more practical.
+A telescope's optical system directs incoming radiation toward a detector or observing instrument.
+Secondary mirrors can redirect light toward instruments positioned away from the primary mirror.
+Different telescope designs provide different fields of view and optical characteristics.
+Telescope instruments can include cameras, spectrographs, and photometers.
+
+DETECTORS AND CAMERAS
+A detector converts incoming radiation into a measurable signal.
+Digital astronomical cameras commonly use arrays of light-sensitive detector elements.
+Detector sensitivity affects the ability to measure faint astronomical sources.
+Exposure time determines how long a detector collects incoming radiation.
+Longer exposures can reveal fainter sources but can also increase unwanted signal and noise.
+Astronomical images may require calibration before scientific analysis.
+Calibration can account for detector response, background signal, and instrumental effects.
+Image processing can improve measurement quality without creating information that was not detected.
+Astronomical imaging records spatial information about observed sources.
+Time-series imaging records how an object's brightness or appearance changes over time.
+
+PHOTOMETRY
+Photometry is the measurement of the brightness or flux of astronomical objects.
+Apparent brightness describes how bright an object appears from an observer's location.
+Intrinsic luminosity describes the total energy emitted by an object per unit time.
+An object's apparent brightness depends on its intrinsic luminosity and distance.
+Photometric measurements can reveal changes in stellar or planetary brightness.
+Variable stars change in brightness over time.
+Transit photometry can detect a temporary decrease in a star's brightness when a planet crosses its disk.
+Light curves show how measured brightness changes with time.
+Light curves can reveal periodic events and changes in astronomical systems.
+Photometry can be performed in different wavelength bands.
+
+SPECTROSCOPY
+Spectroscopy studies the distribution of radiation across wavelengths.
+A spectrum can contain absorption lines, emission lines, or a continuous distribution.
+Spectral lines arise from interactions between radiation and atoms, ions, or molecules.
+Different elements and molecules produce characteristic spectral features.
+Spectroscopy can identify chemical constituents in astronomical objects.
+Spectral measurements can provide information about temperature and physical conditions.
+Doppler shifts in spectral lines can reveal motion along the observer's line of sight.
+A redshift occurs when observed wavelengths are shifted toward longer wavelengths.
+A blueshift occurs when observed wavelengths are shifted toward shorter wavelengths.
+Spectroscopy is widely used to study stars, planets, galaxies, and interstellar material.
+
+INFRARED OBSERVATION
+Infrared radiation has longer wavelengths than visible light.
+Infrared observations can reveal relatively cool objects and thermal emission.
+Infrared wavelengths can penetrate some dust that blocks visible light.
+Infrared astronomy is useful for studying star-forming regions surrounded by dust.
+Cool stars, planets, and dust clouds can emit strongly at infrared wavelengths.
+Thermal infrared observations can provide information about surface or atmospheric temperatures.
+Infrared spectroscopy can identify molecules in planetary and astronomical environments.
+
+RADIO ASTRONOMY
+Radio telescopes detect radio waves from astronomical sources.
+Radio observations can study gas, magnetic fields, pulsars, and other energetic phenomena.
+Radio waves can pass through some clouds of interstellar dust that obscure visible light.
+Radio interferometry combines signals from multiple antennas to improve angular resolution.
+A radio interferometer measures correlated signals received by separate antennas.
+Radio observations can reveal structures that may not be visible at optical wavelengths.
+Radio astronomy is important for studying neutral hydrogen in galaxies.
+Radio observations can also detect molecular emission from interstellar clouds.
+
+SPACE-BASED OBSERVATION
+Earth's atmosphere absorbs or distorts portions of incoming electromagnetic radiation.
+Space telescopes avoid many atmospheric absorption effects.
+Space-based instruments can observe wavelengths that are difficult or impossible to observe from the ground.
+Space telescopes require specialized systems for power, thermal control, communications, and pointing.
+Space observatories can operate for years depending on their design and mission conditions.
+Some space telescopes observe primarily in visible and infrared wavelengths.
+Others are designed for ultraviolet, X-ray, or gamma-ray astronomy.
+
+EARTH'S ATMOSPHERE AND ASTRONOMICAL OBSERVATION
+Atmospheric turbulence can blur images from ground-based optical telescopes.
+Atmospheric water vapor strongly affects some infrared observations.
+Adaptive optics can compensate for certain effects of atmospheric turbulence.
+Adaptive optics uses rapid adjustments to optical components to reduce image distortion.
+Atmospheric absorption creates wavelength ranges that are difficult to observe from the ground.
+Radio observations can also be affected by human-made electromagnetic interference.
+Observatories are often placed at locations with favorable atmospheric and environmental conditions.
+High-altitude sites can reduce some atmospheric effects.
+Dark-sky locations reduce interference from artificial light.
+
+REMOTE SENSING
+Remote sensing studies objects without physically contacting them.
+Most astronomical observations are forms of remote sensing.
+Planetary remote sensing can measure reflected sunlight and emitted thermal radiation.
+Spectral measurements can identify minerals, gases, and other materials remotely.
+Radar remote sensing can investigate surfaces and some subsurface structures.
+Remote sensing allows scientists to study distant or inaccessible environments.
+Spacecraft can carry remote-sensing instruments around planets and moons.
+Orbital observations provide repeated coverage of planetary surfaces.
+
+PLANETARY OBSERVATION
+Planetary telescopes can measure brightness, color, atmospheric features, and planetary motion.
+Spacecraft cameras can provide high-resolution images of planetary surfaces.
+Spectrometers can determine the composition of planetary surfaces and atmospheres.
+Radar can observe surfaces hidden by clouds or darkness in some environments.
+Thermal instruments measure emitted infrared radiation related to temperature.
+Altimeters measure surface elevation or distance from a spacecraft to a surface.
+Repeated observations can reveal seasonal or geological changes.
+Planetary observations can be combined with laboratory measurements of returned samples.
+
+STELLAR OBSERVATION
+Stars can be studied through their brightness, spectra, temperature, and motion.
+Stellar spectra provide information about chemical composition and physical conditions.
+The color of a star provides clues about its surface temperature.
+Stellar brightness measurements can reveal variability and periodic changes.
+Proper motion describes a star's apparent movement across the sky.
+Radial velocity describes motion toward or away from an observer.
+Parallax measures the apparent positional shift of a nearby star caused by Earth's orbital motion.
+Stellar distances can be estimated from measured parallax for sufficiently nearby stars.
+Combining distance and brightness measurements helps determine stellar properties.
+
+GALAXY OBSERVATION
+Galaxies can be observed across multiple electromagnetic wavelengths.
+Optical observations reveal stars and luminous structures in galaxies.
+Infrared observations can reveal cool dust and regions of star formation.
+Radio observations can trace neutral hydrogen and molecular gas.
+X-ray observations can reveal hot gas and energetic sources.
+Galaxy spectra can provide information about composition and motion.
+Redshift measurements are used to study the motion and large-scale distribution of galaxies.
+Galaxy morphology describes the visible structure and shape of a galaxy.
+Repeated observations can reveal transient events such as supernovae.
+
+TIME-DOMAIN ASTRONOMY
+Time-domain astronomy studies objects and phenomena that change with time.
+Variable stars are important targets for time-domain observations.
+Supernovae produce rapid and substantial changes in brightness.
+Transiting exoplanets produce periodic changes in stellar brightness.
+Pulsars produce highly regular pulses of electromagnetic radiation.
+Astronomers compare observations taken at different times to identify changes.
+Automated surveys can monitor large regions of the sky repeatedly.
+Alerts can be generated when transient or variable objects are detected.
+
+ASTROMETRY
+Astrometry measures the positions and motions of astronomical objects.
+Precise positions can be used to calculate proper motion.
+Parallax provides a geometric method for estimating distances to nearby stars.
+Astrometric measurements contribute to accurate astronomical catalogs.
+Small positional changes can reveal the gravitational influence of unseen companions.
+Astrometry can complement photometric and spectroscopic observations.
+
+OBSERVATIONAL DATA
+Astronomical data can include images, spectra, brightness measurements, positions, and time-series signals.
+Raw observations often contain instrumental noise and background signals.
+Calibration converts raw detector measurements into scientifically useful data.
+Data reduction removes or corrects known instrumental effects.
+Signal-to-noise ratio compares useful astronomical signal with unwanted noise.
+Higher signal-to-noise measurements generally allow more reliable scientific analysis.
+Astronomers use statistical methods to estimate uncertainties in measurements.
+Independent observations can help confirm an astronomical result.
+Observational data are often stored in standardized scientific formats for analysis.
+
+OBSERVATIONAL SCIENCE
+Astronomical observations are interpreted using physical models and measured data.
+A scientific observation should be distinguishable from an assumption or theoretical prediction.
+Multiple independent observations can strengthen confidence in a scientific conclusion.
+Different instruments can provide complementary information about the same object.
+Multi-wavelength observations can connect different physical processes occurring in one system.
+Observational astronomy supports research into planetary systems, stellar evolution, galaxies, and cosmology.
+Advances in detectors, telescopes, and data processing continue to increase the sensitivity of astronomical observations.
+Modern astronomy increasingly combines observations from ground-based facilities, space observatories, and spacecraft.

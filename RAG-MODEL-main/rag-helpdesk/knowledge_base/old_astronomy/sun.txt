@@ -1,0 +1,217 @@
+SUN
+
+1. OVERVIEW
+   The Sun is the star at the center of the Solar System.
+   The Sun is the primary source of energy for Earth.
+   The Sun is a G-type main-sequence star.
+   The Sun is classified as a G2V star.
+   The Sun formed approximately 4.6 billion years ago.
+   The Sun contains most of the mass in the Solar System.
+   The Sun is located at the center of the Solar System's gravitational system.
+   All eight planets orbit the Sun.
+   The Sun also gravitationally influences asteroids, comets, and other small bodies.
+   The Sun is approximately 150 million kilometers from Earth on average.
+   This average Earth-Sun distance is called one astronomical unit.
+   The Sun is much larger than Earth.
+   The Sun has a diameter of approximately 1.39 million kilometers.
+   The Sun's mass is approximately 333,000 times the mass of Earth.
+   The Sun is composed primarily of hydrogen and helium.
+   Hydrogen is the most abundant element in the Sun.
+   Helium is the second most abundant element in the Sun.
+   The Sun is a nearly spherical object.
+   The Sun does not have a solid surface like Earth.
+
+2. COMPOSITION
+   The Sun is composed mainly of hydrogen and helium.
+   Hydrogen makes up most of the Sun's mass.
+   Helium accounts for most of the remaining mass.
+   The Sun also contains small amounts of heavier elements.
+   Elements heavier than helium are collectively called heavier elements in stellar astronomy.
+   The composition of the Sun reflects material present in the cloud from which it formed.
+   Nuclear fusion changes the composition of the Sun's core over time.
+   Hydrogen nuclei are converted into helium through nuclear fusion.
+   The fusion process releases energy.
+   The released energy ultimately reaches the solar surface.
+   Spectroscopy is used to study the chemical composition of the Sun.
+   Absorption lines in the solar spectrum provide information about elements.
+   The solar spectrum contains characteristic signatures of different elements.
+
+3. INTERNAL STRUCTURE
+   The Sun has several major structural regions.
+   The core is the central region of the Sun.
+   Nuclear fusion occurs primarily in the core.
+   The core has extremely high temperature and pressure.
+   The radiative zone surrounds the core.
+   Energy moves outward through the radiative zone mainly by radiation.
+   The convection zone lies above the radiative zone.
+   Energy is transported through the convection zone mainly by convection.
+   Hot plasma rises while cooler plasma sinks in the convection zone.
+   The movement of plasma contributes to solar magnetic activity.
+   The photosphere is the visible layer associated with the solar surface.
+   The chromosphere lies above the photosphere.
+   The corona is the outer atmosphere of the Sun.
+   The corona extends far into interplanetary space.
+
+4. NUCLEAR FUSION
+   The Sun produces energy through nuclear fusion.
+   Fusion takes place primarily in the solar core.
+   The main fusion process in the Sun is the proton-proton chain.
+   Hydrogen nuclei participate in the proton-proton chain.
+   The overall process converts hydrogen into helium.
+   A small amount of mass is converted into energy.
+   The energy is released according to the relationship between mass and energy.
+   Fusion maintains the Sun's energy output.
+   The energy generated in the core initially exists in energetic particles and radiation.
+   Energy takes a long time to move from the interior toward the surface.
+   The solar energy eventually leaves the photosphere as electromagnetic radiation.
+   Earth receives only a small fraction of the Sun's total emitted energy.
+
+5. PHOTOSPHERE
+   The photosphere is the visible layer of the Sun.
+   Most visible sunlight originates from the photosphere.
+   The photosphere has a temperature of roughly 5,500 degrees Celsius.
+   The photosphere has a granular appearance.
+   Solar granules are associated with convection beneath the photosphere.
+   Granules are relatively small bright regions surrounded by darker boundaries.
+   The photosphere is not a solid surface.
+   It is a layer of relatively dense solar plasma.
+   Sunspots can appear on the photosphere.
+   Sunspots appear darker because they are cooler than surrounding regions.
+   Sunspots are associated with strong magnetic fields.
+   The number and distribution of sunspots vary with solar activity.
+
+6. CHROMOSPHERE
+   The chromosphere is a layer of the Sun's atmosphere.
+   It lies above the photosphere.
+   The chromosphere can appear reddish during a total solar eclipse.
+   The chromosphere contains structures influenced by magnetic fields.
+   Spicules are narrow jets of plasma observed in the chromosphere.
+   The temperature generally increases with altitude through the chromosphere.
+   The chromosphere is less dense than the photosphere.
+   Spectroscopic observations are useful for studying the chromosphere.
+   Solar prominences can extend through regions of the solar atmosphere.
+
+7. CORONA
+   The corona is the outermost major layer of the solar atmosphere.
+   The corona extends millions of kilometers from the visible solar surface.
+   The corona is extremely hot compared with the photosphere.
+   Coronal temperatures can reach millions of degrees Celsius.
+   The low density of the corona allows it to extend far into space.
+   The corona is visible during a total solar eclipse.
+   Special instruments called coronagraphs can observe the corona by blocking direct sunlight.
+   The corona contains plasma influenced by the Sun's magnetic field.
+   Coronal holes are regions where magnetic field structures allow enhanced solar wind escape.
+   The solar wind originates in the Sun's outer atmosphere.
+
+8. SUNSPOTS
+   Sunspots are dark regions visible on the photosphere.
+   Sunspots are cooler than the surrounding photosphere.
+   Strong magnetic fields are concentrated within sunspot regions.
+   Sunspots can appear individually or in groups.
+   Sunspot groups can become large and complex.
+   Solar activity changes over an approximately 11-year cycle.
+   Sunspot numbers generally increase and decrease during the solar cycle.
+   Periods of high activity are called solar maximum.
+   Periods of lower activity are called solar minimum.
+   Sunspots help scientists track changes in solar magnetic activity.
+   Large active regions can produce solar flares and other eruptions.
+
+9. SOLAR FLARES
+   A solar flare is a sudden release of energy from the Sun.
+   Solar flares are associated with magnetic activity in the solar atmosphere.
+   Flares can produce intense electromagnetic radiation.
+   Solar flares can occur near sunspot groups and active regions.
+   Flare radiation can include X-rays and ultraviolet radiation.
+   Strong solar flares can affect Earth's upper atmosphere.
+   Solar flares can interfere with some radio communications.
+   Solar flares are different from coronal mass ejections.
+   A flare is primarily a rapid energy release.
+   A coronal mass ejection involves a large eruption of plasma and magnetic field.
+   Both phenomena can be associated with active solar regions.
+
+10. CORONAL MASS EJECTIONS
+    A coronal mass ejection is a large eruption of magnetized plasma from the Sun.
+    Coronal mass ejections are commonly abbreviated as CMEs.
+    A CME can contain billions of tons of solar material.
+    A CME can travel through interplanetary space.
+    If directed toward Earth, a CME can interact with Earth's magnetosphere.
+    Strong interactions can contribute to geomagnetic storms.
+    Geomagnetic storms can affect satellites and communication systems.
+    They can also produce enhanced auroras.
+    Not every CME is directed toward Earth.
+    The effects of a CME depend on its speed, direction, magnetic properties, and interaction with Earth's magnetosphere.
+
+11. SOLAR WIND
+    The solar wind is a continuous flow of charged particles from the Sun.
+    The solar wind consists mainly of protons and electrons.
+    The solar wind travels outward through the Solar System.
+    The solar wind carries the Sun's magnetic field into interplanetary space.
+    This extended magnetic field is called the interplanetary magnetic field.
+    The solar wind interacts with planetary magnetic fields.
+    Earth's magnetosphere provides significant protection from the solar wind.
+    Solar wind interactions contribute to auroras near Earth's polar regions.
+    The solar wind also affects the tails of comets.
+    Solar wind conditions vary with solar activity.
+
+12. SOLAR CYCLE
+    Solar activity changes over a cycle lasting approximately 11 years.
+    The solar cycle is associated with changes in the Sun's magnetic field.
+    Sunspot numbers generally rise and fall during the cycle.
+    Solar maximum is a period of relatively high solar activity.
+    Solar minimum is a period of relatively low solar activity.
+    The magnetic polarity of the Sun reverses as part of the solar cycle.
+    Solar activity can influence space weather near Earth.
+    Scientists monitor sunspots, flares, CMEs, and other indicators of solar activity.
+    Solar observations help researchers understand changes in the Sun's magnetic environment.
+
+13. SUN AND EARTH
+    The Sun provides most of the energy that drives Earth's climate system.
+    Solar radiation warms Earth's surface and atmosphere.
+    The Sun influences Earth's space environment through the solar wind.
+    Earth's magnetic field interacts with charged particles from the Sun.
+    Solar activity can produce changes in Earth's upper atmosphere.
+    Strong solar storms can affect satellites and radio communication.
+    Solar activity can also increase radiation exposure for astronauts and spacecraft.
+    The Sun's ultraviolet radiation contributes to atmospheric and biological processes on Earth.
+    Earth's distance from the Sun allows liquid water to exist on its surface under suitable atmospheric conditions.
+
+14. SOLAR OBSERVATION
+    Scientists observe the Sun using ground-based and space-based instruments.
+    Different wavelengths reveal different layers and processes.
+    Visible-light observations show features such as sunspots.
+    Ultraviolet observations reveal hot atmospheric structures.
+    X-ray observations reveal extremely energetic solar regions.
+    Spectroscopy provides information about solar composition and motion.
+    Space-based solar observatories can observe wavelengths blocked by Earth's atmosphere.
+    Solar telescopes are designed to safely observe the Sun.
+    Directly looking at the Sun without proper protection can damage the eyes.
+    Solar observations are important for understanding space weather.
+
+15. SCIENTIFIC IMPORTANCE
+    The Sun provides a nearby example of a typical main-sequence star.
+    Studying the Sun helps scientists understand stellar physics.
+    Solar observations help researchers study nuclear fusion indirectly through its effects.
+    The Sun provides a natural laboratory for plasma physics.
+    Solar magnetic activity helps scientists study magnetic fields in stars.
+    Understanding the Sun improves prediction of space weather.
+    Space weather forecasting is important for satellites and communication systems.
+    The Sun also provides context for studying other stars.
+    Comparing the Sun with other stars helps scientists understand stellar evolution.
+    The Sun will eventually change as its core hydrogen supply is depleted.
+
+16. KEY TERMS
+    Solar core: The central region where nuclear fusion occurs.
+    Photosphere: The visible layer of the Sun.
+    Chromosphere: The atmospheric layer above the photosphere.
+    Corona: The Sun's extended outer atmosphere.
+    Sunspot: A relatively cool, dark region associated with strong magnetic fields.
+    Solar flare: A sudden release of energy from the Sun.
+    Coronal mass ejection: A large eruption of magnetized solar plasma.
+    Solar wind: A continuous flow of charged particles from the Sun.
+    Solar cycle: The approximately 11-year cycle of changing solar activity.
+    Solar maximum: A period of relatively high solar activity.
+    Solar minimum: A period of relatively low solar activity.
+    Astronomical unit: The approximate average distance between Earth and the Sun.
+    Nuclear fusion: A process in which atomic nuclei combine and release energy.
+    Photosphere granulation: A visible pattern produced by convection in the solar atmosphere.
+    Space weather: Changing environmental conditions in space caused partly by solar activity.

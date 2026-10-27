@@ -1,0 +1,248 @@
+MARS
+
+1. OVERVIEW
+   Mars is the fourth planet from the Sun.
+   Mars is a terrestrial planet with a rocky composition.
+   Mars has a solid surface covered by rocks, dust, craters, valleys, and plains.
+   Mars is commonly called the Red Planet.
+   Its reddish appearance is mainly caused by iron minerals that have oxidized.
+   Mars has a thin atmosphere compared with Earth.
+   Carbon dioxide is the dominant gas in the Martian atmosphere.
+   Mars has two small natural satellites, Phobos and Deimos.
+   Mars has polar ice caps containing water ice and frozen carbon dioxide.
+   Mars has the largest volcano and one of the largest canyon systems known in the Solar System.
+   Mars has evidence of ancient geological environments involving liquid water.
+   Mars is one of the most extensively explored planets beyond Earth.
+   Mars is a major target in the search for past or present extraterrestrial life.
+
+2. BASIC PROPERTIES
+   Mars has a diameter of approximately 6,779 kilometers.
+   Mars has about half the diameter of Earth.
+   Mars has about 11 percent of Earth's mass.
+   Mars has surface gravity about 38 percent as strong as Earth's.
+   Mars is less dense than Earth.
+   Mars has an average distance from the Sun of about 228 million kilometers.
+   Mars receives less sunlight than Earth because it is farther from the Sun.
+   Mars completes one orbit around the Sun in about 687 Earth days.
+   A Martian solar day is called a sol.
+   One sol lasts approximately 24 hours and 39 minutes.
+   Mars has an axial tilt of about 25 degrees.
+   Its axial tilt produces seasons similar in principle to Earth's seasons.
+
+3. FORMATION
+   Mars formed approximately 4.5 billion years ago.
+   Mars formed from material in the early Solar System.
+   The planet developed through accretion of rocky and metallic material.
+   Mars formed in the inner Solar System.
+   Its interior became differentiated into a core, mantle, and crust.
+   Mars underwent significant volcanic and geological activity during its early history.
+   The planet gradually lost much of its early internal heat.
+   Mars became less geologically active than Earth.
+   Its atmosphere and surface environment changed substantially over geological time.
+   Studying Mars helps scientists understand the evolution of terrestrial planets.
+
+4. ORBIT
+   Mars follows an elliptical orbit around the Sun.
+   Mars has a more eccentric orbit than Earth.
+   The average distance between Mars and the Sun is about 228 million kilometers.
+   Mars completes one revolution around the Sun in approximately 687 Earth days.
+   Mars travels around the Sun at an average speed of about 24 kilometers per second.
+   The distance between Mars and the Sun changes significantly during its orbit.
+   Mars reaches perihelion when it is closest to the Sun.
+   Mars reaches aphelion when it is farthest from the Sun.
+   The eccentric orbit contributes to differences in seasonal duration and intensity.
+   Mars and Earth periodically come relatively close to each other.
+   These close approaches are important for planning spacecraft missions.
+
+5. ROTATION
+   Mars rotates around its axis in the same general direction as Earth.
+   A Martian solar day is called a sol.
+   One sol lasts approximately 24 hours and 39 minutes.
+   Mars completes a rotation relative to distant stars in about 24 hours and 37 minutes.
+   Mars has a rotation period similar to Earth's.
+   The similar rotation period makes Mars useful for studying daily cycles.
+   Mars's axial tilt is approximately 25 degrees.
+   The axial tilt produces seasonal changes.
+   Seasonal changes affect temperature, atmospheric circulation, and polar ice.
+   Dust activity can also vary with Martian seasons.
+
+6. ATMOSPHERE
+   Mars has a very thin atmosphere.
+   Carbon dioxide makes up most of the Martian atmosphere.
+   Nitrogen and argon are present in smaller amounts.
+   Water vapor exists in the Martian atmosphere in small quantities.
+   The atmospheric pressure at the surface is less than one percent of Earth's average sea-level pressure.
+   The thin atmosphere provides little insulation.
+   Surface temperatures can vary strongly between day and night.
+   The atmosphere contains suspended dust particles.
+   Dust can be lifted from the surface by winds.
+   Large regional or global dust storms can occur.
+   The thin atmosphere makes liquid water unstable on much of the present surface.
+   Atmospheric conditions have changed significantly throughout Martian history.
+
+7. TEMPERATURE
+   Mars is much colder on average than Earth.
+   Surface temperatures vary strongly with location, season, and time of day.
+   Temperatures can fall to extremely low values during Martian nights.
+   Equatorial regions can become relatively warm during daytime.
+   The thin atmosphere contributes to rapid temperature changes.
+   Polar regions become especially cold during winter.
+   Carbon dioxide can freeze at the Martian poles during seasonal changes.
+   Temperature variations influence surface frost and atmospheric circulation.
+   Understanding Martian temperatures is important for spacecraft and future human missions.
+
+8. RED SURFACE
+   Mars appears red when viewed from space and from Earth.
+   The red color is associated with oxidized iron-bearing minerals.
+   Fine dust containing iron minerals covers much of the Martian surface.
+   Winds transport dust across the planet.
+   Dust can settle on rocks, plains, and spacecraft.
+   The reddish dust gives Mars its distinctive appearance.
+   Surface colors vary depending on rock type, dust coverage, and lighting conditions.
+   The composition of Martian dust provides information about surface chemistry.
+   Studying iron minerals helps scientists understand the planet's geological and atmospheric history.
+
+9. SURFACE GEOLOGY
+   Mars contains impact craters, volcanoes, canyons, dunes, plains, and valleys.
+   The northern hemisphere contains extensive low-lying plains.
+   The southern hemisphere contains older and more heavily cratered terrain.
+   The boundary between major northern and southern terrains is called the Martian dichotomy.
+   Mars has ancient geological surfaces that preserve evidence of early planetary conditions.
+   Volcanism shaped large parts of the planet.
+   Wind erosion and deposition continue to modify the surface.
+   Impacts have produced craters throughout Martian history.
+   Water-related processes also modified parts of the surface in the past.
+   Mars therefore contains evidence of multiple geological processes.
+
+10. OLYMPUS MONS
+    Olympus Mons is a giant shield volcano on Mars.
+    Olympus Mons is the largest known volcano in the Solar System.
+    It rises approximately 22 kilometers above the surrounding plains.
+    Olympus Mons is much wider than typical terrestrial volcanoes.
+    Its broad shape is characteristic of a shield volcano.
+    Low surface gravity allowed very large volcanic structures to develop.
+    Repeated lava flows built Olympus Mons over a long period.
+    The volcano is located in the Tharsis region.
+    Olympus Mons provides evidence of extensive volcanic activity on ancient Mars.
+
+11. VALLES MARINERIS
+    Valles Marineris is a vast canyon system on Mars.
+    It extends for thousands of kilometers across the Martian surface.
+    The canyon system is located mainly near the equator.
+    Valles Marineris is much larger than the Grand Canyon on Earth.
+    The system includes deep valleys, cliffs, and interconnected troughs.
+    Its formation is associated mainly with tectonic processes and later erosion.
+    Water and other surface processes may have modified parts of the canyon system.
+    The canyon system provides evidence of Mars's complex geological history.
+    Valles Marineris is one of the most prominent features visible on Mars.
+
+12. WATER
+    Mars contains water mainly in the form of ice.
+    Large quantities of water ice exist in the polar regions.
+    Water ice also occurs beneath the surface in many locations.
+    Evidence shows that liquid water flowed across parts of Mars in the distant past.
+    Ancient river channels are visible on the Martian surface.
+    Ancient lake basins have been identified.
+    Minerals formed in the presence of water have been detected.
+    Some Martian rocks contain evidence of past interaction with water.
+    Present-day surface conditions generally do not allow stable liquid water for long periods.
+    The history of Martian water is central to studies of habitability.
+
+13. ANCIENT RIVERS AND LAKES
+    Mars has many geological features interpreted as ancient river channels.
+    Some valleys appear to have been carved by flowing water.
+    Ancient lake environments existed in several Martian regions.
+    Sedimentary rocks can preserve evidence of past water activity.
+    Water may have been more abundant on Mars early in its history.
+    The ancient atmosphere may have been thicker than the present atmosphere.
+    The climate of early Mars is an active research topic.
+    Water-related minerals provide additional evidence for ancient aqueous environments.
+    Studying ancient water systems helps determine whether Mars once had habitable environments.
+
+14. POLAR CAPS
+    Mars has permanent polar deposits.
+    The polar regions contain substantial water ice.
+    Seasonal carbon dioxide frost expands and contracts around the poles.
+    During winter, carbon dioxide can freeze onto the polar surface.
+    During warmer seasons, some seasonal carbon dioxide ice returns to the atmosphere.
+    The polar caps influence atmospheric pressure over seasonal cycles.
+    Polar layers preserve information about changes in Martian climate.
+    Radar observations have been used to study subsurface polar materials.
+    The polar regions are important targets for understanding Martian climate history.
+
+15. DUST AND WEATHER
+    Mars experiences frequent dust activity.
+    Dust devils can lift fine particles from the surface.
+    Dust devils can leave tracks on the ground.
+    Regional dust storms can grow over large areas.
+    Some dust storms can become global.
+    Dust in the atmosphere reduces visibility and affects solar energy reaching the surface.
+    Dust can settle on spacecraft surfaces.
+    Martian winds transport and redistribute fine material.
+    Atmospheric dust also influences temperature by interacting with sunlight and infrared radiation.
+    Dust activity is an important part of Martian weather.
+
+16. MAGNETIC FIELD AND ATMOSPHERIC LOSS
+    Mars does not currently have a strong global magnetic field like Earth.
+    Some regions of the Martian crust retain evidence of ancient magnetization.
+    This suggests Mars may have had a stronger global magnetic field early in its history.
+    The loss of a global magnetic field allowed the solar wind to interact more directly with the upper atmosphere.
+    Solar wind interactions can contribute to atmospheric escape.
+    Atmospheric loss is one factor in the long-term evolution of Mars.
+    Mars's thin present atmosphere may partly result from billions of years of atmospheric loss.
+    Studying atmospheric escape helps explain how Mars changed from its ancient environment to its present state.
+
+17. MOONS
+    Mars has two known natural satellites.
+    Phobos is the larger and closer moon of Mars.
+    Deimos is smaller and farther from Mars than Phobos.
+    Both moons are irregularly shaped.
+    Phobos orbits Mars much closer than Earth's Moon orbits Earth.
+    Phobos completes an orbit around Mars faster than Mars rotates.
+    Deimos has a slower orbital period than Phobos.
+    The origins of Phobos and Deimos are still debated.
+    Their composition and orbital properties provide clues about their formation.
+    Both moons have been studied by spacecraft and remote observations.
+
+18. EXPLORATION
+    Mars has been explored by orbiters, landers, and rovers.
+    Mariner 4 returned the first close-up images of Mars in 1965.
+    Viking 1 and Viking 2 successfully landed on Mars in 1976.
+    Viking landers performed experiments to study the Martian soil and environment.
+    Mars Pathfinder demonstrated rover operations on the Martian surface in 1997.
+    Spirit and Opportunity were NASA rovers that explored Mars for extended periods.
+    Curiosity has studied Martian geology and environmental history since landing in 2012.
+    Perseverance landed in Jezero Crater in 2021.
+    Perseverance is studying rocks and ancient environments associated with a former lake basin.
+    Ingenuity demonstrated powered flight on another planet.
+    Mars exploration has greatly increased knowledge of the planet's geology and atmosphere.
+
+19. HABITABILITY
+    Habitability refers to conditions that could support life.
+    Mars is not currently known to support life.
+    Ancient Mars may have had environments suitable for microbial life.
+    Liquid water existed on parts of the surface in the distant past.
+    Some minerals found on Mars formed in aqueous environments.
+    Organic molecules have been detected in Martian materials.
+    Organic molecules are carbon-containing compounds and do not by themselves prove life.
+    Mars missions search for evidence of past habitability and possible biosignatures.
+    The preservation of ancient rocks makes Mars important for astrobiology.
+    Determining whether life ever existed on Mars remains an open scientific question.
+
+20. KEY TERMS
+    Mars: The fourth planet from the Sun and a rocky terrestrial planet.
+    Red Planet: A common name for Mars based on its reddish appearance.
+    Sol: One Martian solar day, lasting about 24 hours and 39 minutes.
+    Perihelion: The point in Mars's orbit closest to the Sun.
+    Aphelion: The point in Mars's orbit farthest from the Sun.
+    Regolith: Loose material covering the Martian surface.
+    Olympus Mons: The largest known volcano in the Solar System.
+    Valles Marineris: A giant canyon system extending thousands of kilometers across Mars.
+    Tharsis: A large volcanic region on Mars.
+    Dust devil: A rotating column of air that lifts dust from the Martian surface.
+    Atmospheric escape: The loss of atmospheric particles into space.
+    Habitability: The potential of an environment to support life.
+    Biosignature: A feature or substance that may provide evidence of biological activity.
+    Phobos: The larger and closer moon of Mars.
+    Deimos: The smaller and more distant moon of Mars.
+    Jezero Crater: A Martian crater investigated by the Perseverance rover.

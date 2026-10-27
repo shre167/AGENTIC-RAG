@@ -1,0 +1,211 @@
+VENUS
+
+1. OVERVIEW
+   Venus is the second planet from the Sun.
+   Venus is a terrestrial planet with a rocky composition.
+   Venus is similar to Earth in size, mass, and overall structure.
+   Venus has a solid surface beneath a dense atmosphere.
+   Venus has the hottest planetary surface in the Solar System.
+   Venus is hotter than Mercury despite being farther from the Sun.
+   The high surface temperature is caused mainly by a powerful greenhouse effect.
+   Venus has a thick atmosphere dominated by carbon dioxide.
+   Clouds of sulfuric acid surround the planet.
+   Venus has no natural moons.
+   Venus rotates very slowly compared with Earth.
+   Venus rotates in the opposite direction to most planets.
+   Venus has one of the longest rotation periods among the planets.
+   Venus takes about 225 Earth days to orbit the Sun.
+   Venus takes about 243 Earth days to rotate once relative to distant stars.
+   A Venusian solar day is about 117 Earth days long.
+   Venus is an important example of how planetary climates can evolve differently.
+
+2. FORMATION
+   Venus formed approximately 4.5 billion years ago.
+   Venus formed from material in the early Solar System.
+   The planet developed through accretion of rocky and metallic material.
+   Venus formed in the inner region of the Solar System.
+   Its composition reflects the materials available near the young Sun.
+   Venus developed a metallic core, rocky mantle, and rocky crust.
+   The planet's present environment resulted from billions of years of geological and atmospheric evolution.
+   The exact history of Venus's interior and surface remains under investigation.
+   Comparing Venus with Earth helps scientists study different outcomes of terrestrial planet evolution.
+
+3. ORBIT
+   Venus follows an orbit around the Sun that is nearly circular.
+   Venus has a smaller orbital eccentricity than many other planets.
+   The average distance between Venus and the Sun is about 108 million kilometers.
+   Venus completes one orbit in approximately 225 Earth days.
+   Venus travels around the Sun at an average speed of about 35 kilometers per second.
+   Venus receives more solar energy than Earth.
+   Venus's orbit lies closer to the Sun than Earth's orbit.
+   Venus is often visible from Earth because of its relatively close distance and bright cloud tops.
+   Venus can appear as either a morning star or an evening star.
+   Venus never appears very far from the Sun in Earth's sky.
+
+4. ROTATION
+   Venus rotates extremely slowly.
+   One Venus rotation takes approximately 243 Earth days relative to distant stars.
+   Venus rotates in a retrograde direction.
+   Retrograde rotation means Venus spins opposite to the direction of its orbit.
+   The cause of Venus's unusual rotation is not fully established.
+   Large impacts and long-term tidal effects have been proposed as possible contributors.
+   Because Venus rotates slowly, its day-night cycle is unusual.
+   A Venusian solar day lasts approximately 117 Earth days.
+   The slow rotation does not prevent strong atmospheric circulation.
+   Venus's atmosphere rotates around the planet much faster than the solid surface.
+
+5. ATMOSPHERE
+   Venus has the densest atmosphere of the terrestrial planets.
+   The atmosphere is composed mostly of carbon dioxide.
+   Nitrogen is the second most abundant major atmospheric component.
+   Venus's atmosphere is much thicker than Earth's atmosphere.
+   The atmospheric pressure at the surface is roughly 92 times Earth's sea-level pressure.
+   The thick atmosphere produces an extremely strong greenhouse effect.
+   The atmosphere traps infrared radiation emitted by the surface.
+   This trapped energy keeps the surface extremely hot.
+   Venus has extensive cloud layers at high altitudes.
+   The clouds contain sulfuric acid droplets.
+   The atmosphere becomes denser toward the surface.
+   Pressure and temperature increase rapidly with decreasing altitude.
+
+6. GREENHOUSE EFFECT
+   The greenhouse effect is the main reason Venus has such a high surface temperature.
+   Sunlight enters Venus's atmosphere and warms the surface.
+   The warm surface emits infrared radiation.
+   Carbon dioxide absorbs and re-emits much of this infrared radiation.
+   The dense atmosphere prevents efficient loss of heat to space.
+   This process maintains temperatures far above those expected from sunlight alone.
+   Venus demonstrates how atmospheric composition can strongly influence planetary climate.
+   The greenhouse effect on Venus is much stronger than Earth's natural greenhouse effect.
+   Studying Venus helps scientists understand planetary climate systems.
+
+7. TEMPERATURE
+   Venus has an average surface temperature of roughly 465 degrees Celsius.
+   Surface temperatures remain extremely high across much of the planet.
+   The thick atmosphere distributes heat around Venus.
+   The slow rotation therefore does not produce the extreme day-night temperature contrast seen on Mercury.
+   The surface is hot enough to melt some low-melting-point metals.
+   Temperature and pressure increase substantially toward the surface.
+   The high temperature makes surface operations difficult for spacecraft.
+   Venus provides an example of an extreme high-pressure planetary environment.
+
+8. CLOUDS
+   Venus is covered by thick global cloud layers.
+   The clouds are mainly composed of sulfuric acid droplets.
+   Cloud layers occur high above the planet's surface.
+   The upper clouds reflect a large fraction of incoming sunlight.
+   Venus therefore appears extremely bright when viewed from Earth.
+   The clouds obscure direct visible-light views of the surface.
+   Ultraviolet observations can reveal patterns in the upper atmosphere.
+   Atmospheric winds move cloud structures rapidly around the planet.
+   The cloud system plays an important role in Venus's atmospheric circulation.
+
+9. ATMOSPHERIC CIRCULATION
+   Venus has powerful atmospheric circulation.
+   The upper atmosphere can move around the planet much faster than the solid surface rotates.
+   This rapid atmospheric rotation is called superrotation.
+   Venusian winds can transport heat from the dayside toward the nightside.
+   Atmospheric waves contribute to the circulation of the upper atmosphere.
+   Solar heating drives many atmospheric processes.
+   The atmosphere changes with altitude.
+   Understanding Venusian circulation helps scientists study atmospheres on other planets.
+
+10. SURFACE
+    Venus has a rocky surface hidden beneath its atmosphere and clouds.
+    The surface contains mountains, plains, valleys, ridges, and volcanic structures.
+    Large areas of Venus consist of relatively smooth volcanic plains.
+    Volcanism has played an important role in shaping the planet.
+    Radar observations are used to map the surface because visible light cannot penetrate the clouds.
+    The surface contains many volcanic features.
+    Venus also has large elevated regions called highlands.
+    The planet has fewer obvious impact craters than heavily cratered worlds such as Mercury.
+    The surface may have undergone extensive geological resurfacing.
+    The age and history of different surface regions remain active research topics.
+
+11. VOLCANOES
+    Volcanic features are widespread on Venus.
+    Venus contains shield volcanoes and other volcanic structures.
+    Shield volcanoes are broad volcanoes formed by relatively fluid lava flows.
+    Large volcanic plains cover substantial parts of the planet.
+    Some volcanic features are hundreds of kilometers across.
+    Lava flows have modified parts of the Venusian surface.
+    Volcanism may have influenced the atmosphere over geological time.
+    Scientists continue to investigate whether volcanic activity occurs on Venus today.
+    Recent spacecraft observations have provided evidence consistent with ongoing geological activity.
+    Volcanism is important for understanding Venus's surface-atmosphere evolution.
+
+12. TECTONICS
+    Venus has many tectonic features.
+    The surface contains fractures, faults, ridges, and deformation zones.
+    Venus does not appear to have Earth-like global plate tectonics.
+    The exact mechanism driving crustal deformation on Venus remains uncertain.
+    Heat from the interior can contribute to geological deformation.
+    Some regions show evidence of intense tectonic activity.
+    Studying Venusian tectonics helps scientists compare different styles of planetary crustal evolution.
+    The absence of Earth-like plate tectonics is an important difference between Venus and Earth.
+
+13. INTERIOR
+    Venus is expected to have a metallic core.
+    A rocky mantle surrounds the core.
+    A rocky crust forms the outer solid layer.
+    The interior structure is broadly similar to that of Earth.
+    The exact physical state of Venus's core is not completely known.
+    Scientists use gravity measurements and geological observations to study Venus's interior.
+    The planet's interior heat influences its geological activity.
+    Understanding the interior helps explain volcanism and tectonic deformation.
+
+14. MAGNETIC ENVIRONMENT
+    Venus does not have an Earth-like internally generated global magnetic field.
+    The planet interacts directly with the solar wind.
+    Solar wind particles interact with Venus's upper atmosphere.
+    This interaction produces an induced magnetosphere.
+    The induced magnetic environment can protect some atmospheric particles temporarily.
+    Charged particles can also contribute to atmospheric escape.
+    Venus's interaction with the solar wind differs from Earth's interaction with the solar wind.
+    Studying this environment helps scientists understand how planets lose atmospheric material.
+
+15. WATER AND ATMOSPHERIC EVOLUTION
+    Venus currently contains very little water compared with Earth.
+    Evidence suggests Venus may have lost large amounts of water over its history.
+    Ultraviolet radiation can break water molecules in the upper atmosphere.
+    Hydrogen can escape more easily into space than heavier elements.
+    Loss of hydrogen can contribute to long-term water depletion.
+    The history of water on Venus is still being investigated.
+    The planet's atmospheric evolution may have contributed to its present dry environment.
+    Comparing Venus with Earth helps scientists study how planetary climates diverge.
+
+16. EXPLORATION
+    Venus has been visited by numerous robotic spacecraft.
+    The Soviet Venera program achieved several major milestones at Venus.
+    Venera spacecraft obtained some of the first direct measurements from the Venusian surface.
+    Venera landers returned photographs and scientific measurements from the surface.
+    The Magellan spacecraft mapped most of Venus using radar.
+    Radar mapping revealed detailed information about Venusian geology.
+    Akatsuki is a Japanese spacecraft designed to study Venus's atmosphere.
+    Akatsuki observations have contributed to the study of Venusian clouds and atmospheric circulation.
+    Future missions are planned to investigate Venus's atmosphere, surface, and geological history.
+    Venus remains an important target for planetary exploration.
+
+17. SCIENTIFIC IMPORTANCE
+    Venus is often described as Earth's planetary neighbor and a geological comparison case.
+    Its similar size to Earth makes the difference in climate especially significant.
+    Venus demonstrates the effects of an extreme greenhouse atmosphere.
+    Its atmosphere provides a natural laboratory for studying dense planetary atmospheres.
+    Its volcanic surface provides evidence of long-term geological activity.
+    Its unusual rotation provides an example of planetary spin evolution.
+    Its interaction with the solar wind helps scientists study atmospheric escape.
+    Understanding Venus can improve models of rocky planets around other stars.
+    Venus is especially useful for comparative planetology.
+
+18. KEY TERMS
+    Venus: The second planet from the Sun and the hottest planetary surface in the Solar System.
+    Terrestrial planet: A rocky planet with a solid surface.
+    Retrograde rotation: Rotation opposite to the usual direction of planetary orbital motion.
+    Greenhouse effect: Warming caused when an atmosphere absorbs and re-emits outgoing infrared radiation.
+    Superrotation: Atmospheric circulation that moves much faster than the underlying planet rotates.
+    Carbon dioxide: The dominant gas in Venus's atmosphere.
+    Sulfuric acid: A corrosive chemical present in Venus's upper cloud droplets.
+    Radar mapping: A method used to study Venus's surface through its thick clouds.
+    Volcanism: Geological activity involving the movement or eruption of molten rock.
+    Atmospheric escape: The loss of atmospheric particles into space.
+    Induced magnetosphere: A magnetic environment created through interaction between the solar wind and a planet's atmosphere.

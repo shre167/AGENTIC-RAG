@@ -1,0 +1,7 @@
+{
+  "task_id": "task-astronomy-agentic-rag",
+  "task_description": "Evolve the Astronomy RAG Helpdesk into a lightweight Agentic RAG: render the existing AgentController's agent_activity in the Streamlit UI as an expandable Agent Activity panel, fix two minor pipeline bugs, and create a golden test set that compares the controller-based pipeline against the baseline.",
+  "status": "pending",
+  "feature_order": ["FEAT-001", "FEAT-002"],
+  "blocked_reason": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "FEAT-001",
+  "type": "feat",
+  "description": "Add the Agent Activity UI panel to the Streamlit app. The AgentController already runs and produces agent_activity data on every response, but it is never rendered. This FEAT wires it up: update _build_meta() to extract agent_activity from the response, add a new _render_agent_activity() function, call it from _render_answer_extras(), and fix the duplicate dict key bug in pipeline.py.",
+  "status": "completed",
+  "steps": [
+    "Step 1 — Read app.py _build_meta() (around line 723) and _render_answer_extras() (around line 860). Understand the meta dict structure and how render_html() + st.* are used. Do NOT change any existing keys or rendering logic.",
+    "Step 2 — Add 'agent_activity' key to the dict returned by _build_meta() in app.py. The value should be: response.get('agent_activity') or (response.get('trace') or {}).get('agent_activity') or {}. Insert after the 'langfuse_trace_id' key near the end of the return dict.",
+    "Step 3 — Add a new function _render_agent_activity(agent_activity: dict) -> None immediately before _render_answer_extras() in app.py. This function renders an st.expander('🤖 Agent Activity', expanded=False) containing: (a) a top summary row with st.columns showing question_type, final_decision (ANSWER ✅ or ABSTAIN ❌), attempt_count, and retrieval_mode; (b) one st.expander per attempt in agent_activity.get('attempts', []) showing: attempt number, retrieval_mode chip (st.caption), tools_called as a comma-separated list, search_text, candidate_count, fused_count, retrieval_ms formatted as ms, evidence_level badge, evidence_reason text, retry_reason (if any), changes_from_previous (if any), page_match_found and chapter_match_found booleans; (c) a timings row showing controller_total and last_retrieval from agent_activity.get('timings_ms', {}). Use st.markdown, st.caption, st.metric and st.columns — no external render_html() calls required. Guard the entire function: if not agent_activity or not agent_activity.get('question_type'): return immediately (handles greeting/empty responses).",
+    "Step 4 — In _render_answer_extras(meta) in app.py, add a call to _render_agent_activity(meta.get('agent_activity') or {}) as the FIRST item in the function body, before the chip_col/evidence_col columns block.",
+    "Step 5 — Fix the duplicate dict key bug in pipeline.py. In _answer_question_impl, find the trace['retrieval'] dict literal (around line 2090 in the successful answer path) where 'retrieval_ms' and 'llm_ms' each appear twice. Remove the first occurrence of each duplicate key, keeping only the second (which has the correct computed values).",
+    "Step 6 — Verify with: cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m py_compile app.py src/rag_pipeline/pipeline.py. Must produce no output (no errors)."
+  ],
+  "acceptance_criteria": [
+    "python -m py_compile app.py produces no errors",
+    "python -m py_compile src/rag_pipeline/pipeline.py produces no errors",
+    "_build_meta() return dict contains the key 'agent_activity'",
+    "_render_agent_activity is defined in app.py and is called from _render_answer_extras",
+    "The function returns immediately without rendering when agent_activity is empty or missing question_type (handles greetings)",
+    "The duplicate 'retrieval_ms' and 'llm_ms' keys in the trace dict in pipeline.py are gone (each appears exactly once)"
+  ],
+  "verification": [
+    "cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m py_compile app.py",
+    "cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m py_compile src/rag_pipeline/pipeline.py",
+    "cd 'c:\\Users\\shrey\\Desktop\\AGENTIC RAG-MODEL-main\\RAG-MODEL-main\\rag-helpdesk' && python -m pytest tests/ -v -k 'not postgres'"
+  ],
+  "blocked_reason": null,
+  "findings": ""
+}

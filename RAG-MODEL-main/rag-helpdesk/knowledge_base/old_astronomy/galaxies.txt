@@ -1,0 +1,292 @@
+GALAXIES
+A galaxy is a gravitationally bound system containing stars, gas, dust, dark matter, and other astronomical objects.
+Galaxies range from small dwarf systems to enormous galaxies containing hundreds of billions of stars.
+Gravity is the primary force holding a galaxy together on large scales.
+Most of the mass of a galaxy is thought to be contained in dark matter.
+Stars, gas, and dust form the visible or baryonic component of a galaxy.
+Galaxies can contain star clusters, nebulae, stellar remnants, planets, and black holes.
+The Milky Way is the galaxy containing our Solar System.
+Galaxies are major building blocks of the large-scale structure of the universe.
+Galaxies can interact, merge, grow, and change their internal structure over cosmic time.
+The study of galaxies is called galactic astronomy or galaxy evolution research.
+
+GALAXY STRUCTURE
+Many large galaxies contain a central region called the bulge.
+A galactic disk is a flattened rotating structure containing stars, gas, and dust.
+Spiral galaxies commonly have prominent disks and central bulges.
+The outer region surrounding a galaxy is called its halo.
+A galactic halo contains stars, globular clusters, hot gas, and large amounts of dark matter.
+The dark-matter halo extends much farther than the bright visible disk.
+The central region of many galaxies contains a supermassive black hole.
+Galaxies can have different proportions of bulge, disk, gas, and stellar components.
+The distribution of matter influences how stars and gas move within a galaxy.
+Galaxy structure can provide clues about a galaxy's formation and evolutionary history.
+
+TYPES OF GALAXIES
+The main broad morphological classes include spiral, elliptical, and irregular galaxies.
+Spiral galaxies have flattened disks and spiral structures around their central regions.
+Elliptical galaxies generally have smooth, rounded or elongated stellar distributions.
+Irregular galaxies lack a simple regular structure.
+Lenticular galaxies have disks but generally lack prominent spiral arms.
+Dwarf galaxies are relatively small and can belong to several morphological categories.
+Galaxy classification describes visible structure rather than every physical property.
+A galaxy can change morphology through interactions and mergers.
+Some galaxies show features that make classification difficult.
+Modern galaxy studies use both morphology and physical measurements.
+
+SPIRAL GALAXIES
+Spiral galaxies contain rotating stellar and gaseous disks.
+Their spiral arms are regions where stars, gas, and dust are concentrated.
+Spiral arms are associated with enhanced star formation.
+Many spiral galaxies contain a central bulge.
+Some spiral galaxies have a bar crossing their central region.
+The Milky Way is classified as a barred spiral galaxy.
+Spiral galaxies generally contain significant amounts of cold gas and dust.
+Their disks can continue forming new stars over long periods.
+The rotation of a spiral galaxy is influenced strongly by its dark-matter halo.
+Interactions with other galaxies can distort or enhance spiral structure.
+
+ELLIPTICAL GALAXIES
+Elliptical galaxies generally have smooth stellar distributions without prominent spiral arms.
+They range from relatively small dwarf ellipticals to giant elliptical galaxies.
+Many elliptical galaxies contain older stellar populations.
+Large elliptical galaxies often contain relatively little cold gas compared with star-forming spirals.
+Star formation in many elliptical galaxies is weak or suppressed.
+The stars in elliptical galaxies can follow a wide range of orbital directions.
+Some elliptical galaxies form through mergers involving other galaxies.
+Giant elliptical galaxies can occupy the centers of galaxy clusters.
+Their shapes range from nearly spherical to highly elongated.
+Elliptical galaxies provide important evidence about galaxy mergers and evolution.
+
+IRREGULAR GALAXIES
+Irregular galaxies do not fit cleanly into spiral, elliptical, or lenticular categories.
+Their structures can be asymmetric or strongly disturbed.
+Gravitational interactions can produce irregular shapes.
+Some irregular galaxies contain substantial amounts of gas and active star formation.
+Dwarf irregular galaxies are common in the nearby universe.
+The Large Magellanic Cloud has an irregular or Magellanic-type structure.
+The Small Magellanic Cloud is another nearby irregular galaxy.
+Irregular galaxies can provide laboratories for studying star formation in low-mass systems.
+Their evolution can be strongly influenced by nearby massive galaxies.
+Tidal forces can stretch and distort irregular galaxies.
+
+LENTICULAR GALAXIES
+Lenticular galaxies are commonly classified as S0 galaxies.
+They have a central bulge and a disk but lack prominent spiral arms.
+Their disks can contain relatively little cold gas.
+Star formation is generally lower than in typical spiral galaxies.
+Lenticular galaxies can occur in dense environments such as galaxy clusters.
+Environmental processes can remove gas from a galaxy.
+A spiral galaxy can potentially evolve toward a lenticular state after losing much of its cold gas.
+Their structure makes them intermediate in appearance between spiral and elliptical galaxies.
+Lenticular galaxies demonstrate that galaxy morphology forms a broader evolutionary sequence.
+Detailed observations are needed to determine how individual lenticular galaxies formed.
+
+THE MILKY WAY
+The Milky Way is a barred spiral galaxy.
+The Solar System lies in the Milky Way's disk.
+The Sun is located in a region of the disk called the Orion Arm or Orion Spur.
+The Milky Way contains hundreds of billions of stars, although the exact number is uncertain.
+Its visible disk spans roughly 100,000 light-years in diameter.
+The galaxy contains a central bulge surrounded by a bar.
+A large dark-matter halo surrounds the visible galaxy.
+The center of the Milky Way contains the supermassive black hole Sagittarius A*.
+The Milky Way is part of a small collection of galaxies called the Local Group.
+The Milky Way interacts gravitationally with nearby galaxies including the Andromeda Galaxy.
+
+ANDROMEDA GALAXY
+The Andromeda Galaxy is also known as Messier 31 or M31.
+Andromeda is the nearest large spiral galaxy to the Milky Way.
+It is located roughly 2.5 million light-years from Earth.
+Andromeda is a large spiral galaxy with a central bulge and disk.
+It contains a supermassive black hole at its center.
+The galaxy has satellite galaxies orbiting around it.
+Andromeda and the Milky Way are the two dominant large galaxies in the Local Group.
+Their gravitational interaction will change both galaxies over cosmic time.
+Current models predict a future major interaction between the Milky Way and Andromeda.
+The exact details and timing of their future encounter remain uncertain.
+
+LOCAL GROUP
+The Local Group is a gravitationally bound collection of galaxies.
+The Milky Way and Andromeda are its two largest galaxies.
+The Local Group contains numerous dwarf galaxies.
+The Triangulum Galaxy is another major spiral galaxy in the Local Group.
+Satellite galaxies orbit larger galaxies within the group.
+The gravitational influence of the Local Group extends across millions of light-years.
+Galaxies in the Local Group interact through gravity.
+Dwarf galaxies can lose gas and stars through tidal interactions.
+Studying nearby galaxies provides detailed information about galaxy formation.
+The Local Group is part of the larger cosmic web.
+
+GALAXY CLUSTERS
+A galaxy cluster is a gravitationally bound collection of many galaxies.
+Clusters can contain hundreds or thousands of galaxies.
+Most of the mass of a cluster is dark matter.
+Hot intracluster gas can account for a significant fraction of the ordinary matter.
+The hot gas emits strongly in X-rays.
+Galaxy clusters are among the largest gravitationally bound structures in the universe.
+Galaxies inside clusters interact with one another and with the cluster environment.
+Ram-pressure stripping can remove gas from galaxies moving through hot cluster gas.
+Cluster environments can influence star formation and galaxy morphology.
+The mass of clusters can be estimated using galaxy motions, X-rays, and gravitational lensing.
+
+GALAXY GROUPS
+A galaxy group contains fewer galaxies than a typical massive galaxy cluster.
+The Local Group is an example of a galaxy group.
+Galaxy groups are commonly dominated by one or a few large galaxies.
+Dwarf satellite galaxies can orbit the dominant galaxies.
+Gravity keeps the group members associated over long periods.
+Interactions between group members can alter their shapes and star-formation activity.
+Galaxy groups can eventually merge into larger structures.
+Groups are important environments for studying galaxy interactions.
+Their lower densities distinguish them from massive clusters.
+Galaxy groups contribute to the hierarchical growth of cosmic structure.
+
+GALAXY FORMATION
+Galaxies formed as matter became concentrated under gravity in the early universe.
+Small density variations in the early universe provided seeds for later structure.
+Dark matter collapsed into gravitationally bound halos.
+Ordinary matter fell into these halos and formed gas-rich structures.
+Cooling gas could condense and form stars.
+Stars and stellar systems gradually built larger galaxies.
+Galaxy formation is a continuing process rather than a single event.
+Mergers and gas accretion can significantly change a galaxy.
+Feedback from stars and black holes can influence how efficiently galaxies form stars.
+Modern galaxy formation models combine dark matter, gas physics, star formation, and feedback.
+
+GALAXY MERGERS
+A galaxy merger occurs when two galaxies interact strongly and eventually combine.
+Mergers are driven by gravitational forces.
+During a merger, stellar orbits can be significantly rearranged.
+Gas clouds can collide and become compressed.
+Gas compression can trigger bursts of star formation.
+Major mergers can transform the structure of disk galaxies.
+Minor mergers occur when a large galaxy interacts with a much smaller galaxy.
+Mergers can contribute to the growth of massive elliptical galaxies.
+Central supermassive black holes can eventually merge after their host galaxies combine.
+Galaxy mergers are important mechanisms in hierarchical galaxy evolution.
+
+STAR FORMATION IN GALAXIES
+Stars form primarily from cold, dense molecular gas.
+Molecular clouds can collapse when gravity overcomes internal support.
+Regions of active star formation are often associated with bright nebulae.
+Young massive stars emit ultraviolet radiation that can ionize surrounding gas.
+Supernova explosions return energy and heavy elements to the surrounding interstellar medium.
+Star formation can therefore influence the gas from which later generations of stars form.
+The rate of star formation varies strongly between different galaxies.
+Spiral galaxies can maintain ongoing star formation across their disks.
+Some galaxies undergo short periods of extremely intense star formation called starbursts.
+Galaxy evolution depends partly on the balance between gas supply, star formation, and feedback.
+
+GALACTIC ROTATION
+Stars and gas in a galaxy can orbit its center under gravity.
+The orbital speed of stars depends on the distribution of mass within the galaxy.
+Spiral galaxies often show nearly flat rotation curves at large distances from their centers.
+The observed rotation speeds imply more mass than can be explained by visible matter alone.
+This discrepancy is one of the major lines of evidence for dark matter.
+Dark matter is thought to form an extended halo around galaxies.
+Gas motions can also be used to measure a galaxy's gravitational potential.
+Galaxy rotation provides information about both visible and unseen mass.
+The Milky Way's rotation has been measured using stars and gas.
+Rotation patterns can also reveal bars, spiral structures, and other internal features.
+
+DARK MATTER IN GALAXIES
+Dark matter does not significantly interact with electromagnetic radiation.
+It is therefore not directly visible through ordinary telescopes.
+Its gravitational effects reveal its presence around galaxies.
+Dark-matter halos provide gravitational wells that help galaxies assemble.
+The amount of dark matter strongly affects galaxy rotation.
+Gravitational lensing can independently reveal dark-matter distributions.
+Galaxy clusters contain large quantities of dark matter.
+The nature of dark matter remains an open question in particle physics and cosmology.
+Dark matter is different from ordinary gas, dust, stars, and planets.
+Understanding dark matter is essential for explaining the large-scale formation of galaxies.
+
+INTERSTELLAR MEDIUM
+The interstellar medium is the material occupying the space between stars.
+It contains gas, dust, cosmic rays, magnetic fields, and radiation.
+Hydrogen is the most abundant element in the interstellar medium.
+Gas can exist in ionized, atomic, or molecular forms.
+Molecular clouds are important sites of star formation.
+Dust grains can absorb and scatter visible light.
+Dust can also emit thermal radiation at infrared wavelengths.
+Supernovae inject energy and heavy elements into the interstellar medium.
+Stellar winds can also shape surrounding gas.
+The interstellar medium connects stellar evolution with future generations of stars.
+
+GALACTIC NUCLEI
+The central region of a galaxy is called its nucleus.
+Many galaxies contain supermassive black holes in their nuclei.
+A galaxy with a very luminous active nucleus is called an active galactic nucleus.
+Active galactic nuclei are powered by accretion onto central supermassive black holes.
+The accretion disk can emit large amounts of electromagnetic radiation.
+Some active galactic nuclei produce powerful relativistic jets.
+Quasars are extremely luminous active galactic nuclei.
+Not all galaxies with central black holes are currently active.
+The activity level depends strongly on the availability and inflow of gas.
+Black-hole activity can influence the evolution of the host galaxy.
+
+GALAXY OBSERVATION
+Astronomers observe galaxies across the electromagnetic spectrum.
+Visible light reveals stars, dust structures, and galaxy morphology.
+Infrared observations can detect cool dust and reveal stars hidden by dust.
+Radio observations can trace neutral hydrogen and other gas.
+Ultraviolet observations are useful for identifying young massive stars.
+X-ray observations can reveal hot gas, binary systems, and active galactic nuclei.
+Spectroscopy provides information about chemical composition, temperature, and motion.
+Redshift measurements can estimate how rapidly a galaxy is receding because of cosmic expansion.
+Gravitational lensing can magnify and distort distant galaxies.
+Combining multiple wavelengths provides a more complete picture of galaxy evolution.
+
+GALAXY REDSHIFT
+Galaxy redshift describes the shift of spectral features toward longer wavelengths.
+Cosmological redshift occurs because space expands as light travels through the universe.
+For sufficiently distant galaxies, redshift is related to cosmic expansion.
+Redshift can be measured from known spectral lines.
+Astronomers use redshift to estimate distances and study the history of cosmic expansion.
+Higher redshift generally corresponds to observing galaxies at earlier cosmic times.
+Very distant galaxies are therefore seen as they existed billions of years ago.
+Galaxy surveys use redshift to construct three-dimensional maps of cosmic structure.
+Redshift is different from ordinary Doppler shifts caused solely by local motion.
+The interpretation of redshift depends on the scale and physical context of the observation.
+
+GALAXY EVOLUTION
+Galaxies evolve through star formation, gas accretion, mergers, and internal processes.
+Gas can enter galaxies from the surrounding cosmic environment.
+Stars consume gas and return some material through stellar winds and supernovae.
+Black-hole feedback can heat or expel gas.
+Galaxy mergers can rearrange stars and trigger new star formation.
+Environmental effects can remove gas from galaxies in groups and clusters.
+The balance of these processes determines a galaxy's size, structure, and star-formation rate.
+Galaxies observed at different distances represent different stages of cosmic history.
+Distant galaxy surveys therefore provide a record of galaxy evolution.
+No single mechanism explains the evolution of every galaxy.
+
+LARGE-SCALE STRUCTURE
+Galaxies are distributed across the universe in a large-scale pattern called the cosmic web.
+The cosmic web contains filaments, galaxy groups, clusters, and large underdense regions.
+Dark matter provides much of the underlying gravitational structure.
+Galaxies preferentially form along dense regions of the cosmic web.
+Clusters are commonly located where several filaments intersect.
+Voids are large regions containing relatively few galaxies.
+The distribution of galaxies preserves information about the growth of cosmic structure.
+Galaxy surveys map this structure using positions and redshifts.
+The cosmic web developed through gravitational growth from early density fluctuations.
+Galaxy formation is therefore connected to the evolution of the entire universe.
+
+KEY TERMS
+Galaxy means a gravitationally bound system of stars, gas, dust, and dark matter.
+Bulge means the dense central stellar component of many galaxies.
+Disk means the flattened rotating component found in spiral and lenticular galaxies.
+Halo means the extended region surrounding a galaxy containing dark matter and other material.
+Spiral galaxy means a galaxy with a disk and prominent spiral structure.
+Elliptical galaxy means a galaxy with a smooth, generally ellipsoidal stellar distribution.
+Irregular galaxy means a galaxy lacking a simple regular morphological structure.
+Galaxy group means a relatively small gravitationally bound collection of galaxies.
+Galaxy cluster means a massive gravitationally bound collection containing many galaxies.
+Interstellar medium means the gas, dust, radiation, magnetic fields, and cosmic rays between stars.
+Active galactic nucleus means a luminous galactic center powered by accretion onto a central black hole.
+Quasar means an extremely luminous type of active galactic nucleus.
+Galaxy merger means a strong gravitational interaction that can lead to galaxies combining.
+Cosmic web means the large-scale network of filaments, clusters, groups, and voids containing galaxies.
+Galaxy redshift means the shift of observed spectral features toward longer wavelengths.

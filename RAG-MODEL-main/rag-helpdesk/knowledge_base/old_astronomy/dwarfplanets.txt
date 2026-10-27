@@ -1,0 +1,216 @@
+DWARF PLANETS — OVERVIEW
+A dwarf planet is a celestial body that orbits the Sun.
+It has enough mass for its gravity to make it approximately round.
+It has not cleared the neighborhood around its orbit.
+It is not a satellite of another body.
+The International Astronomical Union established this definition in 2006.
+Dwarf planets are different from both planets and smaller Solar System bodies.
+They can be found in different regions of the Solar System.
+Several known dwarf planets orbit beyond Neptune.
+Ceres is the only officially recognized dwarf planet in the inner Solar System.
+The classification of distant objects can sometimes remain uncertain.
+The number of possible dwarf planets is therefore larger than the confirmed group.
+
+PLANETS AND DWARF PLANETS
+Planets and dwarf planets both orbit the Sun.
+Both can have enough gravity to become approximately round.
+The main difference is orbital dominance.
+A planet has cleared the neighborhood around its orbit.
+A dwarf planet shares its orbital region with other objects.
+Clearing an orbit does not mean removing every object from that region.
+It refers to gravitational dominance over the surrounding orbital zone.
+Earth, Mars, Jupiter, and Neptune are examples of planets.
+Ceres and Pluto are examples of dwarf planets.
+The distinction is based on orbital dynamics rather than simply size.
+
+DWARF PLANET CLASSIFICATION
+The dwarf planet category was introduced to describe bodies between planets and smaller objects.
+Classification depends on orbital and physical characteristics.
+An object must orbit the Sun to qualify.
+It must not be a moon of another body.
+Its own gravity must be strong enough to make it approximately round.
+It must not have cleared its orbital neighborhood.
+The category includes objects with very different sizes and compositions.
+Some dwarf planets contain substantial amounts of ice.
+Others contain significant rock and possibly metallic material.
+Scientific classification can change when new observations improve our understanding.
+
+KNOWN DWARF PLANETS
+Ceres is the largest object in the main asteroid belt and a dwarf planet.
+Pluto is a dwarf planet in the Kuiper Belt.
+Eris is a large dwarf planet in the distant outer Solar System.
+Haumea is a rapidly rotating dwarf planet beyond Neptune.
+Makemake is a large icy body in the Kuiper Belt.
+These five are commonly recognized as dwarf planets.
+Other distant objects are considered dwarf planet candidates.
+The physical properties of many distant objects are difficult to measure directly.
+Diameter, mass, shape, and composition help scientists evaluate classification.
+New observations can improve estimates of distant object properties.
+
+CERES
+Ceres is located in the main asteroid belt between Mars and Jupiter.
+It has a diameter of roughly 940 kilometers.
+Ceres is the largest object in the asteroid belt.
+It contains a mixture of rock and volatile-rich material.
+Its gravity is strong enough to make it approximately spherical.
+Water ice is believed to occur beneath its surface.
+Ceres has many impact craters.
+Occator Crater contains unusually bright deposits.
+The bright deposits contain abundant salts.
+NASA's Dawn spacecraft orbited Ceres and studied its surface and interior.
+
+PLUTO
+Pluto is a dwarf planet in the Kuiper Belt.
+It was discovered in 1930 by Clyde Tombaugh.
+Pluto was classified as a planet until the definition changed in 2006.
+Its surface contains nitrogen, methane, and carbon monoxide ices.
+Pluto has a complex surface with mountains, plains, glaciers, and craters.
+The heart-shaped Tombaugh Regio is one of its most recognizable features.
+Sputnik Planitia is a large nitrogen-ice-covered basin within Tombaugh Regio.
+Pluto has a thin atmosphere that changes with its distance from the Sun.
+The atmosphere contains nitrogen with smaller amounts of methane and carbon monoxide.
+NASA's New Horizons spacecraft performed a close flyby of Pluto in 2015.
+
+PLUTO'S ORBIT
+Pluto follows an elliptical orbit around the Sun.
+Its average distance from the Sun is about 39 astronomical units.
+One Pluto year lasts about 248 Earth years.
+Its orbit is more eccentric than the orbits of the eight planets.
+Pluto's orbit is also significantly inclined relative to the main planetary orbital plane.
+For part of its orbit, Pluto is closer to the Sun than Neptune.
+This does not result in a collision between Pluto and Neptune.
+Their orbital configuration is protected by a stable resonance.
+Pluto completes two orbits for approximately every three Neptune orbits.
+This relationship is known as a 2:3 orbital resonance.
+
+PLUTO'S MOONS
+Pluto has five known moons.
+Charon is the largest and most massive of Pluto's moons.
+Styx, Nix, Kerberos, and Hydra are the smaller moons.
+Charon is unusually large compared with Pluto.
+The Pluto-Charon system is often described as a binary planetary system.
+Pluto and Charon orbit a common center of mass outside Pluto's center.
+Charon is tidally locked with Pluto.
+Pluto is also tidally locked with Charon.
+The smaller moons orbit farther from the Pluto-Charon pair.
+New Horizons studied Pluto and several of its moons during its flyby.
+
+ERIS
+Eris is a dwarf planet in the distant outer Solar System.
+It is located in the scattered disk region beyond the Kuiper Belt.
+Eris is similar in size to Pluto.
+Its discovery contributed to the debate that led to the 2006 planet definition.
+Eris has a highly elliptical orbit around the Sun.
+Its orbital period is roughly 558 Earth years.
+Eris is known to have one moon called Dysnomia.
+Its surface is extremely cold because of its great distance from the Sun.
+Methane ice has been detected on its surface.
+Eris is important for studying distant icy bodies and dwarf planet formation.
+
+HAUMEA
+Haumea is a dwarf planet beyond Neptune.
+It has an unusually elongated shape.
+Its elongated shape is related to its very rapid rotation.
+Haumea completes one rotation in less than four hours.
+It is one of the fastest-rotating large bodies in the Solar System.
+Its surface is dominated by water ice.
+Haumea has two known moons.
+It also has a narrow ring system.
+Its rapid rotation and unusual shape make it scientifically distinctive.
+Haumea's properties provide clues about collisions in the outer Solar System.
+
+MAKEMAKE
+Makemake is a dwarf planet in the Kuiper Belt.
+It is one of the largest known Kuiper Belt objects.
+Makemake has a diameter of roughly 1,400 kilometers.
+Its surface is extremely cold and rich in volatile ices.
+Methane ice is present on its surface.
+Ethane and other hydrocarbons can also occur.
+Makemake has a very thin atmosphere that may vary with its orbital position.
+It has one known moon.
+The moon is known as MK2 or S/2015 (136472) 1 in scientific designations.
+Makemake helps scientists study the physical and chemical properties of Kuiper Belt objects.
+
+DWARF PLANET SURFACES
+Dwarf planet surfaces can contain large impact craters.
+Ices can dominate the surfaces of distant dwarf planets.
+Nitrogen ice is important on Pluto.
+Methane ice occurs on several distant outer Solar System bodies.
+Water ice is particularly important on Haumea.
+Ceres has a rock-rich surface with hydrated minerals and salts.
+Surface temperatures are generally very low on distant dwarf planets.
+Seasonal heating can cause some surface ices to move or vaporize.
+Impacts can expose material from beneath the surface.
+Surface observations help scientists reconstruct geological histories.
+
+DWARF PLANET INTERIORS
+Dwarf planets can contain mixtures of rock and ice.
+Their internal structures depend on size, composition, and thermal history.
+Larger bodies can retain internal heat for longer periods.
+Radioactive elements can provide a source of internal heating.
+Water-rich interiors may have experienced differentiation.
+Differentiation occurs when materials separate according to density.
+Dense rocky material can move toward the center.
+Less dense icy material can occupy outer regions.
+Some dwarf planets may have had subsurface liquid water in the past.
+Interior properties are often inferred from mass, size, density, and surface evidence.
+
+KUIPER BELT DWARF PLANETS
+The Kuiper Belt is a region beyond Neptune containing many icy objects.
+Several large Kuiper Belt objects are classified as dwarf planets.
+Pluto, Haumea, and Makemake are associated with the Kuiper Belt.
+Eris is generally associated with the more distant scattered disk.
+The Kuiper Belt contains objects with a wide range of sizes.
+Many objects contain mixtures of rock and volatile ices.
+Collisions and gravitational interactions shaped the region.
+Neptune strongly influences the orbital dynamics of many Kuiper Belt objects.
+Orbital resonances occur between some Kuiper Belt objects and Neptune.
+The region preserves material from the early outer Solar System.
+
+DWARF PLANETS AND ORBITAL DYNAMICS
+Dwarf planets do not gravitationally dominate their orbital neighborhoods.
+Their orbital regions contain many other small bodies.
+Resonances can stabilize or modify their orbital paths.
+Gravitational interactions can change orbital eccentricity and inclination.
+Some dwarf planets have highly inclined or elongated orbits.
+Orbital dynamics help explain the different populations of distant objects.
+Long-term simulations are used to study their orbital evolution.
+The gravitational influence of Neptune is particularly important beyond its orbit.
+Close encounters can alter the trajectories of smaller bodies.
+Orbital dynamics are central to understanding why dwarf planets differ from planets.
+
+EXPLORATION
+Ceres was explored extensively by NASA's Dawn spacecraft.
+Dawn became the first spacecraft to orbit two extraterrestrial bodies.
+It orbited Vesta before reaching Ceres.
+New Horizons performed the first close flyby of Pluto.
+The spacecraft reached Pluto in July 2015.
+New Horizons obtained detailed images of Pluto's surface.
+It studied Pluto's atmosphere, geology, composition, and moons.
+Distant dwarf planets have not yet received dedicated close-up spacecraft missions.
+Most information about Eris, Haumea, and Makemake comes from telescopic observations.
+Future missions could provide direct measurements of distant dwarf planets.
+
+SCIENTIFIC IMPORTANCE
+Dwarf planets help scientists understand how planetary systems form.
+They preserve material from regions where full-sized planets did not form.
+Their surfaces can retain evidence of ancient processes.
+Their orbits provide information about Solar System dynamics.
+Their compositions reveal differences between formation environments.
+Ceres provides information about water-rich bodies in the inner Solar System.
+Pluto provides detailed evidence about the Kuiper Belt.
+Eris helped establish the modern distinction between planets and dwarf planets.
+Haumea provides evidence of rapid rotation and past collisions.
+Makemake provides another example of a large icy Kuiper Belt body.
+
+KEY TERMS
+Dwarf planet: A round, Sun-orbiting body that has not cleared its orbital neighborhood.
+Orbital neighborhood: The region around an object's orbit in which gravitational dominance is considered.
+Kuiper Belt: A distant region beyond Neptune containing many icy Solar System bodies.
+Scattered disk: A distant population of objects with dynamically excited orbits beyond Neptune.
+Orbital resonance: A gravitational relationship involving simple ratios between orbital periods.
+Tidal locking: A state in which an object's rotation period matches its orbital period around another body.
+Differentiation: Separation of planetary materials into layers based on density and physical properties.
+Ceres: The largest object in the main asteroid belt and a dwarf planet.
+Pluto: A dwarf planet and major Kuiper Belt object.
+Eris: A distant dwarf planet whose discovery contributed to the redefinition of planet classification.

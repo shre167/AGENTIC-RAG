@@ -1,0 +1,211 @@
+HUMAN SPACEFLIGHT
+Human spaceflight is the exploration of space by people aboard spacecraft.
+Human spaceflight requires systems that protect astronauts from the hazards of the space environment.
+Astronauts operate in environments with microgravity, vacuum, radiation, and extreme temperatures.
+Spacecraft used for human missions require life-support, navigation, communication, power, and propulsion systems.
+Human spaceflight includes orbital missions, space-station operations, spacecraft testing, and exploration beyond low Earth orbit.
+Crewed missions can perform scientific experiments that require direct human participation.
+Astronauts can also operate instruments, maintain spacecraft, and respond to unexpected situations.
+
+SPACE ENVIRONMENT
+Space is an extremely low-pressure environment with no breathable atmosphere.
+A spacecraft must maintain a controlled internal atmosphere for its crew.
+Microgravity is the condition in which objects appear to experience very little gravitational acceleration.
+Astronauts in orbit experience microgravity because they and their spacecraft are continuously falling around Earth.
+Microgravity affects human muscles, bones, balance, fluid distribution, and cardiovascular function.
+Long-duration missions require exercise and medical monitoring to reduce some effects of microgravity.
+Space radiation includes energetic particles from the Sun and sources outside the Solar System.
+Radiation exposure is an important consideration for long-duration human missions.
+Spacecraft structures and specialized materials can provide some radiation shielding.
+Extravehicular activity exposes astronauts directly to the external space environment.
+
+LIFE-SUPPORT SYSTEMS
+A life-support system maintains environmental conditions required for human survival inside a spacecraft.
+Oxygen supply is necessary for crew respiration.
+Carbon dioxide must be removed because it accumulates as humans breathe.
+Temperature and humidity must be controlled for crew comfort and equipment operation.
+Water is required for drinking, food preparation, hygiene, and other spacecraft operations.
+Waste-management systems collect and process human waste.
+Air circulation distributes gases and helps control temperature and humidity.
+Life-support systems can recycle portions of air and water to reduce resupply requirements.
+Redundancy is important because failure of a critical life-support component can threaten the crew.
+Environmental sensors continuously monitor important spacecraft conditions.
+
+SPACE SUITS
+A spacesuit is a wearable spacecraft that provides protection during operations outside a pressurized cabin.
+Spacesuits maintain pressure around an astronaut's body.
+Spacesuits provide oxygen and remove carbon dioxide during extravehicular activity.
+Thermal-control systems help protect astronauts from extreme temperatures.
+Spacesuits protect astronauts from some forms of radiation and micrometeoroid hazards.
+The suit must remain flexible enough to allow astronauts to perform tasks.
+Gloves are designed to provide hand protection while allowing controlled movement.
+Space suits can include communication systems for contact with crew members and mission control.
+Tethers and other safety systems can help prevent astronauts from drifting away from a spacecraft.
+Spacesuit design depends on the environment and type of mission.
+
+CREWED SPACECRAFT
+A crewed spacecraft is designed to transport and support humans during spaceflight.
+Crew modules provide a pressurized environment for astronauts.
+Crew spacecraft include systems for propulsion, navigation, communication, power, and thermal control.
+A spacecraft may contain separate sections for crew living, equipment, propulsion, or cargo.
+Crew seats and restraints protect astronauts during launch, landing, and other high-acceleration events.
+Windows or external cameras can provide astronauts with views of the surrounding environment.
+Crew spacecraft require emergency systems for situations such as launch or spacecraft malfunctions.
+An abort system can help separate a crew capsule from a failing launch vehicle during certain emergencies.
+Reentry systems protect spacecraft from intense heating during atmospheric descent.
+Parachutes or other landing systems can reduce speed before reaching the surface.
+
+ROCKETS AND HUMAN LAUNCHES
+A launch vehicle provides the thrust required to place a spacecraft into space.
+Rocket engines generate thrust by expelling high-speed exhaust.
+Rockets carry both fuel and an oxidizer because there is no atmospheric oxygen in space.
+Multistage rockets use separate stages that are discarded after their propellant is consumed.
+Staging reduces the mass that later stages must accelerate.
+The launch vehicle must provide enough velocity for the spacecraft to enter its intended trajectory.
+Launch trajectories are planned to satisfy requirements for altitude, velocity, safety, and orbital geometry.
+Crewed launches require additional safety systems compared with many uncrewed missions.
+Launch escape systems can move a crew capsule away from a malfunctioning rocket.
+Launch windows are selected based on mission trajectory, orbital mechanics, and operational constraints.
+
+ORBITAL FLIGHT
+An orbit is a curved trajectory produced by gravitational motion around a larger body.
+A spacecraft in low Earth orbit travels at several kilometers per second relative to Earth.
+Astronauts aboard an orbiting spacecraft experience continuous free fall.
+Orbital altitude affects orbital speed, period, atmospheric drag, and radiation exposure.
+Low Earth orbit is commonly used for crewed spacecraft and space stations.
+Spacecraft can perform orbital maneuvers by changing their velocity.
+Small changes in velocity can produce significant changes in an orbit.
+Rendezvous is the process of bringing two spacecraft into nearby compatible trajectories.
+Docking occurs when two spacecraft physically connect in space.
+Precise navigation is required for safe rendezvous and docking.
+
+SPACE STATIONS
+A space station is a crewed spacecraft or group of spacecraft designed for extended operations in orbit.
+Space stations provide laboratories, living quarters, storage, and spacecraft-control systems.
+Crew members can conduct experiments over periods ranging from days to months.
+Microgravity research can investigate physical, biological, chemical, and technological processes.
+Space stations can test equipment and procedures for future exploration missions.
+Regular resupply missions can deliver food, equipment, experiments, and replacement components.
+Crew rotations allow astronauts to stay aboard a station for extended periods.
+Space stations require continuous power, thermal control, communication, and environmental support.
+Station maintenance includes inspections, repairs, equipment replacement, and external operations.
+Long-duration station missions provide information about human adaptation to spaceflight.
+
+EXTRAVEHICULAR ACTIVITY
+An extravehicular activity is an operation performed by an astronaut outside a spacecraft or space station.
+EVA is commonly called a spacewalk.
+Astronauts use spacesuits during spacewalks outside a pressurized spacecraft.
+Spacewalk tasks can include equipment installation, maintenance, inspection, and scientific operations.
+Astronauts are connected to the spacecraft through safety systems during many EVAs.
+Tools are designed to remain manageable while wearing pressurized gloves.
+EVA procedures are rehearsed extensively before flight.
+Mission control coordinates many aspects of an EVA with the crew.
+Astronauts monitor suit pressure, oxygen, carbon dioxide, temperature, and other parameters.
+EVA operations are limited by suit resources, crew workload, and environmental conditions.
+
+HUMAN FACTORS
+Human factors research studies how spacecraft systems interact with human physical and cognitive capabilities.
+Crew interfaces must provide information clearly and allow reliable control of spacecraft systems.
+Astronauts require training to respond to normal and emergency procedures.
+Fatigue can affect attention, decision-making, and physical performance.
+Sleep schedules are important during long-duration missions.
+Crew members must manage work, exercise, rest, communication, and personal activities.
+Isolation and confinement can influence crew psychology and team dynamics.
+Crew selection and training consider technical skills, physical health, communication, and teamwork.
+Simulation helps astronauts practice complex operations before flight.
+Mission planners consider human workload when assigning tasks.
+
+SPACE MEDICINE
+Space medicine studies the effects of spaceflight on human health.
+Microgravity causes body fluids to shift toward the upper body and head.
+Reduced mechanical loading can contribute to loss of bone mineral density.
+Reduced muscle loading can cause muscle atrophy during prolonged exposure to microgravity.
+Exercise equipment is used aboard spacecraft to help maintain muscle and bone condition.
+Balance and spatial orientation can be temporarily affected after entering or leaving microgravity.
+Astronauts can experience changes in cardiovascular function during spaceflight.
+Medical monitoring helps identify health changes during missions.
+Nutrition provides energy and essential nutrients required for crew health and performance.
+Medical procedures must account for limited space, equipment, and communication delays.
+
+SPACE RADIATION
+Radiation exposure is a major environmental challenge for human spaceflight.
+Sources include solar particle events and galactic cosmic rays.
+Solar particle events can produce high-energy charged particles during periods of solar activity.
+Galactic cosmic rays originate from energetic processes outside the Solar System.
+Radiation shielding can reduce exposure but cannot eliminate all radiation hazards.
+Mission duration and trajectory affect cumulative radiation exposure.
+Earth's magnetic field provides substantial protection for astronauts in low Earth orbit.
+Beyond Earth's protective magnetic environment, radiation becomes a greater mission consideration.
+Spacecraft and spacesuit designs can incorporate materials intended to reduce radiation exposure.
+Radiation monitoring is used to measure the environment experienced by astronauts.
+
+SPACE COMMUNICATION
+Crewed spacecraft require communication systems for contact with ground stations and other spacecraft.
+Communication links can transmit voice, video, commands, telemetry, and scientific data.
+Telemetry consists of measurements transmitted from spacecraft systems to ground controllers.
+Tracking systems determine spacecraft position and motion.
+Ground stations receive spacecraft signals and transmit commands.
+Communication delays increase with distance between spacecraft and Earth.
+Long-distance missions require procedures that account for communication delays or interruptions.
+Mission control centers monitor spacecraft systems and coordinate crew activities.
+Communication redundancy improves reliability during critical operations.
+
+CREW TRAINING
+Astronaut training prepares crew members for normal operations and emergency situations.
+Training can include spacecraft systems, robotics, navigation, science, medicine, and survival procedures.
+Neutral-buoyancy facilities can simulate some aspects of underwater movement during EVA training.
+Virtual and physical simulators reproduce spacecraft controls and mission scenarios.
+Crew members practice emergency procedures repeatedly to develop reliable responses.
+Training can include launch and landing simulations.
+Astronauts may train in spacecraft mock-ups that reproduce the interior layout of their vehicles.
+International missions can require crew members to train in multiple countries and facilities.
+Team training helps astronauts coordinate tasks under stressful conditions.
+Mission-specific training continues throughout preparation for launch.
+
+HUMAN SPACEFLIGHT MISSIONS
+Crewed missions can be designed for scientific research, technology demonstrations, exploration, or station operations.
+Mission planning includes launch, orbital operations, crew activities, and return or disposal.
+Mission duration strongly affects life-support, food, medical, and psychological requirements.
+Short missions can focus on specific experiments or spacecraft testing.
+Long-duration missions require extensive planning for maintenance and crew health.
+Exploration missions may require greater autonomy because communication delays can limit real-time control.
+Surface missions require additional systems for landing, mobility, communication, power, and life support.
+Future crewed missions may involve extended operations beyond low Earth orbit.
+Human missions can work alongside robotic spacecraft to investigate environments before crew arrival.
+Robotic systems can perform hazardous or repetitive tasks to support human explorers.
+
+HUMAN SPACEFLIGHT AND ROBOTICS
+Robotic spacecraft can perform reconnaissance before human missions.
+Robots can operate in environments that are too hazardous for humans.
+Human astronauts can make rapid decisions and adapt to unexpected physical situations.
+Robotic systems can provide remote sensing and direct measurements.
+Human and robotic exploration can complement each other.
+Robotic precursor missions can identify landing sites and environmental hazards.
+Crewed missions can collect samples or conduct complex experiments with direct human oversight.
+Robotic assistants can transport equipment or perform repetitive operations.
+Autonomous systems can reduce crew workload during long missions.
+Human-robot collaboration is an important area of future space exploration.
+
+SPACECRAFT SAFETY
+Safety engineering identifies and reduces risks throughout a crewed mission.
+Critical spacecraft systems commonly include redundant components.
+Fault detection systems can identify abnormal spacecraft conditions.
+Emergency procedures provide predefined responses to dangerous situations.
+Crew escape systems can provide additional protection during launch emergencies.
+Fire detection and suppression are important inside pressurized spacecraft.
+Cabin pressure monitoring can detect possible leaks.
+Power systems require protection against failures that could disable essential equipment.
+Thermal-control failures can threaten both crew safety and spacecraft hardware.
+Mission planners use simulations and risk analysis to prepare for possible failures.
+
+FUTURE HUMAN EXPLORATION
+Future human exploration may include longer missions beyond low Earth orbit.
+The Moon provides a nearby environment for testing technologies needed for deeper-space missions.
+Mars presents challenges involving distance, radiation, communication delay, landing, and surface operations.
+Long-duration missions require efficient life-support and resource-recycling systems.
+In-situ resource utilization uses locally available materials to support exploration.
+Potential resources include water ice, atmospheric gases, and surface materials.
+Reliable power systems are essential for sustained operations away from Earth.
+Autonomous systems can support crews when communication with Earth is delayed.
+Human exploration requires integration of transportation, habitats, life support, science, robotics, and safety systems.
+Research from current missions contributes to technologies and procedures for future exploration.

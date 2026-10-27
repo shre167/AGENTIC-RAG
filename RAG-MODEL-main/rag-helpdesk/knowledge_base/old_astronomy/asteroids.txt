@@ -1,0 +1,242 @@
+ASTEROIDS — OVERVIEW
+Asteroids are small rocky or metallic bodies that orbit the Sun.
+Most asteroids are much smaller than planets.
+Asteroids are remnants of material left over from the formation of the Solar System.
+They are classified as small Solar System bodies.
+Most known asteroids are concentrated in the main asteroid belt.
+The main asteroid belt lies between the orbits of Mars and Jupiter.
+Asteroids can have irregular, spherical, elongated, or highly fractured shapes.
+Their surfaces can contain rocks, dust, impact craters, and regolith.
+Asteroids vary greatly in size, composition, brightness, and orbital properties.
+Studying asteroids provides information about the early Solar System.
+
+FORMATION
+Asteroids formed from material present in the protoplanetary disk.
+The protoplanetary disk surrounded the young Sun.
+Small solid particles collided and gradually accumulated during Solar System formation.
+Gravitational interactions influenced how these bodies grew and moved.
+In the asteroid belt, Jupiter's gravity prevented many objects from forming a single planet.
+Collisions repeatedly fragmented larger bodies.
+Some asteroids are therefore fragments of older parent bodies.
+Other asteroids may preserve relatively primitive material.
+Asteroids can retain chemical information from the early Solar System.
+Their compositions help scientists investigate planetary formation.
+Asteroid formation and evolution occurred over billions of years.
+
+MAIN ASTEROID BELT
+The main asteroid belt is located between Mars and Jupiter.
+It extends roughly from 2.1 to 3.3 astronomical units from the Sun.
+The asteroid belt is not a densely packed region of rocks.
+Large distances separate most individual asteroids.
+A spacecraft can travel through the asteroid belt without continuously encountering objects.
+The total mass of the main asteroid belt is much less than Earth's mass.
+Ceres is the largest object in the main asteroid belt.
+Many smaller asteroids orbit throughout the region.
+Orbital resonances with Jupiter create gaps in the asteroid belt.
+These resonance gaps are known as Kirkwood gaps.
+The asteroid belt contains diverse populations with different compositions.
+
+ASTEROID SIZE
+Asteroids range from tiny fragments to bodies hundreds of kilometers across.
+The largest asteroids are large enough to have approximately rounded shapes.
+Smaller asteroids are often irregular because their gravity is weaker.
+Ceres has a diameter of about 940 kilometers.
+Vesta has a diameter of about 525 kilometers.
+Many asteroids are only a few kilometers or less across.
+Asteroid size affects gravity, surface shape, and geological evolution.
+Larger asteroids can retain more internal heat.
+Smaller asteroids generally cool more rapidly after formation.
+Asteroid sizes are commonly estimated using observations and physical models.
+
+COMPOSITION
+Asteroids are made from different combinations of rock, metal, and carbon-rich material.
+Their compositions reflect different formation environments and histories.
+Some asteroids contain large amounts of silicate minerals.
+Some contain significant metallic iron and nickel.
+Carbon-rich asteroids contain abundant carbon-bearing compounds.
+Water-bearing minerals occur on some asteroid surfaces.
+Asteroids can contain hydrated minerals formed through chemical alteration.
+Spectroscopy helps scientists identify minerals on asteroid surfaces.
+Reflectance spectra can be used to classify asteroid types.
+Composition can vary between different regions of the same asteroid.
+
+ASTEROID TYPES
+Asteroids are commonly grouped into broad spectral classes.
+C-type asteroids are generally carbon-rich and relatively dark.
+S-type asteroids are generally rich in silicate minerals.
+M-type asteroids are associated with metallic compositions.
+Spectral classification is based partly on how asteroid surfaces reflect light.
+Classification does not completely describe an asteroid's internal composition.
+Spacecraft observations can provide more detailed information than remote spectroscopy.
+Some asteroids do not fit neatly into a single traditional class.
+Different asteroid populations are more common at different distances from the Sun.
+Space weathering can alter the appearance of asteroid surfaces.
+Taxonomic systems continue to be refined as observations improve.
+
+ORBITAL PROPERTIES
+Asteroids orbit the Sun according to the laws of celestial mechanics.
+Their orbits can be nearly circular or significantly elliptical.
+Asteroid orbital inclination can vary widely.
+Some asteroids have orbits that cross the paths of planets.
+Gravitational encounters can change asteroid orbits over time.
+Jupiter strongly influences the orbital evolution of many asteroids.
+Planetary resonances can increase or decrease orbital stability.
+Some asteroids become temporarily trapped in unusual orbital configurations.
+Orbital calculations are used to predict future asteroid positions.
+Long-term orbital prediction becomes more difficult when repeated gravitational encounters occur.
+
+NEAR-EARTH ASTEROIDS
+Near-Earth asteroids are asteroids whose orbits bring them relatively close to Earth's orbit.
+Their orbital paths can cross or approach Earth's orbital region.
+Near-Earth objects are monitored because some could potentially impact Earth.
+Most near-Earth asteroids do not pose an immediate threat.
+Astronomers use repeated observations to improve their orbital calculations.
+Radar observations can provide precise information about some nearby asteroids.
+Space-based and ground-based telescopes contribute to asteroid surveys.
+Impact probability depends on an object's orbit, size, and future trajectory.
+New observations can change calculated impact probabilities.
+Monitoring improves the ability to identify potentially hazardous objects.
+
+POTENTIALLY HAZARDOUS ASTEROIDS
+A potentially hazardous asteroid is defined using orbital and size-related criteria.
+Its orbit must come sufficiently close to Earth's orbital region.
+It must also be large enough to be of concern if an impact occurred.
+Potentially hazardous does not mean that an asteroid will hit Earth.
+The designation identifies objects that deserve continued monitoring.
+Astronomers calculate their future trajectories using orbital observations.
+Impact risk can decrease as additional observations reduce orbital uncertainty.
+Some potentially hazardous asteroids have been studied by spacecraft.
+Planetary defense programs maintain catalogs of relevant near-Earth objects.
+Long-term monitoring is important because asteroid orbits can evolve.
+
+ASTEROID COLLISIONS
+Asteroids frequently experience collisions over Solar System timescales.
+Collisions can create craters on asteroid surfaces.
+High-energy impacts can fragment an asteroid into smaller bodies.
+Large collisions can produce families of asteroids with related orbits.
+Asteroid families may originate from a common parent body.
+Fragments from a collision can spread along similar orbital paths.
+Some asteroid families have distinctive compositions.
+Impact events can expose material from deeper inside an asteroid.
+Collisions contribute to the continual evolution of the asteroid population.
+The asteroid belt therefore contains evidence of a long history of impacts.
+
+REGOLITH AND SURFACES
+Regolith is a layer of loose material covering many asteroid surfaces.
+It can contain dust, rock fragments, and impact debris.
+Repeated impacts can break surface material into smaller particles.
+Low gravity allows some impact-generated material to escape an asteroid.
+Electrostatic processes can also move fine surface dust.
+Asteroid surfaces can have large boulders and smooth regions.
+Impact craters are common on many well-observed asteroids.
+Some asteroids have grooves, ridges, fractures, and large depressions.
+Surface properties vary strongly between different asteroid types.
+Spacecraft measurements help scientists understand how asteroid surfaces behave.
+
+ROTATION
+Asteroids rotate around their own axes.
+Rotation periods range from minutes to many hours or longer.
+Irregular shapes can produce complex rotational behavior.
+Very rapid rotation can cause loose surface material to move or escape.
+Some asteroids rotate in a stable state.
+Others can tumble rather than rotate around a single fixed axis.
+Tumbling motion is sometimes called non-principal-axis rotation.
+Collisions and gravitational effects can alter asteroid rotation.
+Measurements of rotation help scientists understand asteroid structure.
+Light curves are commonly used to estimate asteroid rotation periods.
+
+LIGHT CURVES
+An asteroid's brightness changes as it rotates.
+These brightness changes produce a pattern called a light curve.
+An irregular shape can cause periodic brightness variations.
+Light curves can help determine an asteroid's rotation period.
+They can also provide information about its approximate shape.
+Repeated observations improve the reliability of light-curve analysis.
+Brightness changes can also occur because different surface regions reflect different amounts of sunlight.
+Combining light curves with other observations improves shape models.
+Astronomers use photometry to measure asteroid brightness.
+Light-curve analysis is an important remote-sensing technique.
+
+ASTEROID MOONS
+Some asteroids have small natural satellites.
+Asteroid moons can form after collisions or through gravitational capture.
+The presence of a moon can help scientists estimate an asteroid's mass.
+Orbital measurements of a moon can reveal the gravity of its parent asteroid.
+Some asteroid systems contain two or more bodies of comparable size.
+Binary and multiple asteroid systems are scientifically valuable.
+The gravitational environment around small bodies differs greatly from that around planets.
+Asteroid moons can help determine internal density.
+Spacecraft have visited several binary asteroid systems.
+Studying these systems improves models of asteroid formation and evolution.
+
+CERES
+Ceres is the largest object in the main asteroid belt.
+It is classified as a dwarf planet.
+Ceres has a diameter of roughly 940 kilometers.
+It contains a mixture of rock and volatile-rich material.
+Water ice is believed to occur beneath its surface.
+Ceres has a complex and cratered surface.
+Bright deposits are visible inside some impact craters.
+The bright material in Occator Crater contains abundant salts.
+NASA's Dawn spacecraft orbited Ceres and studied its surface and interior.
+Ceres demonstrates the transition between small bodies and fully developed planets.
+
+VESTA
+Vesta is one of the largest bodies in the main asteroid belt.
+It has a diameter of roughly 525 kilometers.
+Vesta is differentiated into crust, mantle, and core-like layers.
+Its surface contains extensive impact features.
+The enormous Rheasilvia basin covers a large region near its south pole.
+Vesta's composition is related to some meteorites found on Earth.
+NASA's Dawn spacecraft visited Vesta before traveling to Ceres.
+Dawn mapped Vesta's surface and studied its composition.
+Vesta provides evidence of substantial geological processing in an asteroid.
+Its history helps scientists study early planetary differentiation.
+
+SPACECRAFT EXPLORATION
+Spacecraft have visited a number of asteroids.
+Close spacecraft observations reveal surface features unavailable from Earth.
+NASA's NEAR Shoemaker orbited and landed on asteroid Eros.
+Japan's Hayabusa mission returned samples from asteroid Itokawa.
+Japan's Hayabusa2 mission returned samples from asteroid Ryugu.
+NASA's OSIRIS-REx collected samples from asteroid Bennu.
+The returned samples allow laboratory analysis of asteroid material.
+NASA's Dawn mission explored Vesta and Ceres.
+NASA's Lucy mission is designed to study Trojan asteroids of Jupiter.
+Asteroid missions improve understanding of composition, geology, and evolution.
+
+ASTEROID SAMPLES
+Sample-return missions provide direct physical material from asteroids.
+Laboratories can analyze asteroid minerals at very high precision.
+Samples can reveal isotopes and chemical compounds.
+Some asteroid samples contain evidence of water-related alteration.
+Organic molecules have been identified in some carbon-rich asteroid materials.
+Sample analysis can test models developed from remote observations.
+Returned material can be preserved for future scientific techniques.
+Asteroid samples help connect meteorites with their parent bodies.
+Laboratory measurements can reveal information unavailable through telescopes alone.
+Sample-return missions are therefore important tools in planetary science.
+
+SCIENTIFIC IMPORTANCE
+Asteroids preserve evidence from the early stages of Solar System formation.
+Their compositions reveal differences between formation environments.
+Asteroid collisions record the history of planetary system evolution.
+Near-Earth asteroids are important for planetary defense.
+Asteroids may contain water and carbon-bearing materials.
+These resources are relevant to future space exploration studies.
+Asteroid surfaces provide natural laboratories for low-gravity geology.
+Asteroid missions test technologies for navigation and autonomous operations.
+Studying asteroids also improves understanding of meteorites found on Earth.
+Asteroids connect planetary science, astronomy, geology, chemistry, and space engineering.
+
+KEY TERMS
+Asteroid: A small rocky or metallic body orbiting the Sun.
+Main asteroid belt: The primary concentration of known asteroids between Mars and Jupiter.
+Near-Earth asteroid: An asteroid whose orbit brings it close to Earth's orbital region.
+Regolith: Loose dust and rock material covering a planetary or asteroid surface.
+Spectroscopy: The study of how matter interacts with electromagnetic radiation.
+Light curve: A record of an object's brightness as a function of time.
+Kirkwood gap: A region of reduced asteroid density caused by orbital resonances with Jupiter.
+Asteroid family: A group of asteroids believed to originate from a common parent body.
+Potentially hazardous asteroid: A near-Earth asteroid meeting specified orbital and size criteria.
+Dwarf planet: A planetary-mass body that orbits the Sun but has not cleared its orbital neighborhood.
