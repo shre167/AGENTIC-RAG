@@ -100,7 +100,7 @@ MODES = {
 
 SEGMENT_TO_MODE = {MODES[key]["segment"]: key for key in MODE_ORDER}
 
-PAGE_MISSION = "Mission Control"
+PAGE_MISSION = "Agentic RAG Control"
 PAGE_CHAT_HISTORY = "Chat History"
 PAGE_LAB = "Retrieval Lab"
 PAGE_OBSERVATION = "Observation & Evaluation"
@@ -116,7 +116,7 @@ NAV_GROUPS = [
         (PAGE_CHAT_HISTORY, ""),
         (PAGE_CHUNKS, ""),
     ]),
-    ("Mission Control", [
+    ("Agentic RAG Control", [
         (PAGE_MISSION, ""),
     ]),
     ("Retrieval", [(PAGE_LAB, "")]),
@@ -1439,7 +1439,7 @@ def _render_ingestion_result(result: dict) -> None:
 
 
 # ============================================================================
-# PAGE  MISSION CONTROL
+# PAGE  AGENTIC RAG CONTROL
 # ============================================================================
 
 def _render_overview_cards(
@@ -1510,7 +1510,7 @@ def _render_mission_control(
     render_html(
         render_page_header(
             "ASTRONOMY OBSERVATORY",
-            "Mission Control",
+            "Agentic RAG Control",
             "Knowledge Intelligence & Retrieval System",
         )
     )
@@ -2035,7 +2035,7 @@ def _render_retrieval_lab(response) -> None:
     if not response:
         st.info(
             " No retrieval trace available.\n\n"
-            "Run a query from Mission Control to inspect the retrieval "
+            "Run a query from Agentic RAG Control to inspect the retrieval "
             "pipeline here."
         )
         return
@@ -3530,7 +3530,7 @@ def _render_architecture_page(
 
     with head[1]:
         render_html(
-            render_arch_node("", "User Query", "Mission Control", "processing")
+            render_arch_node("", "User Query", "Agentic RAG Control", "processing")
         )
         render_html(render_arch_arrow())
         render_html(
@@ -3780,7 +3780,7 @@ def _render_sidebar(
 
 def main() -> None:
     st.set_page_config(
-        page_title="Astronomy Observatory  Mission Control",
+        page_title="Astronomy Observatory  Agentic RAG Control",
         page_icon="",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -3813,7 +3813,7 @@ def main() -> None:
             st.session_state["status_error"],
         )
 
-    # Page dispatch. Only Mission Control can trigger retrieval or
+    # Page dispatch. Only Agentic RAG Control can trigger retrieval or
     # generation; every other page is read-only.
     if page == PAGE_LAB:
         _render_retrieval_lab(st.session_state.last_response)
@@ -4470,7 +4470,7 @@ def _render_chat_history_page(pipeline: RAGPipeline) -> None:
             st.rerun()
 
     if not turns:
-        st.info("No queries have been submitted yet. Go to Mission Control to ask questions about the universe!")
+        st.info("No queries have been submitted yet. Go to Agentic RAG Control to ask questions about the universe!")
         return
 
     filtered_turns = turns

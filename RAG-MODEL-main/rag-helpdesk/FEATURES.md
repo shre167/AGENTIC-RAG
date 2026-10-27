@@ -20,7 +20,7 @@ This means answers are grounded in *your* documents — not hallucinated from me
 
 ```
 Database & History     → Chat History, Database
-Mission Control        → Mission Control  (main Q&A page)
+Agentic RAG Control    → Agentic RAG Control  (main Q&A page)
 Retrieval              → Retrieval Lab
 Knowledge Base         → Ingestion Pipeline
 Evaluation             → Observation & Evaluation, Evaluation Dashboard, Query Comparison
@@ -33,7 +33,7 @@ System                 → System Architecture
 
 ---
 
-### 1. Mission Control
+### 1. Agentic RAG Control
 
 **What it is:** The main question-answering interface.
 
